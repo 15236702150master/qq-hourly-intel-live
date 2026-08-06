@@ -84,6 +84,120 @@
       "is_lowest": true
     },
     {
+      "id": "prd_3810d2bc6fc8",
+      "key": "chatgpt plus账号|plus 账号|未说明|出售|7|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "7",
+      "seller_url": "",
+      "link": "",
+      "price": 10.0,
+      "price_text": "10块",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "称“刚搓的”，后续说已卖出",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 10.0,
+          "price_text": "10块",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "7",
+          "nickname_url": "",
+          "time": "2026-08-07 02:26:25",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_903ce545de8e",
+      "key": "chatgpt plus账号|plus 账号|刚开，荷兰找卡网|出售|绮罗|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "刚开，荷兰找卡网",
+      "direction": "出售",
+      "seller": "绮罗",
+      "seller_url": "",
+      "link": "",
+      "price": 13.0,
+      "price_text": "一个13",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "上下文提到“荷兰找卡网”“都是刚开的”",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 13.0,
+          "price_text": "一个13",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "绮罗",
+          "nickname_url": "",
+          "time": "2026-08-07 02:12:11",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_48c863633f17",
+      "key": "chatgpt plus账号|plus 账号|rt|出售|.|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "RT",
+      "direction": "出售",
+      "seller": ".",
+      "seller_url": "",
+      "link": "",
+      "price": 15.0,
+      "price_text": "plus 15r rt",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "RT 具体含义未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 15.0,
+          "price_text": "plus 15r rt",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": ".",
+          "nickname_url": "",
+          "time": "2026-08-07 02:19:15",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_36ea994e2a1a",
       "key": "chatgpt plus账号|plus账号|未接码 / 苹果邮箱|出售|望舒|",
       "category": "ChatGPT Plus账号",
@@ -119,7 +233,7 @@
           "report_id": "1d3fea639ba0"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_8715618d0c59",
@@ -157,7 +271,7 @@
           "report_id": "1d3fea639ba0"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_cb4c0fae8f21",
@@ -198,6 +312,82 @@
       "is_lowest": false
     },
     {
+      "id": "prd_fe0d3edbb171",
+      "key": "chatgpt plus账号|plus 账号|接码/sub格式不限|收购|昨日你在群内发情，获得男娘标识，去替换|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "接码/SUB格式不限",
+      "direction": "收购",
+      "seller": "昨日你在群内发情，获得男娘标识，去替换",
+      "seller_url": "",
+      "link": "",
+      "price": 9.9,
+      "price_text": "9.9 收 Plus 接不接码 是不是 SUB 格式都行",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "大量收；接码与 SUB 格式均可",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 9.9,
+          "price_text": "9.9 收 Plus 接不接码 是不是 SUB 格式都行",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "昨日你在群内发情，获得男娘标识，去替换",
+          "nickname_url": "",
+          "time": "2026-08-07 02:23:53",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_93306e2610f4",
+      "key": "chatgpt plus账号|plus 账号|未接码|收购|偷点薯条|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "偷点薯条",
+      "seller_url": "",
+      "link": "",
+      "price": 12.0,
+      "price_text": "12r收未接码",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "收购价；数量未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.0,
+          "price_text": "12r收未接码",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-07 02:20:12",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_59c9d41efe85",
       "key": "chatgpt plus账号|plus账号|收50个|收购|s.|",
       "category": "ChatGPT Plus账号",
@@ -233,7 +423,7 @@
           "report_id": "5f6adf521de7"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_92b3289006c6",
@@ -271,7 +461,7 @@
           "report_id": "1d3fea639ba0"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_ec4a491adff8",
@@ -5540,6 +5730,82 @@
       "is_lowest": true
     },
     {
+      "id": "prd_7c8e2c189439",
+      "key": "扫码服务|荷兰扫码|单次|服务报价|123|",
+      "category": "扫码服务",
+      "name": "荷兰扫码",
+      "variant": "单次",
+      "direction": "服务报价",
+      "seller": "123",
+      "seller_url": "",
+      "link": "",
+      "price": 6.0,
+      "price_text": "6 左右",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "夜间仍有人反馈可提；是否到账保障未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 6.0,
+          "price_text": "6 左右",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "123",
+          "nickname_url": "",
+          "time": "2026-08-07 02:30:47",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_eef49a5e60ff",
+      "key": "扫码服务|菲律宾扫码|批量|服务报价|菲律宾扫码单价7批量6|",
+      "category": "扫码服务",
+      "name": "菲律宾扫码",
+      "variant": "批量",
+      "direction": "服务报价",
+      "seller": "菲律宾扫码单价7批量6",
+      "seller_url": "",
+      "link": "",
+      "price": 6.0,
+      "price_text": "批量6",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "批量价；批量起订量未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 6.0,
+          "price_text": "批量6",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "菲律宾扫码单价7批量6",
+          "nickname_url": "",
+          "time": "2026-08-07 02:43:07",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_06fa8ea2553f",
       "key": "扫码服务|gc扫码|未说明|服务报价|.|",
       "category": "扫码服务",
@@ -5611,6 +5877,44 @@
           "nickname_url": "",
           "time": "2026-08-06 17:21:39",
           "report_id": "08df352c869a"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_54f25637de79",
+      "key": "扫码服务|菲律宾扫码|单次|服务报价|菲律宾扫码单价7批量6|",
+      "category": "扫码服务",
+      "name": "菲律宾扫码",
+      "variant": "单次",
+      "direction": "服务报价",
+      "seller": "菲律宾扫码单价7批量6",
+      "seller_url": "",
+      "link": "",
+      "price": 7.0,
+      "price_text": "菲律宾扫码单价7",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "昵称即报价；具体到账规则未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 7.0,
+          "price_text": "菲律宾扫码单价7",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "菲律宾扫码单价7批量6",
+          "nickname_url": "",
+          "time": "2026-08-07 02:43:07",
+          "report_id": "f5ed3f3b3eb7"
         }
       ],
       "is_lowest": false
@@ -5844,6 +6148,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_2707847f2c3d",
+      "key": "提链服务|提链服务|单次|服务报价|起凡|https://tilianlink.uzm.ccwu.cc/",
+      "category": "提链服务",
+      "name": "提链服务",
+      "variant": "单次",
+      "direction": "服务报价",
+      "seller": "起凡",
+      "seller_url": "",
+      "link": "https://tilianlink.uzm.ccwu.cc/",
+      "price": 0.5,
+      "price_text": "0.5元一次",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "提链页面服务；具体支持渠道未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.5,
+          "price_text": "0.5元一次",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "起凡",
+          "nickname_url": "",
+          "time": "2026-08-07 02:04:21",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_c5f80782d4c6",
       "key": "支付代操作服务|pp 代过服务|包接码|服务报价|凌阚|",
       "category": "支付代操作服务",
@@ -5877,6 +6219,44 @@
           "nickname_url": "",
           "time": "2026-08-06 16:38:28",
           "report_id": "4c9752679811"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_fd9d382196b4",
+      "key": "电子钱包账号|gcash 账号|未接码，30个起|出售|v https://pay.ldxp.cn/item/qy20yo|https://pay.ldxp.cn/item/qy20yo",
+      "category": "电子钱包账号",
+      "name": "GCash 账号",
+      "variant": "未接码，30个起",
+      "direction": "出售",
+      "seller": "V https://pay.ldxp.cn/item/qy20yo",
+      "seller_url": "https://pay.ldxp.cn/item/qy20yo",
+      "link": "https://pay.ldxp.cn/item/qy20yo",
+      "price": 16.0,
+      "price_text": "gcash 16r 未接码 30 个 小铺拿",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未接码；30个起拿",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 16.0,
+          "price_text": "gcash 16r 未接码 30 个 小铺拿",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "V https://pay.ldxp.cn/item/qy20yo",
+          "nickname_url": "https://pay.ldxp.cn/item/qy20yo",
+          "time": "2026-08-07 02:12:26",
+          "report_id": "f5ed3f3b3eb7"
         }
       ],
       "is_lowest": true
@@ -6312,6 +6692,96 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_f2e4eab11b78",
+      "key": "邮箱注册机|邮箱注册机|未说明|出售|san.monsieur|",
+      "category": "邮箱注册机",
+      "name": "邮箱注册机",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "San.Monsieur",
+      "seller_url": "",
+      "link": "",
+      "price": 587.0,
+      "price_text": "我587卖你",
+      "currency": "CNY",
+      "unit": "套",
+      "details": "上下文为“邮箱注册机”；是否永久授权未说明",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 2,
+      "price_history": [
+        {
+          "price": 600.0,
+          "price_text": "600",
+          "currency": "CNY",
+          "unit": "套",
+          "seen_at": "2026-08-07 03:02:33"
+        },
+        {
+          "price": 587.0,
+          "price_text": "我587卖你",
+          "currency": "CNY",
+          "unit": "套",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "San.Monsieur",
+          "nickname_url": "",
+          "time": "2026-08-07 02:58:33",
+          "report_id": "f5ed3f3b3eb7"
+        },
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "San.Monsieur",
+          "nickname_url": "",
+          "time": "2026-08-07 02:59:48",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_45d0b2f17815",
+      "key": "邮箱注册机|邮箱注册机|未说明|出售|sg|",
+      "category": "邮箱注册机",
+      "name": "邮箱注册机",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "Sg",
+      "seller_url": "",
+      "link": "",
+      "price": 588.0,
+      "price_text": "我588卖你",
+      "currency": "CNY",
+      "unit": "套",
+      "details": "与上条为同类不同卖家报价",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 588.0,
+          "price_text": "我588卖你",
+          "currency": "CNY",
+          "unit": "套",
+          "seen_at": "2026-08-07 03:02:33"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "Sg",
+          "nickname_url": "",
+          "time": "2026-08-07 02:59:39",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_5726a8416588",
