@@ -1,6 +1,51 @@
 {
   "topics": [
     {
+      "name": "支付/提取站点",
+      "count": 1,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "GCash扫码",
+      "count": 1,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "卡网",
+      "count": 2,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "提链工具",
+      "count": 1,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "接码平台",
+      "count": 1,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "邮箱工具",
+      "count": 2,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "直卡检测",
+      "count": 1,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "商品页",
+      "count": 1,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
+      "name": "可疑/戏谑文件",
+      "count": 2,
+      "updated_at": "2026-08-07 03:02:33"
+    },
+    {
       "name": "货源店铺",
       "count": 2,
       "updated_at": "2026-08-07 02:01:45"
@@ -51,18 +96,8 @@
       "updated_at": "2026-08-06 23:05:57"
     },
     {
-      "name": "GCash扫码",
-      "count": 1,
-      "updated_at": "2026-08-06 23:05:57"
-    },
-    {
       "name": "GCash提链与扫码",
       "count": 1,
-      "updated_at": "2026-08-06 23:05:57"
-    },
-    {
-      "name": "卡网",
-      "count": 2,
       "updated_at": "2026-08-06 23:05:57"
     },
     {
@@ -89,11 +124,6 @@
       "name": "API配置文件",
       "count": 1,
       "updated_at": "2026-08-06 23:05:57"
-    },
-    {
-      "name": "支付/提取站点",
-      "count": 1,
-      "updated_at": "2026-08-06 22:02:33"
     },
     {
       "name": "IC邮箱入口",
@@ -360,8 +390,8 @@
       "purpose": "群内用于讨论153链提取、支付页生成与地区测试的入口",
       "notes": "用途细节未说明；仅确认群内称站点已恢复",
       "first_seen": "2026-08-06 17:02:21",
-      "last_seen": "2026-08-06 22:02:33",
-      "mentions": 4,
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 5,
       "sources": [
         {
           "group": "小脑虎 GPT 技术交流群",
@@ -390,6 +420,13 @@
           "nickname_url": "",
           "time": "2026-08-06 21:01:20",
           "report_id": "cd554f40216d"
+        },
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "Linus",
+          "nickname_url": "",
+          "time": "2026-08-07 02:14:11",
+          "report_id": "f5ed3f3b3eb7"
         }
       ]
     },
@@ -909,8 +946,8 @@
       "purpose": "GCash 扫码相关页面，用于Kakao/GCash扫码流程",
       "notes": "发布者口头报价 0.9U/次，并提醒“只提供分享”“不是全都有效”",
       "first_seen": "2026-08-06 21:06:12",
-      "last_seen": "2026-08-06 23:05:57",
-      "mentions": 3,
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 4,
       "sources": [
         {
           "group": "ai交流群002",
@@ -932,6 +969,13 @@
           "nickname_url": "",
           "time": "2026-08-06 22:14:07",
           "report_id": "e156daa05305"
+        },
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-07 02:01:12",
+          "report_id": "f5ed3f3b3eb7"
         }
       ]
     },
@@ -1099,8 +1143,8 @@
       "purpose": "购买支付卡/相关支付商品",
       "notes": "群内直接标注为 ldxp 卡网",
       "first_seen": "2026-08-06 23:05:57",
-      "last_seen": "2026-08-06 23:05:57",
-      "mentions": 1,
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 2,
       "sources": [
         {
           "group": "小脑虎 GPT 技术交流群",
@@ -1108,6 +1152,13 @@
           "nickname_url": "",
           "time": "2026-08-06 22:14:07",
           "report_id": "e156daa05305"
+        },
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-07 02:01:12",
+          "report_id": "f5ed3f3b3eb7"
         }
       ]
     },
@@ -1121,8 +1172,8 @@
       "purpose": "购买 USDT 卡类商品",
       "notes": "群内直接标注为 usdt卡网",
       "first_seen": "2026-08-06 23:05:57",
-      "last_seen": "2026-08-06 23:05:57",
-      "mentions": 1,
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 2,
       "sources": [
         {
           "group": "小脑虎 GPT 技术交流群",
@@ -1130,6 +1181,13 @@
           "nickname_url": "",
           "time": "2026-08-06 22:14:07",
           "report_id": "e156daa05305"
+        },
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-07 02:01:12",
+          "report_id": "f5ed3f3b3eb7"
         }
       ]
     },
@@ -1440,8 +1498,184 @@
           "report_id": "5f6adf521de7"
         }
       ]
+    },
+    {
+      "id": "res_121fea11d6e1",
+      "key": "https://tilianlink.uzm.ccwu.cc/",
+      "topic": "提链工具",
+      "title": "提链页面",
+      "url": "https://tilianlink.uzm.ccwu.cc/",
+      "file_name": "",
+      "purpose": "支付链接提取/提交页面",
+      "notes": "群内配套报价为 0.5 元/次",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "起凡",
+          "nickname_url": "",
+          "time": "2026-08-07 02:04:12",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_2b3edbb1a118",
+      "key": "https://lubansms.com/",
+      "topic": "接码平台",
+      "title": "LubanSMS",
+      "url": "https://lubansms.com/",
+      "file_name": "",
+      "purpose": "短信接码平台入口",
+      "notes": "群内用于推荐接码渠道",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "a＇ゞ小S",
+          "nickname_url": "",
+          "time": "2026-08-07 02:19:38",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_56bf8b83f2f2",
+      "key": "邮箱工具|批量注册ic邮箱源码全协议开源.zip|批量注册ic邮箱源码全协议开源",
+      "topic": "邮箱工具",
+      "title": "批量注册ic邮箱源码全协议开源",
+      "url": "",
+      "file_name": "批量注册ic邮箱源码全协议开源.zip",
+      "purpose": "批量注册 iCloud 邮箱的源码包",
+      "notes": "是否真实开源未核验",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "a＇ゞ小S",
+          "nickname_url": "",
+          "time": "2026-08-07 02:52:43",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_1db2c4e22d60",
+      "key": "邮箱工具|批量注册ic邮箱源码+提链+支付全协议开源.zip|批量注册ic邮箱源码+提链+支付全协议开源",
+      "topic": "邮箱工具",
+      "title": "批量注册ic邮箱源码+提链+支付全协议开源",
+      "url": "",
+      "file_name": "批量注册ic邮箱源码+提链+支付全协议开源.zip",
+      "purpose": "批量注册 iCloud 邮箱并包含提链、支付协议相关代码",
+      "notes": "真实性未核验",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "San.Monsieur",
+          "nickname_url": "",
+          "time": "2026-08-07 02:53:56",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_8af158f77267",
+      "key": "直卡检测||直卡检测站",
+      "topic": "直卡检测",
+      "title": "直卡检测站",
+      "url": "",
+      "file_name": "",
+      "purpose": "检测直卡/CDK 是否可用",
+      "notes": "消息中同时附了多组测试 CDK",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "plus 直卡提炼",
+          "nickname_url": "",
+          "time": "2026-08-07 02:54:14",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_919745c3619c",
+      "key": "https://pay.ldxp.cn/item/w3ujp7",
+      "topic": "商品页",
+      "title": "IC 邮箱商品页",
+      "url": "https://pay.ldxp.cn/item/w3ujp7",
+      "file_name": "",
+      "purpose": "IC 邮箱商品/下单页面",
+      "notes": "群内直接说明“ic邮箱啊”",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-07 02:40:05",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_39bb1a16e375",
+      "key": "可疑/戏谑文件|0成本无限plus源码.zip|0成本无限plus源码",
+      "topic": "可疑/戏谑文件",
+      "title": "0成本无限plus源码",
+      "url": "",
+      "file_name": "0成本无限plus源码.zip",
+      "purpose": "声称与无限 Plus 相关的源码包",
+      "notes": "高风险命名，真实性低，建议仅归档不信任",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "a'ゞ南笙",
+          "nickname_url": "",
+          "time": "2026-08-07 02:53:40",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
+    },
+    {
+      "id": "res_4da138d316a5",
+      "key": "可疑/戏谑文件|自动增加支付宝余额.zip|自动增加支付宝余额",
+      "topic": "可疑/戏谑文件",
+      "title": "自动增加支付宝余额",
+      "url": "",
+      "file_name": "自动增加支付宝余额.zip",
+      "purpose": "文件名声称可增加支付宝余额",
+      "notes": "明显高风险/疑似戏谑文件",
+      "first_seen": "2026-08-07 03:02:33",
+      "last_seen": "2026-08-07 03:02:33",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "s1eep",
+          "nickname_url": "",
+          "time": "2026-08-07 02:53:46",
+          "report_id": "f5ed3f3b3eb7"
+        }
+      ]
     }
   ],
-  "resource_count": 53,
-  "product_count": 166
+  "resource_count": 61,
+  "product_count": 178
 }
