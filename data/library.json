@@ -1,6 +1,26 @@
 {
   "topics": [
     {
+      "name": "IC邮箱店铺",
+      "count": 2,
+      "updated_at": "2026-08-07 04:02:17"
+    },
+    {
+      "name": "IC邮箱注册",
+      "count": 1,
+      "updated_at": "2026-08-07 04:02:17"
+    },
+    {
+      "name": "自动注册",
+      "count": 1,
+      "updated_at": "2026-08-07 04:02:17"
+    },
+    {
+      "name": "ChatGPT Plus 自助开通",
+      "count": 1,
+      "updated_at": "2026-08-07 04:02:17"
+    },
+    {
       "name": "支付/提取站点",
       "count": 1,
       "updated_at": "2026-08-07 03:02:33"
@@ -128,11 +148,6 @@
     {
       "name": "IC邮箱入口",
       "count": 1,
-      "updated_at": "2026-08-06 22:02:33"
-    },
-    {
-      "name": "IC邮箱店铺",
-      "count": 2,
       "updated_at": "2026-08-06 22:02:33"
     },
     {
@@ -1030,11 +1045,11 @@
       "title": "I7ISDJ 店铺",
       "url": "https://pay.ldxp.cn/shop/I7ISDJ",
       "file_name": "",
-      "purpose": "IC邮箱与4513卡头相关店铺入口",
+      "purpose": "用于查看/购买昵称所示的“014 ic邮箱、4513卡头”相关商品",
       "notes": "昵称与店铺链接绑定出现，具体商品需进店查看",
       "first_seen": "2026-08-06 22:02:33",
-      "last_seen": "2026-08-06 22:02:33",
-      "mentions": 1,
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 2,
       "sources": [
         {
           "group": "小脑虎 GPT 技术交流群",
@@ -1042,6 +1057,13 @@
           "nickname_url": "https://pay.ldxp.cn/shop/I7ISDJ",
           "time": "2026-08-06 21:43:51",
           "report_id": "cd554f40216d"
+        },
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "廿一 014ic邮箱4513卡头 https://pay.ldxp.cn/shop/I7ISDJ",
+          "nickname_url": "https://pay.ldxp.cn/shop/I7ISDJ",
+          "time": "2026-08-07 03:01:18",
+          "report_id": "1745da7d52da"
         }
       ]
     },
@@ -1674,8 +1696,74 @@
           "report_id": "f5ed3f3b3eb7"
         }
       ]
+    },
+    {
+      "id": "res_416c82b0c7e4",
+      "key": "IC邮箱注册|ic邮箱注册机焚决.docx|ic邮箱注册机焚决",
+      "topic": "IC邮箱注册",
+      "title": "ic邮箱注册机焚决",
+      "url": "",
+      "file_name": "ic邮箱注册机焚决.docx",
+      "purpose": "IC 邮箱注册机相关教程/说明文档",
+      "notes": "仅见文件名，具体内容未打开",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "2",
+          "nickname_url": "",
+          "time": "2026-08-07 03:16:24",
+          "report_id": "1745da7d52da"
+        }
+      ]
+    },
+    {
+      "id": "res_a314aa3bb16a",
+      "key": "自动注册||turb-gpt-free-register",
+      "topic": "自动注册",
+      "title": "turb-gpt-free-register",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内提到的开源注册机/自动注册项目名，可用于继续检索仓库或二次开发",
+      "notes": "未提供具体仓库链接",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-07 03:45:32",
+          "report_id": "1745da7d52da"
+        }
+      ]
+    },
+    {
+      "id": "res_da02af4f6414",
+      "key": "https://chatgpt.com",
+      "topic": "ChatGPT Plus 自助开通",
+      "title": "ChatGPT 官方入口",
+      "url": "https://chatgpt.com",
+      "file_name": "",
+      "purpose": "自助充值开通 Plus",
+      "notes": "群内口头说法为“充20刀进去就有plus”",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "s1eep",
+          "nickname_url": "",
+          "time": "2026-08-07 03:08:06",
+          "report_id": "1745da7d52da"
+        }
+      ]
     }
   ],
-  "resource_count": 61,
-  "product_count": 178
+  "resource_count": 64,
+  "product_count": 196
 }
