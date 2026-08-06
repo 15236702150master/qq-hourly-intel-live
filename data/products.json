@@ -882,6 +882,44 @@
       "is_lowest": false
     },
     {
+      "id": "prd_a45763121029",
+      "key": "chatgpt plus账号|plus 账号|已接码|收购|时空旅人|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "已接码",
+      "direction": "收购",
+      "seller": "时空旅人",
+      "seller_url": "",
+      "link": "",
+      "price": 12.0,
+      "price_text": "12",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "买家收购需求；先发“收一个plus已接码”，后补明确价 12",
+      "first_seen": "2026-08-07 05:01:28",
+      "last_seen": "2026-08-07 05:01:28",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.0,
+          "price_text": "12",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 05:01:28"
+        }
+      ],
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "时空旅人",
+          "nickname_url": "",
+          "time": "2026-08-07 04:42:45",
+          "report_id": "6dcffbc60c40"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_59c9d41efe85",
       "key": "chatgpt plus账号|plus账号|收50个|收购|s.|",
       "category": "ChatGPT Plus账号",
@@ -6827,6 +6865,158 @@
           "nickname_url": "",
           "time": "2026-08-06 16:38:28",
           "report_id": "4c9752679811"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_21eacb22594e",
+      "key": "支付通道扫码服务|荷兰扫码|荷兰/ideal|服务报价|大脑虎|",
+      "category": "支付通道扫码服务",
+      "name": "荷兰扫码",
+      "variant": "荷兰/iDEAL",
+      "direction": "服务报价",
+      "seller": "大脑虎",
+      "seller_url": "",
+      "link": "",
+      "price": 6.0,
+      "price_text": "6块扫",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "称“荷兰开闸了”，可做扫码；未说明是否包过、单次还是单码",
+      "first_seen": "2026-08-07 05:01:28",
+      "last_seen": "2026-08-07 05:01:28",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 6.0,
+          "price_text": "6块扫",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 05:01:28"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-07 04:44:06",
+          "report_id": "6dcffbc60c40"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_c06e335e5ea5",
+      "key": "未说明账号/号码|rt|10个打包|出售|xinshijie|",
+      "category": "未说明账号/号码",
+      "name": "RT",
+      "variant": "10个打包",
+      "direction": "出售",
+      "seller": "xinshijie",
+      "seller_url": "",
+      "link": "",
+      "price": 13.0,
+      "price_text": "13r出10个rt",
+      "currency": "CNY",
+      "unit": "10个",
+      "details": "仅提到“rt”，未说明具体是什么账号/资源",
+      "first_seen": "2026-08-07 05:01:28",
+      "last_seen": "2026-08-07 05:01:28",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 13.0,
+          "price_text": "13r出10个rt",
+          "currency": "CNY",
+          "unit": "10个",
+          "seen_at": "2026-08-07 05:01:28"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "xinshijie",
+          "nickname_url": "",
+          "time": "2026-08-07 04:57:39",
+          "report_id": "6dcffbc60c40"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_cc33998d83b0",
+      "key": "未说明账号/号码|未说明号码/账号|未说明|出售|绮罗|",
+      "category": "未说明账号/号码",
+      "name": "未说明号码/账号",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "绮罗",
+      "seller_url": "",
+      "link": "",
+      "price": 12.0,
+      "price_text": "还是12",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "称“还有四个有人收吗”，后报价“还是12”；具体商品类型未说明",
+      "first_seen": "2026-08-07 05:01:28",
+      "last_seen": "2026-08-07 05:01:28",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.0,
+          "price_text": "还是12",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 05:01:28"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "绮罗",
+          "nickname_url": "",
+          "time": "2026-08-07 04:37:36",
+          "report_id": "6dcffbc60c40"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_1e1c613975ea",
+      "key": "未说明账号/号码|未说明号码/账号|未说明|收购|未说明（群主）|",
+      "category": "未说明账号/号码",
+      "name": "未说明号码/账号",
+      "variant": "未说明",
+      "direction": "收购",
+      "seller": "未说明（群主）",
+      "seller_url": "",
+      "link": "",
+      "price": 10.0,
+      "price_text": "刚10块收了群主的了",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "成交反馈；商品类型未说明，卖家仅知为群主",
+      "first_seen": "2026-08-07 05:01:28",
+      "last_seen": "2026-08-07 05:01:28",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 10.0,
+          "price_text": "刚10块收了群主的了",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 05:01:28"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-07 04:31:01",
+          "report_id": "6dcffbc60c40"
         }
       ],
       "is_lowest": true
