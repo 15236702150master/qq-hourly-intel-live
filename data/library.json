@@ -1,0 +1,1332 @@
+﻿{
+    "topics":  [
+                   {
+                       "name":  "中转站入口",
+                       "count":  2,
+                       "updated_at":  "2026-08-06 16:38:18"
+                   },
+                   {
+                       "name":  "支付/UPI",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "货源店铺",
+                       "count":  2,
+                       "updated_at":  "2026-08-07 00:02:24"
+                   },
+                   {
+                       "name":  "支付/提取站点",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 22:02:33"
+                   },
+                   {
+                       "name":  "临时教学",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 17:02:21"
+                   },
+                   {
+                       "name":  "邮箱接码",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 17:02:21"
+                   },
+                   {
+                       "name":  "群入口",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 17:02:21"
+                   },
+                   {
+                       "name":  "支付/提链入口",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 18:03:04"
+                   },
+                   {
+                       "name":  "Plus 状态查看",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 18:03:04"
+                   },
+                   {
+                       "name":  "Claude 接入教程",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 18:03:04"
+                   },
+                   {
+                       "name":  "文本文件",
+                       "count":  2,
+                       "updated_at":  "2026-08-06 18:03:04"
+                   },
+                   {
+                       "name":  "K12成品与JSON货盘",
+                       "count":  9,
+                       "updated_at":  "2026-08-06 20:16:32"
+                   },
+                   {
+                       "name":  "Plus成品号货盘",
+                       "count":  5,
+                       "updated_at":  "2026-08-06 20:16:32"
+                   },
+                   {
+                       "name":  "GCash支付链路",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 21:06:12"
+                   },
+                   {
+                       "name":  "GCash扫码",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "OpenAI结账",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 21:06:12"
+                   },
+                   {
+                       "name":  "IC邮箱入口",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 22:02:33"
+                   },
+                   {
+                       "name":  "IC邮箱店铺",
+                       "count":  2,
+                       "updated_at":  "2026-08-06 22:02:33"
+                   },
+                   {
+                       "name":  "新上架店铺",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 22:02:33"
+                   },
+                   {
+                       "name":  "论文提炼提示词",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 22:02:33"
+                   },
+                   {
+                       "name":  "GCash提链与扫码",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "卡网",
+                       "count":  2,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "API文档",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "渠道入口",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "中转站",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "提链教程",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "API配置文件",
+                       "count":  1,
+                       "updated_at":  "2026-08-06 23:05:57"
+                   },
+                   {
+                       "name":  "GCash开通教程",
+                       "count":  1,
+                       "updated_at":  "2026-08-07 00:02:24"
+                   },
+                   {
+                       "name":  "扫码群入口",
+                       "count":  2,
+                       "updated_at":  "2026-08-07 00:02:24"
+                   },
+                   {
+                       "name":  "支付测试链接",
+                       "count":  1,
+                       "updated_at":  "2026-08-07 00:02:24"
+                   },
+                   {
+                       "name":  "工具/看板",
+                       "count":  1,
+                       "updated_at":  "2026-08-07 00:02:24"
+                   }
+               ],
+    "resources":  [
+                      {
+                          "id":  "res_20459c28ee24",
+                          "key":  "https://worldclawpro.ai",
+                          "topic":  "中转站入口",
+                          "title":  "worldclawpro 中转站",
+                          "url":  "https://worldclawpro.ai",
+                          "file_name":  "",
+                          "purpose":  "群内作为中转站入口使用",
+                          "notes":  "群管家欢迎语直接推送",
+                          "first_seen":  "2026-08-06 16:38:18",
+                          "last_seen":  "2026-08-06 16:38:18",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "世界利爪pro～worldclawpro",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:30:39",
+                                              "report_id":  "593e748f2a37"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_b4931cee7631",
+                          "key":  "https://zk.worldclawpro.ai",
+                          "topic":  "中转站入口",
+                          "title":  "zk.worldclawpro.ai",
+                          "url":  "https://zk.worldclawpro.ai",
+                          "file_name":  "",
+                          "purpose":  "群内被点名使用的 worldclawpro 相关站点",
+                          "notes":  "具体功能未说明",
+                          "first_seen":  "2026-08-06 16:38:18",
+                          "last_seen":  "2026-08-06 16:38:18",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "世界利爪pro～worldclawpro",
+                                              "nickname":  "大老板",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:14:43",
+                                              "report_id":  "593e748f2a37"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_a828825b280e",
+                          "key":  "https://1key.pw/upi",
+                          "topic":  "支付/UPI",
+                          "title":  "1key UPI 入口",
+                          "url":  "https://1key.pw/upi",
+                          "file_name":  "",
+                          "purpose":  "群内作为可直接打开的 UPI 相关页面分享，疑似用于支付跳转或提链测试",
+                          "notes":  "是否提供 API 存在争议",
+                          "first_seen":  "2026-08-06 16:38:18",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  4,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "皮蛋",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:19:57",
+                                              "report_id":  "593e748f2a37"
+                                          },
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "A.X.A",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:25:47",
+                                              "report_id":  "08df352c869a"
+                                          },
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "半只烤鸭",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 20:12:38",
+                                              "report_id":  "362dfff9ec91"
+                                          },
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "皮蛋",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:49:57",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_ce2222a03ba1",
+                          "key":  "https://pay.ldxp.cn/shop/xt123",
+                          "topic":  "货源店铺",
+                          "title":  "0.01 特价货源店铺",
+                          "url":  "https://pay.ldxp.cn/shop/xt123",
+                          "file_name":  "",
+                          "purpose":  "进入群内反复推送的低价货源商店，查看0.01特价商品与其他上架货",
+                          "notes":  "具体商品需进店查看",
+                          "first_seen":  "2026-08-06 16:38:18",
+                          "last_seen":  "2026-08-07 00:02:24",
+                          "mentions":  6,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:33:15",
+                                              "report_id":  "593e748f2a37"
+                                          },
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:33:15",
+                                              "report_id":  "4c9752679811"
+                                          },
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:06:30",
+                                              "report_id":  "08df352c869a"
+                                          },
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 21:39:08",
+                                              "report_id":  "cd554f40216d"
+                                          },
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:03:14",
+                                              "report_id":  "e156daa05305"
+                                          },
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Q群管家",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 23:49:05",
+                                              "report_id":  "1d3fea639ba0"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_02fe9494ffed",
+                          "key":  "https://pay.ldxp.cn/shop/uoz61pr9",
+                          "topic":  "货源店铺",
+                          "title":  "pay.ldxp 店铺 UOZ61PR9",
+                          "url":  "https://pay.ldxp.cn/shop/UOZ61PR9",
+                          "file_name":  "",
+                          "purpose":  "群内转发的货源店铺链接",
+                          "notes":  "具体品类未说明",
+                          "first_seen":  "2026-08-06 16:38:18",
+                          "last_seen":  "2026-08-06 16:38:18",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "海海绵宝宝",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:23:34",
+                                              "report_id":  "593e748f2a37"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_9e3e333e4d6d",
+                          "key":  "https://pay.153.ink/",
+                          "topic":  "支付/提取站点",
+                          "title":  "153 站点入口",
+                          "url":  "https://pay.153.ink/",
+                          "file_name":  "",
+                          "purpose":  "群内用于讨论153链提取、支付页生成与地区测试的入口",
+                          "notes":  "用途细节未说明；仅确认群内称站点已恢复",
+                          "first_seen":  "2026-08-06 17:02:21",
+                          "last_seen":  "2026-08-06 22:02:33",
+                          "mentions":  4,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "默默",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:42:16",
+                                              "report_id":  "4c9752679811"
+                                          },
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "W.",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:10:23",
+                                              "report_id":  "08df352c869a"
+                                          },
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "渐月",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 20:55:01",
+                                              "report_id":  "362dfff9ec91"
+                                          },
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "24680",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 21:01:20",
+                                              "report_id":  "cd554f40216d"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_49ca9c0bbf22",
+                          "key":  "https://meeting.tencent.com/dm/fpgyql15uce6",
+                          "topic":  "临时教学",
+                          "title":  "腾讯会议直播演示链接",
+                          "url":  "https://meeting.tencent.com/dm/FpGYql15UCe6",
+                          "file_name":  "",
+                          "purpose":  "群内临时开会演示操作步骤",
+                          "notes":  "会议号 978-344-934；时效性强",
+                          "first_seen":  "2026-08-06 17:02:21",
+                          "last_seen":  "2026-08-06 17:02:21",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "皮蛋",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:38:55",
+                                              "report_id":  "4c9752679811"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_d4de9b5557a0",
+                          "key":  "https://flysms.xyz/icloud/pickup#email",
+                          "topic":  "邮箱接码",
+                          "title":  "飞龙小铺 iCloud 邮箱取码页",
+                          "url":  "https://flysms.xyz/icloud/pickup#email",
+                          "file_name":  "",
+                          "purpose":  "用于查看/提取邮箱验证码",
+                          "notes":  "群内同时有人反馈“又接不到码了”",
+                          "first_seen":  "2026-08-06 17:02:21",
+                          "last_seen":  "2026-08-06 17:02:21",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "凌阚",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:56:07",
+                                              "report_id":  "4c9752679811"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_f54e57240502",
+                          "key":  "群入口||ai漫剧 归虚出品方",
+                          "topic":  "群入口",
+                          "title":  "AI漫剧 归虚出品方",
+                          "url":  "",
+                          "file_name":  "",
+                          "purpose":  "QQ群二维码图片所示群入口",
+                          "notes":  "图片识别到群号 921351817",
+                          "first_seen":  "2026-08-06 17:02:21",
+                          "last_seen":  "2026-08-06 17:02:21",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "阿星",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 16:54:20",
+                                              "report_id":  "4c9752679811"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_594051821c1f",
+                          "key":  "https://oaipay.12001234.xyz/",
+                          "topic":  "支付/提链入口",
+                          "title":  "oaipay 聚合支付站",
+                          "url":  "https://oaipay.12001234.xyz/",
+                          "file_name":  "",
+                          "purpose":  "群内称为集合多个国家支付方式的站点入口",
+                          "notes":  "仅见群聊口头说明，稳定性和适用范围未确认",
+                          "first_seen":  "2026-08-06 18:03:04",
+                          "last_seen":  "2026-08-06 18:03:04",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "皮蛋",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:01:21",
+                                              "report_id":  "08df352c869a"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_8734e5db192e",
+                          "key":  "https://plus123.149-88-71-215.sslip.io/",
+                          "topic":  "Plus 状态查看",
+                          "title":  "plus123 页面",
+                          "url":  "https://plus123.149-88-71-215.sslip.io/",
+                          "file_name":  "",
+                          "purpose":  "用于查看 Plus 页面标签与价格信息",
+                          "notes":  "群内明确让用户“打开这个网站”“点击这里可以看到价格”",
+                          "first_seen":  "2026-08-06 18:03:04",
+                          "last_seen":  "2026-08-06 18:03:04",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:15:50",
+                                              "report_id":  "08df352c869a"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_c5d24aa52013",
+                          "key":  "Claude 接入教程||ccswitch 教程",
+                          "topic":  "Claude 接入教程",
+                          "title":  "ccswitch 教程",
+                          "url":  "",
+                          "file_name":  "",
+                          "purpose":  "用于学习 Claude API key 的接入与使用",
+                          "notes":  "群内仅给出教程名称，未附具体链接",
+                          "first_seen":  "2026-08-06 18:03:04",
+                          "last_seen":  "2026-08-06 18:03:04",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "采蘑菇的小客服",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:38:35",
+                                              "report_id":  "08df352c869a"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_8f7ca83a0433",
+                          "key":  "文本文件|access_tokens_20260806_165754.txt|access_tokens_20260806_165754.txt",
+                          "topic":  "文本文件",
+                          "title":  "access_tokens_20260806_165754.txt",
+                          "url":  "",
+                          "file_name":  "access_tokens_20260806_165754.txt",
+                          "purpose":  "从文件名判断为访问令牌集合文本",
+                          "notes":  "未见可靠用途说明；内容未核实",
+                          "first_seen":  "2026-08-06 18:03:04",
+                          "last_seen":  "2026-08-06 18:03:04",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "z",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:18:05",
+                                              "report_id":  "08df352c869a"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_738975a6d334",
+                          "key":  "文本文件|at(青纳).txt|at(青纳).txt",
+                          "topic":  "文本文件",
+                          "title":  "AT(青纳).txt",
+                          "url":  "",
+                          "file_name":  "AT(青纳).txt",
+                          "purpose":  "从文件名判断为 AT/令牌类文本",
+                          "notes":  "未见用途说明；内容未核实",
+                          "first_seen":  "2026-08-06 18:03:04",
+                          "last_seen":  "2026-08-06 18:03:04",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "青纳_iiivan",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 17:18:46",
+                                              "report_id":  "08df352c869a"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_0bdfe84a6c45",
+                          "key":  "https://pay.ldxp.cn/item/sgql4o",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "谷歌空间 K12 成品 JSON 默认 sub2api 格式发货",
+                          "url":  "https://pay.ldxp.cn/item/sgql4o",
+                          "file_name":  "",
+                          "purpose":  "购买K12成品JSON，默认sub2api格式发货",
+                          "notes":  "标注为8.5号15:30新空间",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_a7f759479a9e",
+                          "key":  "https://pay.ldxp.cn/item/7w6kpm",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "谷歌邮箱 K12 成品 JSON 支持 sub2和CPA等其他反代",
+                          "url":  "https://pay.ldxp.cn/item/7w6kpm",
+                          "file_name":  "",
+                          "purpose":  "购买支持sub2与CPA等反代的K12成品JSON",
+                          "notes":  "买错不退；标注8.5下午15点半新空间",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_b903f3d8b525",
+                          "key":  "https://pay.ldxp.cn/item/livj31",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "【codex-反代】k12team子号成品（只能反代，买错不退）",
+                          "url":  "https://pay.ldxp.cn/item/livj31",
+                          "file_name":  "",
+                          "purpose":  "购买仅限反代用途的K12 team子号成品",
+                          "notes":  "明确只能反代使用",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_0f3fd16b1d19",
+                          "key":  "https://pay.ldxp.cn/item/zsqmly",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "k12，导入401 售后，只能反代，看清楚描述再下单。",
+                          "url":  "https://pay.ldxp.cn/item/zsqmly",
+                          "file_name":  "",
+                          "purpose":  "购买带401售后说明的K12，仅限反代",
+                          "notes":  "强调只能反代",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_93310fbb8584",
+                          "key":  "https://pay.ldxp.cn/item/d2xy3b",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "【只支持sub2api】K12 成品 质保下单后10min",
+                          "url":  "https://pay.ldxp.cn/item/d2xy3b",
+                          "file_name":  "",
+                          "purpose":  "购买仅支持sub2api的K12成品",
+                          "notes":  "标注8.6日15点；质保下单后10分钟",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_c15c571598a7",
+                          "key":  "https://pay.ldxp.cn/item/mhl82i",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "k12 支持sub2api和cock反代K12 成品 新货",
+                          "url":  "https://pay.ldxp.cn/item/mhl82i",
+                          "file_name":  "",
+                          "purpose":  "购买支持sub2api与Cockpit/Cock反代的K12成品",
+                          "notes":  "标注新货",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_9d576cbc715c",
+                          "key":  "https://pay.ldxp.cn/item/o4yhb0",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "k12 成品",
+                          "url":  "https://pay.ldxp.cn/item/o4yhb0",
+                          "file_name":  "",
+                          "purpose":  "购买通用K12成品",
+                          "notes":  "兼容性未进一步说明",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_4abb76ba7de4",
+                          "key":  "https://pay.ldxp.cn/item/94sngt",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "K12子号 成品 JSON 支持 sub2api / CPA / Cockpit Tools 只能反代用",
+                          "url":  "https://pay.ldxp.cn/item/94sngt",
+                          "file_name":  "",
+                          "purpose":  "购买支持sub2api、CPA、Cockpit Tools的K12子号JSON",
+                          "notes":  "只能反代使用",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_e4be310dc5a6",
+                          "key":  "https://pay.ldxp.cn/item/yl533p",
+                          "topic":  "K12成品与JSON货盘",
+                          "title":  "k12，导入401 售后，只能反代，看清楚描述再下单。",
+                          "url":  "https://pay.ldxp.cn/item/yl533p",
+                          "file_name":  "",
+                          "purpose":  "购买带401售后说明的K12，仅限反代",
+                          "notes":  "与另一条同类，价格不同",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:37:01",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_9bb31d0c5ff1",
+                          "key":  "https://pay.ldxp.cn/item/cnxi49",
+                          "topic":  "Plus成品号货盘",
+                          "title":  "【限时特价】Gcash精品渠道 GPT PLUS 未接码 Icloud邮箱 可反代可网页",
+                          "url":  "https://pay.ldxp.cn/item/cnxi49",
+                          "file_name":  "",
+                          "purpose":  "购买Gcash渠道Plus成品号，支持反代或网页使用",
+                          "notes":  "强调未接码、iCloud邮箱",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:53:31",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_34d9298513b5",
+                          "key":  "https://pay.ldxp.cn/item/9i92uv",
+                          "topic":  "Plus成品号货盘",
+                          "title":  "【未接码】pp渠道-PLUS成品号（icloud邮箱-家宽注册-质保半小内首次登录）",
+                          "url":  "https://pay.ldxp.cn/item/9i92uv",
+                          "file_name":  "",
+                          "purpose":  "购买PP渠道Plus成品号",
+                          "notes":  "iCloud邮箱、家宽注册、质保半小时内首次登录",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:53:31",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_7b6fd8d690c8",
+                          "key":  "https://pay.ldxp.cn/item/wdr6wm",
+                          "topic":  "Plus成品号货盘",
+                          "title":  "iCloud PLUS 成品(新号)",
+                          "url":  "https://pay.ldxp.cn/item/wdr6wm",
+                          "file_name":  "",
+                          "purpose":  "购买iCloud邮箱Plus新号成品",
+                          "notes":  "渠道未进一步说明",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:53:31",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_db81d0a89160",
+                          "key":  "https://pay.ldxp.cn/item/qdf5wy",
+                          "topic":  "Plus成品号货盘",
+                          "title":  "Plus 独享账号(直绑渠道，iCloud邮箱，质保首登，未接码)",
+                          "url":  "https://pay.ldxp.cn/item/qdf5wy",
+                          "file_name":  "",
+                          "purpose":  "购买直绑渠道Plus独享账号",
+                          "notes":  "iCloud邮箱、未接码、质保首登",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:53:31",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_085271c85f7f",
+                          "key":  "https://pay.ldxp.cn/item/m66g50",
+                          "topic":  "Plus成品号货盘",
+                          "title":  "💯推荐【icloud最稳GC渠道】OPenAI Plus成品号 月卡成品号(质保首登)",
+                          "url":  "https://pay.ldxp.cn/item/m66g50",
+                          "file_name":  "",
+                          "purpose":  "购买标注为稳定GC渠道的Plus月卡成品号",
+                          "notes":  "iCloud邮箱；质保首登",
+                          "first_seen":  "2026-08-06 20:16:32",
+                          "last_seen":  "2026-08-06 20:16:32",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 19:53:31",
+                                              "report_id":  "f9f5dd14c426"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_cab093bf930e",
+                          "key":  "https://m.gcash.com/gcashapp/gcash-merchants-auth/index.html?acqsiteid=1022188000000000001\u0026clientid=305xsm222yrkg505\u0026mcc=0000\u0026merchantengname=adyen%20n.v.\u0026merchantid=2188120000104454\u0026merchantname=adyen%20n.v.\u0026netauthid=j2pqk4zhqg94trf3\u0026paysiteid=1022170000000000000\u0026redirecturl=https%3a%2f%2fcheckoutshopper-live.adyen.com%2fcheckoutshopper%2fcheckoutpaymentreturn%3fgpid%3dgpd0d189aa43382e0a6ca5a5\u0026scopes=agreement_pay\u0026sellerengname=adyen%20n.v.\u0026sellerid=2188440585699638\u0026sellername=openai%20opco%2c%20llc\u0026state=j2pqk4zhqg94trf3\u0026terminaltype=web\u0026signature=tyfl7rsgwmknb9h3izxtpkt%2b94iw%2fh1bhdr3wurdqgokbp%2b6g%2bchawrizkosckxnl9gtaa91qoagk2vh8v5rjjqsyh6b2lt2kwmnv8jkmoguqcfit5wkkpe3ppgqvozhlio0moo",
+                          "topic":  "GCash支付链路",
+                          "title":  "OpenAI 对应 GCash merchant auth 长链",
+                          "url":  "https://m.gcash.com/gcashapp/gcash-merchants-auth/index.html?acqSiteId=1022188000000000001\u0026clientId=305XSM222YRKG505\u0026mcc=0000\u0026merchantEngName=Adyen%20N.V.\u0026merchantId=2188120000104454\u0026merchantName=Adyen%20N.V.\u0026netAuthId=J2PQK4ZHQG94TRF3\u0026paySiteId=1022170000000000000\u0026redirectUrl=https%3A%2F%2Fcheckoutshopper-live.adyen.com%2Fcheckoutshopper%2FcheckoutPaymentReturn%3Fgpid%3DGPD0D189AA43382E0A6CA5A5\u0026scopes=AGREEMENT_PAY\u0026sellerEngName=Adyen%20N.V.\u0026sellerId=2188440585699638\u0026sellerName=OpenAI%20OpCo%2C%20LLC\u0026state=J2PQK4ZHQG94TRF3\u0026terminalType=WEB\u0026signature=TYFL7rsGWmKNb9h3IzxTPkT%2B94Iw%2Fh1bhDR3WurdqGOKbp%2B6G%2BchawrIzKoSCKxNL9gtaa91QoagK2vH8v5rjJQSyh6B2LT2KWmNV8jKMoguQCFit5WKkPE3PpGQVOZhLiO0mOO",
+                          "file_name":  "",
+                          "purpose":  "用于打开 OpenAI 对应的 GCash 支付授权页面，便于复核商户参数或执行扫码流程",
+                          "notes":  "发链者称“刚提的”；后续群内有人反馈扫码成功，也有人反馈卡住或过期未确认",
+                          "first_seen":  "2026-08-06 21:06:12",
+                          "last_seen":  "2026-08-06 21:06:12",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "七彩天空",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 20:06:43",
+                                              "report_id":  "362dfff9ec91"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_377560bda6de",
+                          "key":  "https://kakao.whitexfox.cn/kakaoscan?service=gcashscan",
+                          "topic":  "GCash扫码",
+                          "title":  "GCash 自助扫码入口",
+                          "url":  "https://kakao.whitexfox.cn/kakaoscan?service=gcashscan",
+                          "file_name":  "",
+                          "purpose":  "GCash 扫码相关页面，用于Kakao/GCash扫码流程",
+                          "notes":  "发布者口头报价 0.9U/次，并提醒“只提供分享”“不是全都有效”",
+                          "first_seen":  "2026-08-06 21:06:12",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  3,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 20:58:39",
+                                              "report_id":  "362dfff9ec91"
+                                          },
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "00475-046",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 21:49:36",
+                                              "report_id":  "cd554f40216d"
+                                          },
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "乐观且自信",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:14:07",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_4c0d80a42663",
+                          "key":  "https://chatgpt.com/checkout/openai_llc/cs_live_a1qwlfjzijngqgtjksxtpq5h5fdrrybx3gysgspedp8zxe9m0fmgmz0vi7",
+                          "topic":  "OpenAI结账",
+                          "title":  "ChatGPT/OpenAI 结账链接",
+                          "url":  "https://chatgpt.com/checkout/openai_llc/cs_live_a1qwlfjZIJngQGTjKsXTPq5h5fdRryBx3gysGSPeDp8zxE9M0fmgMZ0VI7",
+                          "file_name":  "",
+                          "purpose":  "直接打开 OpenAI 结账页进行支付流程测试",
+                          "notes":  "群内未补充适用地区、是否仍有效",
+                          "first_seen":  "2026-08-06 21:06:12",
+                          "last_seen":  "2026-08-06 21:06:12",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "24680",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 20:51:00",
+                                              "report_id":  "362dfff9ec91"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_6f01f43b4f20",
+                          "key":  "IC邮箱入口||mail.98104.cn",
+                          "topic":  "IC邮箱入口",
+                          "title":  "mail.98104.cn",
+                          "url":  "",
+                          "file_name":  "",
+                          "purpose":  "IC邮箱获取/购买入口",
+                          "notes":  "群内提醒购买后注意邮箱有效期",
+                          "first_seen":  "2026-08-06 22:02:33",
+                          "last_seen":  "2026-08-06 22:02:33",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "安静丶看着你",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 21:23:13",
+                                              "report_id":  "cd554f40216d"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_b9404430fef1",
+                          "key":  "https://pay.ldxp.cn/shop/i7isdj",
+                          "topic":  "IC邮箱店铺",
+                          "title":  "I7ISDJ 店铺",
+                          "url":  "https://pay.ldxp.cn/shop/I7ISDJ",
+                          "file_name":  "",
+                          "purpose":  "IC邮箱与4513卡头相关店铺入口",
+                          "notes":  "昵称与店铺链接绑定出现，具体商品需进店查看",
+                          "first_seen":  "2026-08-06 22:02:33",
+                          "last_seen":  "2026-08-06 22:02:33",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "廿一 014ic邮箱4513卡头 https://pay.ldxp.cn/shop/I7ISDJ",
+                                              "nickname_url":  "https://pay.ldxp.cn/shop/I7ISDJ",
+                                              "time":  "2026-08-06 21:43:51",
+                                              "report_id":  "cd554f40216d"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_be2c67527977",
+                          "key":  "https://pay.ldxp.cn/shop/i7isdjga",
+                          "topic":  "IC邮箱店铺",
+                          "title":  "I7ISDJGA 店铺",
+                          "url":  "https://pay.ldxp.cn/shop/I7ISDJGA",
+                          "file_name":  "",
+                          "purpose":  "IC邮箱与4513卡头相关店铺入口",
+                          "notes":  "与I7ISDJ应为同类店铺的不同链接",
+                          "first_seen":  "2026-08-06 22:02:33",
+                          "last_seen":  "2026-08-06 22:02:33",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "gpt渠道交流群",
+                                              "nickname":  "廿一 ic邮箱 4513卡头 https://pay.ldxp.cn/shop/I7ISDJGA",
+                                              "nickname_url":  "https://pay.ldxp.cn/shop/I7ISDJGA",
+                                              "time":  "2026-08-06 21:08:56",
+                                              "report_id":  "cd554f40216d"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_4f2c005223c4",
+                          "key":  "https://pay.ldxp.cn/shop/32xk91ho",
+                          "topic":  "新上架店铺",
+                          "title":  "32XK91HO 店铺",
+                          "url":  "https://pay.ldxp.cn/shop/32XK91HO",
+                          "file_name":  "",
+                          "purpose":  "群内称“刚上的”新店铺入口",
+                          "notes":  "具体售卖品类未说明",
+                          "first_seen":  "2026-08-06 22:02:33",
+                          "last_seen":  "2026-08-06 22:02:33",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "是时候懒惰啦",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 21:57:16",
+                                              "report_id":  "cd554f40216d"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_f042cc6a7044",
+                          "key":  "论文提炼提示词||上位教学论过滤提示词",
+                          "topic":  "论文提炼提示词",
+                          "title":  "上位教学论过滤提示词",
+                          "url":  "",
+                          "file_name":  "",
+                          "purpose":  "用于从论文中抽取“核心理念框架”和“操作性策略清单”的中文提示词模板",
+                          "notes":  "发帖人反馈实测效果不佳；原文为“请通读全文，执行‘上位教学论过滤’。务必保留作者用于论证其观点的教学策略细节（如具体追问、材料对比逻辑），剥离的仅是一般性史实陈述（时间、人名、事件过程）。输出时分为：①核心理念框架；②操作性策略清单（附原文页码/段落佐证）。”",
+                          "first_seen":  "2026-08-06 22:02:33",
+                          "last_seen":  "2026-08-06 22:02:33",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "风行烈",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 21:45:02",
+                                              "report_id":  "cd554f40216d"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_e991765c7f1b",
+                          "key":  "https://gcash.haomango.com/",
+                          "topic":  "GCash提链与扫码",
+                          "title":  "GC 提码站",
+                          "url":  "https://gcash.haomango.com/",
+                          "file_name":  "",
+                          "purpose":  "用于 GCash 提链/提码操作",
+                          "notes":  "群内说明需保持登录态与页面常开；关闭页面可能不到账",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "乐观且自信",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:14:07",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_79f2e8dccde7",
+                          "key":  "https://pay.ldxp.cn/shop/6gmy8sz8",
+                          "topic":  "卡网",
+                          "title":  "ldxp卡网",
+                          "url":  "https://pay.ldxp.cn/shop/6GMY8SZ8",
+                          "file_name":  "",
+                          "purpose":  "购买支付卡/相关支付商品",
+                          "notes":  "群内直接标注为 ldxp 卡网",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "乐观且自信",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:14:07",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_91adafb675f0",
+                          "key":  "https://shop.whitexfox.cn",
+                          "topic":  "卡网",
+                          "title":  "USDT卡网",
+                          "url":  "https://shop.whitexfox.cn",
+                          "file_name":  "",
+                          "purpose":  "购买 USDT 卡类商品",
+                          "notes":  "群内直接标注为 usdt卡网",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "乐观且自信",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:14:07",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_da50e9f9376f",
+                          "key":  "https://kakao.whitexfox.cn/api-docs",
+                          "topic":  "API文档",
+                          "title":  "扫码/支付 API 文档",
+                          "url":  "https://kakao.whitexfox.cn/api-docs",
+                          "file_name":  "",
+                          "purpose":  "对接扫码平台 API",
+                          "notes":  "适合自建脚本或程序化调用",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "乐观且自信",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:14:07",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_1d14e676feee",
+                          "key":  "https://t.me/fenglan1201",
+                          "topic":  "渠道入口",
+                          "title":  "Telegram 渠道/联系人",
+                          "url":  "https://t.me/FengLan1201",
+                          "file_name":  "",
+                          "purpose":  "查看群内提到的包提链/支付相关渠道",
+                          "notes":  "群友称“你们自己去看吧”，未附价格与规则",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "小脑虎 GPT 技术交流群",
+                                              "nickname":  "安",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:06:28",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_2b63fcb152fd",
+                          "key":  "https://agentrouter.org/register?aff=exhc",
+                          "topic":  "中转站",
+                          "title":  "公益中转站注册入口",
+                          "url":  "https://agentrouter.org/register?aff=ExhC",
+                          "file_name":  "",
+                          "purpose":  "注册中转站账号",
+                          "notes":  "群内宣传“注册送175刀”，真实性与活动期限未核验",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "gpt渠道交流群",
+                                              "nickname":  "科技小白",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:13:46",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_9a0d091a6e6a",
+                          "key":  "https://linux.do/t/topic/2702577",
+                          "topic":  "提链教程",
+                          "title":  "Linux.do 提链帖子",
+                          "url":  "https://linux.do/t/topic/2702577",
+                          "file_name":  "",
+                          "purpose":  "查看群内提到的“新的提链帖子”",
+                          "notes":  "帖子内容未在聊天中展开",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "A.X.A",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:39:12",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_74e7c368a312",
+                          "key":  "API配置文件|20260806-203445-sub2-api.json|sub2 api 配置文件",
+                          "topic":  "API配置文件",
+                          "title":  "sub2 API 配置文件",
+                          "url":  "",
+                          "file_name":  "20260806-203445-sub2-API.json",
+                          "purpose":  "按文件名判断为 sub2/API 配置或导入数据",
+                          "notes":  "仅文件名可见，具体内容未确认",
+                          "first_seen":  "2026-08-06 23:05:57",
+                          "last_seen":  "2026-08-06 23:05:57",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 22:01:28",
+                                              "report_id":  "e156daa05305"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_c20c8093266e",
+                          "key":  "GCash开通教程|gcash扫码开通教程 plus.zip|gcash扫码开通教程 plus",
+                          "topic":  "GCash开通教程",
+                          "title":  "gcash扫码开通教程 plus",
+                          "url":  "",
+                          "file_name":  "gcash扫码开通教程 plus.zip",
+                          "purpose":  "用于 GCash 扫码开通 Plus 的教程压缩包",
+                          "notes":  "仅见文件名，具体内容未展开；群内随后有人反馈“空文件夹”需复核文件完整性",
+                          "first_seen":  "2026-08-07 00:02:24",
+                          "last_seen":  "2026-08-07 00:02:24",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "gpt渠道交流群",
+                                              "nickname":  "小小海",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 23:27:42",
+                                              "report_id":  "1d3fea639ba0"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_69867693ce11",
+                          "key":  "https://qm.qq.com/q/ho1fsj9zbm",
+                          "topic":  "扫码群入口",
+                          "title":  "群主 kakao pay 扫码群",
+                          "url":  "https://qm.qq.com/q/ho1FSJ9zBm",
+                          "file_name":  "",
+                          "purpose":  "QQ 扫码群入口，用于对接扫码服务",
+                          "notes":  "发布者说明“按需加入价格一样”",
+                          "first_seen":  "2026-08-07 00:02:24",
+                          "last_seen":  "2026-08-07 00:02:24",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "皮蛋",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 23:22:48",
+                                              "report_id":  "1d3fea639ba0"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_08a7f1ce6e96",
+                          "key":  "https://qm.qq.com/q/rlrnapfu8w",
+                          "topic":  "扫码群入口",
+                          "title":  "群主 . 扫码群",
+                          "url":  "https://qm.qq.com/q/RLRnAPfu8w",
+                          "file_name":  "",
+                          "purpose":  "QQ 扫码群入口，用于对接扫码服务",
+                          "notes":  "原消息尾部带“@all”，链接主体按原样提取为可访问部分",
+                          "first_seen":  "2026-08-07 00:02:24",
+                          "last_seen":  "2026-08-07 00:02:24",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "皮蛋",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 23:22:48",
+                                              "report_id":  "1d3fea639ba0"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_f21e3c13e1d1",
+                          "key":  "https://chatgpt.com/checkout/openai_llc/cs_live_a1vralyvtbrqcniwpvzihxunsurmtcud1yfwcubbyrroi6dx963mmm0kz0",
+                          "topic":  "支付测试链接",
+                          "title":  "ChatGPT Checkout 测试直链",
+                          "url":  "https://chatgpt.com/checkout/openai_llc/cs_live_a1vRALyvtBrqCniWpvZiHXUNsurmtcUd1yFwCubbyRRoI6DX963Mmm0kZ0",
+                          "file_name":  "",
+                          "purpose":  "用于现场测试直卡是否能支付 ChatGPT Checkout",
+                          "notes":  "发布者求他人代测，链接有效性与支付结果未确认",
+                          "first_seen":  "2026-08-07 00:02:24",
+                          "last_seen":  "2026-08-07 00:02:24",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "今天研究什么渠道呢",
+                                              "nickname":  "24680",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 23:34:35",
+                                              "report_id":  "1d3fea639ba0"
+                                          }
+                                      ]
+                      },
+                      {
+                          "id":  "res_d37bdf952c9c",
+                          "key":  "https://misakaai.cn/bug-board/#queue",
+                          "topic":  "工具/看板",
+                          "title":  "MisakaAI bug-board 队列页",
+                          "url":  "https://misakaai.cn/bug-board/#queue",
+                          "file_name":  "",
+                          "purpose":  "用于查看 MisakaAI 的问题队列/排队页面",
+                          "notes":  "仅见链接，无进一步说明",
+                          "first_seen":  "2026-08-07 00:02:24",
+                          "last_seen":  "2026-08-07 00:02:24",
+                          "mentions":  1,
+                          "sources":  [
+                                          {
+                                              "group":  "ai交流群002",
+                                              "nickname":  "Misaka_Ai",
+                                              "nickname_url":  "",
+                                              "time":  "2026-08-06 23:43:06",
+                                              "report_id":  "1d3fea639ba0"
+                                          }
+                                      ]
+                      }
+                  ],
+    "resource_count":  49,
+    "product_count":  160
+}
