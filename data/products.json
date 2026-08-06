@@ -267,6 +267,134 @@
       "is_lowest": true
     },
     {
+      "id": "prd_57b7d8ef7ccf",
+      "key": "ai订阅账号/gpt plus|gpt plus 账号|规格未说明|出售|白嫖|",
+      "category": "AI订阅账号/GPT Plus",
+      "name": "GPT Plus 账号",
+      "variant": "规格未说明",
+      "direction": "出售",
+      "seller": "白嫖",
+      "seller_url": "",
+      "link": "",
+      "price": 11.0,
+      "price_text": "卖11块",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "群成员自述出售，具体账号格式、地区、是否带RT均未说明",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.0,
+          "price_text": "卖11块",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 06:02:22"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "白嫖",
+          "nickname_url": "",
+          "time": "2026-08-07 05:20:52",
+          "report_id": "38d163338c90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_d292db4d47b6",
+      "key": "ai订阅账号/gpt plus|gpt plus 账号|aqua / icloud / 平台货|出售|aqua|",
+      "category": "AI订阅账号/GPT Plus",
+      "name": "GPT Plus 账号",
+      "variant": "Aqua / icloud / 平台货",
+      "direction": "出售",
+      "seller": "Aqua",
+      "seller_url": "",
+      "link": "",
+      "price": 11.0,
+      "price_text": "11.00",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "截图显示成交1K单、样本充分、Plus可售58；群内称该平台可能需要先充值才能购买",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 2,
+      "price_history": [
+        {
+          "price": 11.5,
+          "price_text": "11.50",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 06:02:22"
+        },
+        {
+          "price": 11.0,
+          "price_text": "11.00",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 06:02:22"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "白嫖",
+          "nickname_url": "",
+          "time": "2026-08-07 05:31:56",
+          "report_id": "38d163338c90"
+        },
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "a＇ゞ小S",
+          "nickname_url": "",
+          "time": "2026-08-07 05:46:01",
+          "report_id": "38d163338c90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_f8e63921b0d4",
+      "key": "ai订阅账号/gpt plus|gpt plus 账号|带rt|出售|未说明|",
+      "category": "AI订阅账号/GPT Plus",
+      "name": "GPT Plus 账号",
+      "variant": "带RT",
+      "direction": "出售",
+      "seller": "未说明",
+      "seller_url": "",
+      "link": "",
+      "price": 11.0,
+      "price_text": "带rt 11",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "群内仅口述“带rt 11”，未明确卖家、链接与更多规格",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.0,
+          "price_text": "带rt 11",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 06:02:22"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-07 05:43:26",
+          "report_id": "38d163338c90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_facfac183fba",
       "key": "chatgpt plus账号|plus 账号|刚开，10个|出售|升升|",
       "category": "ChatGPT Plus账号",
@@ -6143,6 +6271,44 @@
           "nickname_url": "",
           "time": "2026-08-06 17:27:49",
           "report_id": "08df352c869a"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_2c2c55741839",
+      "key": "代理流量/cdk|cli 流量兑换 cdk|按 g 计费|出售|.|",
+      "category": "代理流量/CDK",
+      "name": "CLI 流量兑换 CDK",
+      "variant": "按 G 计费",
+      "direction": "出售",
+      "seller": ".",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "2块多一个g",
+      "currency": "CNY",
+      "unit": "G",
+      "details": "群内称可去咸鱼购买，用于兑换 CLI 流量；未提供具体卖家链接",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "2块多一个g",
+          "currency": "CNY",
+          "unit": "G",
+          "seen_at": "2026-08-07 06:02:22"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": ".",
+          "nickname_url": "",
+          "time": "2026-08-07 05:02:13",
+          "report_id": "38d163338c90"
         }
       ],
       "is_lowest": false
