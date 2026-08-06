@@ -1,6 +1,234 @@
 {
   "products": [
     {
+      "id": "prd_bf193f8d8577",
+      "key": "ai中转api|gpt 中转|0.25倍率|出售|昨日你在群内发情，获得男娘标识，去替换|",
+      "category": "AI中转API",
+      "name": "GPT 中转",
+      "variant": "0.25倍率",
+      "direction": "出售",
+      "seller": "昨日你在群内发情，获得男娘标识，去替换",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "我卖 0.25 倍率",
+      "currency": "CNY",
+      "unit": "倍率",
+      "details": "卖家称不掺水、正甲号池、首字速度快；具体模型含 5.4/5.5/5.6",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "我卖 0.25 倍率",
+          "currency": "CNY",
+          "unit": "倍率",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "昨日你在群内发情，获得男娘标识，去替换",
+          "nickname_url": "",
+          "time": "2026-08-07 03:05:03",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_fb307869e3c1",
+      "key": "ai中转api|gpt 中转|特殊调价 0.2倍率|出售|昨日你在群内发情，获得男娘标识，去替换|",
+      "category": "AI中转API",
+      "name": "GPT 中转",
+      "variant": "特殊调价 0.2倍率",
+      "direction": "出售",
+      "seller": "昨日你在群内发情，获得男娘标识，去替换",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "我给一个客 特殊调价 0.2 倍率",
+      "currency": "CNY",
+      "unit": "倍率",
+      "details": "个别客户特殊价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "我给一个客 特殊调价 0.2 倍率",
+          "currency": "CNY",
+          "unit": "倍率",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "昨日你在群内发情，获得男娘标识，去替换",
+          "nickname_url": "",
+          "time": "2026-08-07 03:11:20",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_51f1273e745e",
+      "key": "ai中转api|gpt 中转|上游 0.15倍率 / 成本 0.13倍率|出售|昨日你在群内发情，获得男娘标识，去替换|",
+      "category": "AI中转API",
+      "name": "GPT 中转",
+      "variant": "上游 0.15倍率 / 成本 0.13倍率",
+      "direction": "出售",
+      "seller": "昨日你在群内发情，获得男娘标识，去替换",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "上游给我的是 0.15 倍率 我卖 0.25；成本倍率是 0.13",
+      "currency": "CNY",
+      "unit": "倍率",
+      "details": "用于判断上游和利润空间",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "上游给我的是 0.15 倍率 我卖 0.25；成本倍率是 0.13",
+          "currency": "CNY",
+          "unit": "倍率",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "昨日你在群内发情，获得男娘标识，去替换",
+          "nickname_url": "",
+          "time": "2026-08-07 03:10:48",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_90ab02b4adcb",
+      "key": "ai中转api|中转站|1倍率|出售|s1eep|",
+      "category": "AI中转API",
+      "name": "中转站",
+      "variant": "1倍率",
+      "direction": "出售",
+      "seller": "s1eep",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "卖1倍率的 中转站",
+      "currency": "CNY",
+      "unit": "倍率",
+      "details": "未说明模型、计费和充值门槛",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "卖1倍率的 中转站",
+          "currency": "CNY",
+          "unit": "倍率",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "s1eep",
+          "nickname_url": "",
+          "time": "2026-08-07 03:05:50",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_0f209835e292",
+      "key": "ai中转api|中转站|100倍率，重置比例1:1|出售|s1eep|",
+      "category": "AI中转API",
+      "name": "中转站",
+      "variant": "100倍率，重置比例1:1",
+      "direction": "出售",
+      "seller": "s1eep",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "100倍率的中转站，重置比例1:1",
+      "currency": "CNY",
+      "unit": "倍率",
+      "details": "仅见倍率和重置比例，未见金额",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "100倍率的中转站，重置比例1:1",
+          "currency": "CNY",
+          "unit": "倍率",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "s1eep",
+          "nickname_url": "",
+          "time": "2026-08-07 03:06:28",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_9019f291bbb0",
+      "key": "ai中转api|pro 20x 中转|0.25倍率|出售|昨日你在群内发情，获得男娘标识，去替换|",
+      "category": "AI中转API",
+      "name": "Pro 20X 中转",
+      "variant": "0.25倍率",
+      "direction": "出售",
+      "seller": "昨日你在群内发情，获得男娘标识，去替换",
+      "seller_url": "",
+      "link": "",
+      "price": 200.0,
+      "price_text": "我这里充 200 刀就能有 Pro 20X",
+      "currency": "USD",
+      "unit": "次",
+      "details": "卖家称可做 Pro 20X，禁止破甲、正甲号池；额度口径未完全说明",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 200.0,
+          "price_text": "我这里充 200 刀就能有 Pro 20X",
+          "currency": "USD",
+          "unit": "次",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "昨日你在群内发情，获得男娘标识，去替换",
+          "nickname_url": "",
+          "time": "2026-08-07 03:08:25",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_f00291cd9c05",
       "key": "ai订阅账号|rt plus|4个|出售|。|",
       "category": "AI订阅账号",
@@ -34,6 +262,44 @@
           "nickname_url": "",
           "time": "2026-08-07 01:18:52",
           "report_id": "5f6adf521de7"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_facfac183fba",
+      "key": "chatgpt plus账号|plus 账号|刚开，10个|出售|升升|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "刚开，10个",
+      "direction": "出售",
+      "seller": "升升",
+      "seller_url": "",
+      "link": "",
+      "price": 130.0,
+      "price_text": "130 出10个PLUS刚开的",
+      "currency": "CNY",
+      "unit": "10个",
+      "details": "刚开",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 130.0,
+          "price_text": "130 出10个PLUS刚开的",
+          "currency": "CNY",
+          "unit": "10个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "升升",
+          "nickname_url": "",
+          "time": "2026-08-07 03:02:26",
+          "report_id": "1745da7d52da"
         }
       ],
       "is_lowest": true
@@ -122,6 +388,82 @@
       "is_lowest": true
     },
     {
+      "id": "prd_cf84e952b2f0",
+      "key": "chatgpt plus账号|plus 账号半成品|未接码/半成品|出售|皮蛋|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号半成品",
+      "variant": "未接码/半成品",
+      "direction": "出售",
+      "seller": "皮蛋",
+      "seller_url": "",
+      "link": "",
+      "price": 10.0,
+      "price_text": "10块抛了",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "卖家称“搓了一天搓出来5个”“不会接码”",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 10.0,
+          "price_text": "10块抛了",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "皮蛋",
+          "nickname_url": "",
+          "time": "2026-08-07 03:24:59",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_96af4dc75f64",
+      "key": "chatgpt plus账号|plus 账号|单个，未接码|出售|绮罗|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "单个，未接码",
+      "direction": "出售",
+      "seller": "绮罗",
+      "seller_url": "",
+      "link": "",
+      "price": 12.0,
+      "price_text": "一个12",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "卖家后续补充“未接码”，库存先报4个后报剩2个",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.0,
+          "price_text": "一个12",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "绮罗",
+          "nickname_url": "",
+          "time": "2026-08-07 03:05:05",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_903ce545de8e",
       "key": "chatgpt plus账号|plus 账号|刚开，荷兰找卡网|出售|绮罗|",
       "category": "ChatGPT Plus账号",
@@ -155,6 +497,44 @@
           "nickname_url": "",
           "time": "2026-08-07 02:12:11",
           "report_id": "f5ed3f3b3eb7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_8940dd6e44d3",
+      "key": "chatgpt plus账号|plus 账号|单个|出售|升升|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号",
+      "variant": "单个",
+      "direction": "出售",
+      "seller": "升升",
+      "seller_url": "",
+      "link": "",
+      "price": 13.0,
+      "price_text": "13 的要不要",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "在“收一个plus”语境下给出的报价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 13.0,
+          "price_text": "13 的要不要",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "升升",
+          "nickname_url": "",
+          "time": "2026-08-07 03:42:23",
+          "report_id": "1745da7d52da"
         }
       ],
       "is_lowest": false
@@ -312,6 +692,120 @@
       "is_lowest": false
     },
     {
+      "id": "prd_e51970f11f00",
+      "key": "chatgpt plus账号|plus 账号半成品|未接码/半成品|收购|澜岸青梧|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号半成品",
+      "variant": "未接码/半成品",
+      "direction": "收购",
+      "seller": "澜岸青梧",
+      "seller_url": "",
+      "link": "",
+      "price": 5.0,
+      "price_text": "5块",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "对未接码/半成品 Plus 的收购/议价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 5.0,
+          "price_text": "5块",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "澜岸青梧",
+          "nickname_url": "",
+          "time": "2026-08-07 03:24:25",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_9cbccd227b74",
+      "key": "chatgpt plus账号|plus 账号半成品|未接码/半成品|收购|a＇ゞ小s|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号半成品",
+      "variant": "未接码/半成品",
+      "direction": "收购",
+      "seller": "a＇ゞ小S",
+      "seller_url": "",
+      "link": "",
+      "price": 5.0,
+      "price_text": "5快",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "对未接码/半成品 Plus 的收购/议价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 5.0,
+          "price_text": "5快",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "a＇ゞ小S",
+          "nickname_url": "",
+          "time": "2026-08-07 03:24:51",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_f6f7fa9d698e",
+      "key": "chatgpt plus账号|plus 账号半成品|未接码/半成品|收购|c4lnn|",
+      "category": "ChatGPT Plus账号",
+      "name": "Plus 账号半成品",
+      "variant": "未接码/半成品",
+      "direction": "收购",
+      "seller": "c4Lnn",
+      "seller_url": "",
+      "link": "",
+      "price": 6.0,
+      "price_text": "6块",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "对未接码/半成品 Plus 的收购/议价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 6.0,
+          "price_text": "6块",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "c4Lnn",
+          "nickname_url": "",
+          "time": "2026-08-07 03:24:57",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_fe0d3edbb171",
       "key": "chatgpt plus账号|plus 账号|接码/sub格式不限|收购|昨日你在群内发情，获得男娘标识，去替换|",
       "category": "ChatGPT Plus账号",
@@ -347,7 +841,7 @@
           "report_id": "f5ed3f3b3eb7"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_93306e2610f4",
@@ -1336,6 +1830,44 @@
         }
       ],
       "is_lowest": false
+    },
+    {
+      "id": "prd_cfeb5050da0e",
+      "key": "ic邮箱/卡头|014 ic邮箱/4513卡头|26出9（含义未说明）|出售|廿一 014ic邮箱4513卡头 https://pay.ldxp.cn/shop/i7isdj|https://pay.ldxp.cn/shop/i7isdj",
+      "category": "IC邮箱/卡头",
+      "name": "014 ic邮箱/4513卡头",
+      "variant": "26出9（含义未说明）",
+      "direction": "出售",
+      "seller": "廿一 014ic邮箱4513卡头 https://pay.ldxp.cn/shop/I7ISDJ",
+      "seller_url": "https://pay.ldxp.cn/shop/I7ISDJ",
+      "link": "https://pay.ldxp.cn/shop/I7ISDJ",
+      "price": 26.0,
+      "price_text": "26出9",
+      "currency": "CNY",
+      "unit": "未说明",
+      "details": "具体规格、数量口径未说明",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 26.0,
+          "price_text": "26出9",
+          "currency": "CNY",
+          "unit": "未说明",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "廿一 014ic邮箱4513卡头 https://pay.ldxp.cn/shop/I7ISDJ",
+          "nickname_url": "https://pay.ldxp.cn/shop/I7ISDJ",
+          "time": "2026-08-07 03:01:18",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
     },
     {
       "id": "prd_173f2aa32169",
@@ -5426,6 +5958,82 @@
       "is_lowest": true
     },
     {
+      "id": "prd_c66e38f3f520",
+      "key": "ios直充渠道|ios 直充|未说明|出售|1138683065|",
+      "category": "iOS直充渠道",
+      "name": "iOS 直充",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "1138683065",
+      "seller_url": "",
+      "link": "",
+      "price": 1080.0,
+      "price_text": "我都1080",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "对同类 iOS 直充给出的更低报价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1080.0,
+          "price_text": "我都1080",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "1138683065",
+          "nickname_url": "",
+          "time": "2026-08-07 03:37:36",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_887c70d7c463",
+      "key": "ios直充渠道|ios 直充|未说明|出售|正常点|",
+      "category": "iOS直充渠道",
+      "name": "iOS 直充",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "正常点",
+      "seller_url": "",
+      "link": "",
+      "price": 1280.0,
+      "price_text": "1280 一个的 iOS 直充",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "其称为上游报价；同时关联“正价代充渠道复活”讨论",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1280.0,
+          "price_text": "1280 一个的 iOS 直充",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "正常点",
+          "nickname_url": "",
+          "time": "2026-08-07 03:37:11",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_bb99470cc451",
       "key": "中转站服务|pro 中转使用|0.2|服务报价|橘子有点甜|",
       "category": "中转站服务",
@@ -6374,6 +6982,82 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_4900f40a4bcc",
+      "key": "菲律宾扫码服务|菲律宾扫码|批量|出售|菲律宾扫码单价7批量6|",
+      "category": "菲律宾扫码服务",
+      "name": "菲律宾扫码",
+      "variant": "批量",
+      "direction": "出售",
+      "seller": "菲律宾扫码单价7批量6",
+      "seller_url": "",
+      "link": "",
+      "price": 6.0,
+      "price_text": "批量6",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "批量价",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 6.0,
+          "price_text": "批量6",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "菲律宾扫码单价7批量6",
+          "nickname_url": "",
+          "time": "2026-08-07 03:17:12",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_afa17c919e7b",
+      "key": "菲律宾扫码服务|菲律宾扫码|单个|出售|菲律宾扫码单价7批量6|",
+      "category": "菲律宾扫码服务",
+      "name": "菲律宾扫码",
+      "variant": "单个",
+      "direction": "出售",
+      "seller": "菲律宾扫码单价7批量6",
+      "seller_url": "",
+      "link": "",
+      "price": 7.0,
+      "price_text": "菲律宾扫码单价7",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "卖家后续补充“一个二维码超过20秒算我输”",
+      "first_seen": "2026-08-07 04:02:17",
+      "last_seen": "2026-08-07 04:02:17",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 7.0,
+          "price_text": "菲律宾扫码单价7",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-07 04:02:17"
+        }
+      ],
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "菲律宾扫码单价7批量6",
+          "nickname_url": "",
+          "time": "2026-08-07 03:17:12",
+          "report_id": "1745da7d52da"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_a7f70cae244b",
