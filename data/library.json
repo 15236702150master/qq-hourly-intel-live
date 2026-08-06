@@ -1,6 +1,11 @@
 {
   "topics": [
     {
+      "name": "iDEAL/荷兰提炼工具",
+      "count": 1,
+      "updated_at": "2026-08-07 05:01:28"
+    },
+    {
       "name": "IC邮箱店铺",
       "count": 2,
       "updated_at": "2026-08-07 04:02:17"
@@ -1762,8 +1767,30 @@
           "report_id": "1745da7d52da"
         }
       ]
+    },
+    {
+      "id": "res_a71dc26bd11f",
+      "key": "iDEAL/荷兰提炼工具|ideal (1).tar.gz|ideal (1).tar.gz",
+      "topic": "iDEAL/荷兰提炼工具",
+      "title": "ideal (1).tar.gz",
+      "url": "",
+      "file_name": "ideal (1).tar.gz",
+      "purpose": "用于 iDEAL/荷兰提炼的 CLI 工具压缩包，群内称可配合荷兰提炼使用",
+      "notes": "发送者随后补充“cli”；未提供使用文档与外部下载地址",
+      "first_seen": "2026-08-07 05:01:28",
+      "last_seen": "2026-08-07 05:01:28",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-07 04:55:41",
+          "report_id": "6dcffbc60c40"
+        }
+      ]
     }
   ],
-  "resource_count": 64,
-  "product_count": 196
+  "resource_count": 65,
+  "product_count": 201
 }
