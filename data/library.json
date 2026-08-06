@@ -1,6 +1,46 @@
 {
   "topics": [
     {
+      "name": "CLIProxy流量",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "账号交易平台",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "iDEAL支付绑定",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "支付绑定样例",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "账号寄售平台",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "Plus账号价格快照",
+      "count": 2,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "Plus账号规格样例",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
+      "name": "邀请额度",
+      "count": 1,
+      "updated_at": "2026-08-07 06:02:22"
+    },
+    {
       "name": "iDEAL/荷兰提炼工具",
       "count": 1,
       "updated_at": "2026-08-07 05:01:28"
@@ -1789,8 +1829,206 @@
           "report_id": "6dcffbc60c40"
         }
       ]
+    },
+    {
+      "id": "res_1520a83ae99e",
+      "key": "https://dash.cliproxy.com/cli/traffic-use",
+      "topic": "CLIProxy流量",
+      "title": "CLIProxy 流量使用页",
+      "url": "https://dash.cliproxy.com/cli/traffic-use",
+      "file_name": "",
+      "purpose": "查看或核对 CLIProxy 流量消耗情况",
+      "notes": "群内同时有人说明该服务不需要邀请码；补流量建议另购 CDK",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-07 05:00:23",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_b0015dd6a7ec",
+      "key": "https://nvtokens.com/workspace",
+      "topic": "账号交易平台",
+      "title": "NVTokens Workspace",
+      "url": "https://nvtokens.com/workspace",
+      "file_name": "",
+      "purpose": "群内讨论用于查看/购买 Plus、K12、Team 等账号的平台入口",
+      "notes": "有成员称需要先充值才能购买，且平台支持他人上架账号",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "白嫖",
+          "nickname_url": "",
+          "time": "2026-08-07 05:27:33",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_b6731e056243",
+      "key": "https://pay.ideal.nl/transactions/https%3a%2f%2ftx.ideal.nl%2f2%2fapvvryeoqzh7veipnetjkzyxdjq?sig=cgbcqeibkgnfyeoukxwkoefdhhivzh4746bw4acssumuij2jd5d6wly3hpybccaeuocj6anobmhqndr3mrhrzpuuygcjxm5hi2c7d5bk5jhvkrkgcje",
+      "topic": "iDEAL支付绑定",
+      "title": "iDEAL 交易跳转链接样例",
+      "url": "https://pay.ideal.nl/transactions/https%3A%2F%2Ftx.ideal.nl%2F2%2FAPVVRYEOQZH7VEIPNETJKZYXDJQ?sig=CGBCQEIBKGNFYEOUKXWKOEFDHHIVZH4746BW4ACSSUMUIJ2JD5D6WLY3HPYBCCAEUOCJ6ANOBMHQNDR3MRHRZPUUYGCJXM5HI2C7D5BK5JHVKRKGCJE",
+      "file_name": "",
+      "purpose": "用于在线支付绑定/扫码流程的交易跳转样例",
+      "notes": "疑似单次交易链接，可复用性有限",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "sol",
+          "nickname_url": "",
+          "time": "2026-08-07 05:45:04",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_cd77035d90af",
+      "key": "支付绑定样例|f78fcb8de248b45b481e1071ff69db95.jpg|online payment linking successful 截图",
+      "topic": "支付绑定样例",
+      "title": "Online Payment Linking Successful 截图",
+      "url": "",
+      "file_name": "F78FCB8DE248B45B481E1071FF69DB95.jpg",
+      "purpose": "展示在线支付绑定成功后的页面结果，用于对照操作是否完成",
+      "notes": "画面显示“Online Payment Linking Successful”，并提示会收到确认短信",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "半只烤鸭",
+          "nickname_url": "",
+          "time": "2026-08-07 05:20:45",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_179675c4dc67",
+      "key": "账号寄售平台|072297eb2eb3d74ffe7c2b648ee8016b.jpg|nexusvault-云猫寄售 店铺页截图",
+      "topic": "账号寄售平台",
+      "title": "NexusVault-云猫寄售 店铺页截图",
+      "url": "",
+      "file_name": "072297EB2EB3D74FFE7C2B648EE8016B.jpg",
+      "purpose": "展示寄售平台店铺结构与可售商品分类",
+      "notes": "截图可见 plus 类目和 10/50/100/500/1000 元兑换码；群成员称需先充值后购买",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-07 05:33:17",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_e5af2b673e4e",
+      "key": "Plus账号价格快照|049944e459fab08f2cfdd357458cd641.png|aqua（icloud）plus 可售 58，标价 11.50 截图",
+      "topic": "Plus账号价格快照",
+      "title": "Aqua（icloud）Plus 可售 58，标价 11.50 截图",
+      "url": "",
+      "file_name": "049944E459FAB08F2CFDD357458CD641.png",
+      "purpose": "记录平台卖家 Aqua 的 Plus 存货与报价快照",
+      "notes": "截图可见“成交1K单·样本充分”“Plus 可售 58”“11.50”",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "白嫖",
+          "nickname_url": "",
+          "time": "2026-08-07 05:31:56",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_0daf1b5324d1",
+      "key": "Plus账号价格快照|20d08c86a272f1b1fd06c8021c945d9e.png|aqua（icloud）plus 可售 58，标价 11.00 截图",
+      "topic": "Plus账号价格快照",
+      "title": "Aqua（icloud）Plus 可售 58，标价 11.00 截图",
+      "url": "",
+      "file_name": "20D08C86A272F1B1FD06C8021C945D9E.png",
+      "purpose": "记录平台卖家 Aqua 的后续降价快照",
+      "notes": "截图可见“Plus 可售 58”“11.00”“可选”",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "a＇ゞ小S",
+          "nickname_url": "",
+          "time": "2026-08-07 05:46:01",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_daafcfc418a8",
+      "key": "Plus账号规格样例|be152c28bc065d6242dd79f9c8cbffdb.png|plus 个人账户有效期与周额度截图",
+      "topic": "Plus账号规格样例",
+      "title": "PLUS 个人账户有效期与周额度截图",
+      "url": "",
+      "file_name": "BE152C28BC065D6242DD79F9C8CBFFDB.png",
+      "purpose": "展示平台货账号的一个规格样例",
+      "notes": "截图可见 PLUS、个人账户、Weekly 100%、有效期32天、到期时间2026-09-07 09:59，并有“添加至 API 服务”按钮",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "今天研究什么渠道呢",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-07 05:43:40",
+          "report_id": "38d163338c90"
+        }
+      ]
+    },
+    {
+      "id": "res_ef8ce9629fc7",
+      "key": "邀请额度|ba8f2eedc29a1000d1e14cf03c6ae468.jpg|chatgpt 桌面版邀请 1000 额度截图",
+      "topic": "邀请额度",
+      "title": "ChatGPT 桌面版邀请 1000 额度截图",
+      "url": "",
+      "file_name": "BA8F2EEDC29A1000D1E14CF03C6AE468.jpg",
+      "purpose": "记录当前邀请奖励页面文案",
+      "notes": "截图显示邀请好友使用 ChatGPT 桌面版，对方发消息后双方各得1000额度",
+      "first_seen": "2026-08-07 06:02:22",
+      "last_seen": "2026-08-07 06:02:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-07 05:45:31",
+          "report_id": "38d163338c90"
+        }
+      ]
     }
   ],
-  "resource_count": 65,
-  "product_count": 201
+  "resource_count": 74,
+  "product_count": 205
 }
