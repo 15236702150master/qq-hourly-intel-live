@@ -1,58 +1,88 @@
 {
   "topics": [
     {
+      "name": "账号/服务",
+      "count": 105,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "渠道/提链",
+      "count": 61,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "支付/绑卡",
+      "count": 65,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "脚本/工具",
+      "count": 42,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "风控/验证",
+      "count": 49,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "平台状态",
+      "count": 47,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "卡头/直卡",
+      "count": 22,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "英区PayPal支付",
+      "count": 1,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "其他",
+      "count": 15,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "卡源渠道",
+      "count": 1,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "教程/渠道",
+      "count": 2,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "支付",
+      "count": 1,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "渠道",
+      "count": 1,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "支付/方法",
+      "count": 3,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
+      "name": "工具/机器人",
+      "count": 1,
+      "updated_at": "2026-08-11 04:03:30"
+    },
+    {
       "name": "接码平台",
       "count": 3,
       "updated_at": "2026-08-11 03:04:35"
     },
     {
-      "name": "账号/服务",
-      "count": 96,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "渠道/提链",
-      "count": 58,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "支付/绑卡",
-      "count": 62,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "脚本/工具",
-      "count": 40,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "风控/验证",
-      "count": 46,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "平台状态",
-      "count": 44,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "卡头/直卡",
-      "count": 20,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
       "name": "接码/邮箱",
       "count": 4,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "其他",
-      "count": 11,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "卡源渠道",
-      "count": 1,
       "updated_at": "2026-08-11 03:04:35"
     },
     {
@@ -194,11 +224,6 @@
       "name": "工具机制",
       "count": 1,
       "updated_at": "2026-08-10 22:05:07"
-    },
-    {
-      "name": "英区PayPal支付",
-      "count": 1,
-      "updated_at": "2026-08-10 21:05:38"
     },
     {
       "name": "月卡渠道",
@@ -4820,11 +4845,11 @@
       "kind": "payment",
       "url": "https://pay.153.ink/paypal-pay/",
       "file_name": "",
-      "purpose": "用于英区PayPal相关协议支付",
+      "purpose": "进入协议支付页进行后续支付/提炼操作",
       "notes": "群内称“用153的协议支付，免费的”；另有人反馈自己提出来后“没协议”，说明并非所有场景通用",
       "first_seen": "2026-08-10 20:32:12",
-      "last_seen": "2026-08-10 21:05:38",
-      "mentions": 2,
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 3,
       "sources": [
         {
           "group": "小脑虎 GPT 技术交流群",
@@ -4839,6 +4864,13 @@
           "nickname_url": "",
           "time": "2026-08-10 20:21:52",
           "report_id": "5a1e96ceb06e"
+        },
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 03:03:29",
+          "report_id": "d18517ce3e7a"
         }
       ]
     },
@@ -9401,14 +9433,14 @@
       "key": "https://pay.ldxp.cn/shop/ldxpcn",
       "topic": "卡源渠道",
       "title": "4361/各类卡售卖店铺",
-      "kind": "card_head",
+      "kind": "channel",
       "url": "https://pay.ldxp.cn/shop/ldxpcn",
       "file_name": "",
       "purpose": "卡头/卡资源销售页面入口",
       "notes": "昵称中标注4361、4002/04，11.5/张；图片不可读，细分规格未明",
       "first_seen": "2026-08-10 22:05:07",
-      "last_seen": "2026-08-11 03:04:35",
-      "mentions": 6,
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 7,
       "sources": [
         {
           "group": "桥云源头提炼",
@@ -9437,6 +9469,13 @@
           "nickname_url": "https://pay.ldxp.cn/shop/ldxpcn",
           "time": "2026-08-11 02:36:57",
           "report_id": "36d34881ff90"
+        },
+        {
+          "group": "桥云源头提炼",
+          "nickname": "4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn",
+          "nickname_url": "https://pay.ldxp.cn/shop/ldxpcn",
+          "time": "2026-08-11 03:01:57",
+          "report_id": "d18517ce3e7a"
         }
       ]
     },
@@ -13386,8 +13425,859 @@
           "report_id": "36d34881ff90"
         }
       ]
+    },
+    {
+      "id": "res_25da62c2621a",
+      "key": "账号/服务||plus 资源持续收购，价格偏低且需要对接",
+      "topic": "账号/服务",
+      "title": "Plus 资源持续收购，价格偏低且需要对接",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内先出现“5r大量收plus”，随后又有人明确表示“也没有收 plus 的，对接一下，带价来”。说明 Plus 资源有稳定需求，且对方要求先报价格再谈；未见成交细节。",
+      "notes": "状态：reported；下一步：补充给出具体单价、数量和交付方式后再对接",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn",
+          "nickname_url": "https://pay.ldxp.cn/shop/ldxpcn",
+          "time": "2026-08-11 03:20:26",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_2ba1649778d4",
+      "key": "账号/服务||未接码出现多笔收购，单价从10到13递进",
+      "topic": "账号/服务",
+      "title": "未接码出现多笔收购，单价从10到13递进",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人先报“10收未接码”，随后又有人跟进“12收未接码”，再出现“13要不要”“5个”的出价与数量沟通，买方回复“来”“加你了”。说明未接码有明确市场价格区间，当前对话已进入私聊对接阶段，数量为5个。",
+      "notes": "状态：confirmed；下一步：继续确认是否已成交、交付时间和可用地区",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "二师兄",
+          "nickname_url": "",
+          "time": "2026-08-11 03:29:11",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_621188b1c364",
+      "key": "风控/验证||绑定规则被问及“一绑2”，并有成功反馈",
+      "topic": "风控/验证",
+      "title": "绑定规则被问及“一绑2”，并有成功反馈",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人问“现在都是一绑2？”随后有人回复“yes刚成功”。这表明群内正在讨论某种绑定/验证限制，当前经验判断是可做到“一绑2”，且刚有成功案例，但未说明具体平台或操作步骤。",
+      "notes": "状态：reported；下一步：追问具体平台、绑定对象和限制条件",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "Xian.Yun",
+          "nickname_url": "",
+          "time": "2026-08-11 03:21:58",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_3664e917567e",
+      "key": "平台状态||卡网疑似关闭，影响cdk购买与消费",
+      "topic": "平台状态",
+      "title": "卡网疑似关闭，影响CDK购买与消费",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "阿七询问“买cdk的卡网怎么关了”，并紧接着催“火速我要消费”。说明某个与CDK购买相关的卡网/渠道疑似关闭或不可访问，导致正常消费受阻；当前没有给出恢复时间或替代入口。",
+      "notes": "状态：question；下一步：确认卡网名称、是否临时维护以及替代下单入口",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "阿七",
+          "nickname_url": "",
+          "time": "2026-08-11 03:28:30",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_84e46c461410",
+      "key": "其他||卡头/项目被追问，但未给出具体定义",
+      "topic": "其他",
+      "title": "卡头/项目被追问，但未给出具体定义",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内有人直接问“什么卡头”，随后只得到“项目”的简短回应，未补充任何卡头类型、用途或价位信息。属于概念性追问，尚无实质线索。",
+      "notes": "状态：question；下一步：继续确认“卡头”指代的具体项目和用途",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "杉猹花",
+          "nickname_url": "",
+          "time": "2026-08-11 03:23:07",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_f5553b072b67",
+      "key": "账号/服务||heygen 三个月免费码被转发并澄清为数字人站点",
+      "topic": "账号/服务",
+      "title": "HeyGen 三个月免费码被转发并澄清为数字人站点",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人贴出“Upi Scan Gpt Channel: HeyGen 3-Month Trick”内容，包含一个免费码格式示例和两个 heygen 相关链接；后续群友指出这不是 GPT 口子，而是 heygen 数字人网站，并表示“看错了”。",
+      "notes": "状态：reported；下一步：确认该码是否仍可用、是否需要特定地区/账号才能通过",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:02:34",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_564bcfb01cbb",
+      "key": "卡头/直卡||4513 被反复拿来讨论，能否提链仍不稳定",
+      "topic": "卡头/直卡",
+      "title": "4513 被反复拿来讨论，能否提链仍不稳定",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里多次围绕4513能否绑卡/提链争论。有人称“2000个老号你拿4513绑就行”“4513好像真的行了”“还行到3个”，也有人反馈“都提不出来卡”“4513提不出来免费送了”“4513还行吗，擦了为啥就拒我啊”；另有成员表示自己“每次都是几张卡都只有第一次行”，说明成功率很低且常表现为首单可过、后续失败。",
+      "notes": "状态：reported；下一步：继续用不同老号/节点做小样本复测，记录第1次与后续成功率差异",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 03:56:00",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_5e840e1429fd",
+      "key": "渠道/提链||upi 似乎复活，但提链与支付路径分裂",
+      "topic": "渠道/提链",
+      "title": "UPI 似乎复活，但提链与支付路径分裂",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "多名成员称“外国佬upi都复活了”“upi活了”“本来就能提”，但也有人明确说自己“没提出来”“提不出链”。群内判断是：扫描/支付与真正提链不是一回事，部分号能扫、能付、甚至能出单，但不一定能把链提出来。",
+      "notes": "状态：reported；下一步：区分“能扫/能付/能提链”三种结果分别记录账号与地区条件",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:05:25",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_954e06d0bbeb",
+      "key": "支付/绑卡||upi 扫码规则被总结：换 app、限制次数、部分 app 可用",
+      "topic": "支付/绑卡",
+      "title": "UPI 扫码规则被总结：换 App、限制次数、部分 app 可用",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里转述了一套“New QR Scanning Rules”：以前用的 UPI app 可能不稳定，建议换不同 app；同一 app 仅允许2次成功扫码后切换；列出的可试 app 包括 BHIM、GPay、PhonePe、Paytm、Amazon Pay、CRED、Super.money、Navi。群友补充“super money可以”“supermoney确定可以”“一天3次/2次”，但说法不一致，说明规则仍在实测中。",
+      "notes": "状态：reported；下一步：按 app 分别测试并统计每个 app 的可扫码次数与失败原因",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:06:52",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_a81429d0b20e",
+      "key": "平台状态||upi 扫描失败被归因于应用/账号/地区问题",
+      "topic": "平台状态",
+      "title": "UPI 扫描失败被归因于应用/账号/地区问题",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人说“upi扫描过期是阿三的app不行”“他们一直用那个自动扫描的app不可以”“要用另一个”“阿三扫不了”。也有人认为“没有付款成功一律都是假的”，提示当前很多“复活”消息仍需以真实付款成功为准。",
+      "notes": "状态：reported；下一步：核对真实付款成功截图与失败日志，排除仅“可扫不可付”的假活",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "Sg",
+          "nickname_url": "",
+          "time": "2026-08-11 03:06:19",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_3a98fee1a766",
+      "key": "渠道/提链||印度/巴西/菲律宾等地区链路被轮番提及，巴西pix也被点名",
+      "topic": "渠道/提链",
+      "title": "印度/巴西/菲律宾等地区链路被轮番提及，巴西Pix也被点名",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里先后提到“巴西也活了”“pix”“和巴西pix一个熊样”“泰国pp都来了”“gb英国”“之前是泰国大哥”。整体看是在比较不同国家支付/二维码/提链渠道的复活情况，但多数人只知道“有”，不知道具体提法。",
+      "notes": "状态：reported；下一步：把不同国家渠道按地区、APP、成功次数做对照表",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "Sg",
+          "nickname_url": "",
+          "time": "2026-08-11 03:09:57",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_2e2700e87fe8",
+      "key": "账号/服务||直卡/日抛/炸弹车的生存周期与价格被集中讨论",
+      "topic": "账号/服务",
+      "title": "直卡/日抛/炸弹车的生存周期与价格被集中讨论",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内多次讨论直卡、日抛和“炸弹车”。有人说“直卡小时抛”“直卡依旧小时内卖出去”“只有炸弹车能搞现在”“就是几十分钟死的那种，不过现在也额度好少”。价格方面出现“才100刀”“30刀还搞鸡毛”“K12 3.5”“日抛超过15我不买”“6块变3块”“20的日抛和pro20”“pro划算”。",
+      "notes": "状态：reported；下一步：统计不同车型的存活时间、额度与单价，筛出最优成本点",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "Sg",
+          "nickname_url": "",
+          "time": "2026-08-11 03:19:39",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_03df099b67af",
+      "key": "脚本/工具||有人声称有源码，但群友认为主要靠科研和撞库试错",
+      "topic": "脚本/工具",
+      "title": "有人声称有源码，但群友认为主要靠科研和撞库试错",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "围绕“源码”“撞”“成功率”持续争论。自动接码说“这个源码我有”“反正这个样子的我用过”；Sg 反驳“源码个锤子”“这就是153开源的”“不然怎么提升成功率？”。同时出现“少说一批几百个出几十”“别人10出5”“我刚十几个号一个没出”，显示成功率高度波动且依赖大量号池试错。",
+      "notes": "状态：reported；下一步：对不同“源码/开源版”做可复现实验，记录撞中率和账号要求",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "自动接码",
+          "nickname_url": "",
+          "time": "2026-08-11 03:38:45",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_e1e922453e7a",
+      "key": "平台状态||支付/绑定/checkout 出现成功与失败混杂，ip 还可能被封",
+      "topic": "平台状态",
+      "title": "支付/绑定/checkout 出现成功与失败混杂，IP 还可能被封",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "截图与文字显示有成员在做 paymentMethod 绑定与 checkout 流程，页面里出现“成功、待验证、失败、取消”统计，也有“Checkout 已生成”“blocked, 账号问题”“payment failure”“checkout/confirm 未返回 PaymentIntent client_secret”等报错。steven 还明确说“ip被封了，换ip试试”。",
+      "notes": "状态：confirmed；下一步：换 IP、换账号、换支付验证路径后复测 checkout 和绑定流程",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "steven",
+          "nickname_url": "",
+          "time": "2026-08-11 03:59:24",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_a1b77e058591",
+      "key": "支付/绑卡||有人把4513与老号绑定、提取at/优惠状态挂钩",
+      "topic": "支付/绑卡",
+      "title": "有人把4513与老号绑定、提取AT/优惠状态挂钩",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "情话询问“at要有优惠的时候提取有用吗”，Sg 回复“有肯定没坏处”“那玩意又不难”“再登录提一遍不就行了吗”；同时提到“浏览器注册好像不能设置密码”“就瞎比绑吧”，说明是在测试注册后立即提取/绑定的路径。",
+      "notes": "状态：reported；下一步：确认 AT 提取时机是否影响成功率，并对比优惠态与非优惠态",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 03:25:21",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_be2e43484b0f",
+      "key": "其他||群内有人出售未接码plus与团购车，出现明确价格",
+      "topic": "其他",
+      "title": "群内有人出售未接码plus与团购车，出现明确价格",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "豆奶两次发“21个未接码plus，来”；123456 提到“400有团购车啊，40一个人”；Skrual 说“进群400一位”，后来又有人喊“卖500吧”。这些更像群内资源/车位/套餐交易信息，价格与人数明确，但具体内容未完全展开。",
+      "notes": "状态：reported；下一步：核实团购车到底包含什么资源、是否限时或限人数",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "豆奶",
+          "nickname_url": "",
+          "time": "2026-08-11 03:06:34",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_37d0f1c2ea58",
+      "key": "支付/绑卡||153 协议支付入口已明确，转向具体支付页操作",
+      "topic": "支付/绑卡",
+      "title": "153 协议支付入口已明确，转向具体支付页操作",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内多次追问“协议支付在哪/在哪哥”，最终给出 153 的支付入口链接，说明当前操作入口是通过该协议支付页进行后续动作。随后多人围绕“点哪个”“一步还是”“是不是只能一个个付”继续确认，显示该流程不是普通一次性付款，而是需要按协议支付页逐步处理。",
+      "notes": "状态：confirmed；下一步：继续确认该支付页的填写项与跳转逻辑，记录每一步是否成功出链。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 03:03:29",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_051365d613dc",
+      "key": "风控/验证||支付失败集中出现，怀疑是代理/ip 或验证链路问题",
+      "topic": "风控/验证",
+      "title": "支付失败集中出现，怀疑是代理/IP 或验证链路问题",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "多名成员反馈“支付失败”“协议支付不成功”“拉闸了”“执行失败”“一直这种402”，并且有人明确判断“看样子是代理问题”“你代理的问题”“这个402就证明你代理是好的，需要撞”。说明当前失败不止一次，且部分人把失败归因于代理/IP，而不是目标号本身。",
+      "notes": "状态：reported；下一步：对比成功与失败样本的代理来源、地区与账号类型，排查是否为同一代理段触发风控。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "或许",
+          "nickname_url": "",
+          "time": "2026-08-11 03:15:41",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_0d0cc05d3d1a",
+      "key": "卡头/直卡||撞出来后仍在支付验证失败，且疑似卡头/卡段不稳定",
+      "topic": "卡头/直卡",
+      "title": "撞出来后仍在支付验证失败，且疑似卡头/卡段不稳定",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里有人说“我撞出来了啊”“支付失败了”，后续又有“撞开了”“没成功”“5206卡头过不了吧”等说法，说明部分目标已通过前置撞号，但在卡头/支付验证阶段过不去。另有成员直接发“卡头现开”并拉人一起测试，表明该方向仍在尝试中。",
+      "notes": "状态：reported；下一步：核对卡头类型与支付失败节点，区分是卡段问题还是验证环境问题。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "或许",
+          "nickname_url": "",
+          "time": "2026-08-11 03:00:45",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_9437c6755589",
+      "key": "渠道/提链||提炼/提链入口与结果页被反复确认，且有人在追问提交格式",
+      "topic": "渠道/提链",
+      "title": "提炼/提链入口与结果页被反复确认，且有人在追问提交格式",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人问“153提炼代理填哪”“哪里有便宜的ic邮箱卖”“这里要填吗”“这里需要填吗”“代理要什么格式”，显示该流程对提炼链接、代理格式、填写字段依赖很强。期间还出现“协议结果”“账单国家 GB”等结果页截图讨论，说明已经有人跑到结果展示阶段，但填写规则仍未统一。",
+      "notes": "状态：confirmed；下一步：整理一份提炼页字段清单，记录代理格式、国家字段、邮箱字段分别怎么填。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "金丹后期大圆满",
+          "nickname_url": "",
+          "time": "2026-08-11 03:01:04",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_7291014a02d1",
+      "key": "脚本/工具||本地部署/开源工具被频繁提及，但批量能力有限",
+      "topic": "脚本/工具",
+      "title": "本地部署/开源工具被频繁提及，但批量能力有限",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里出现“本地部署的啥格式都行”“这个不也是开源了吗”“153开源地址是哪个”“这个玩意也开源了啊”等讨论。成员普遍在尝试本地化或开源方案，但同时又说“没批量”“这个好像不能批量 就一个”“只能一个一个付”，说明工具即便可用，也可能没有批量能力。",
+      "notes": "状态：confirmed；下一步：确认具体开源项目名称与版本，测试是否支持批量以及可改字段。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "天份.",
+          "nickname_url": "",
+          "time": "2026-08-11 03:16:50",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_0cafbcc6c770",
+      "key": "账号/服务||pp/plus 相关账号在跑量，出现多个成单但生命周期与限制未明",
+      "topic": "账号/服务",
+      "title": "PP/Plus 相关账号在跑量，出现多个成单但生命周期与限制未明",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内持续讨论“pp”“plus”“免费pro5x”“收个plus”“开plus让我很爽”，并出现“今天晚上搞了几个了”“4个”“成了14个 还在一个一个付”“话说pp能活多久？”等信息。说明该账号/服务正在被批量尝试，但大家对可持续时间、可用期、以及是否会被封并不确定。",
+      "notes": "状态：reported；下一步：统计当前已成功数量与存活时长，观察是否有统一失效窗口。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 03:47:57",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_a981d5cd2604",
+      "key": "风控/验证||接码严重短缺，验证码获取成为主要瓶颈",
+      "topic": "风控/验证",
+      "title": "接码严重短缺，验证码获取成为主要瓶颈",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "多次出现“借不到验证码”“接码好难”“接码又没钱了”“便宜的都借不到码”“我一个都收不到”“该买接码了”“充点接码去”等说法。说明验证码环节是当前最大阻塞点之一，不是单纯支付页问题，而是前置验证资源不足。",
+      "notes": "状态：confirmed；下一步：补充接码余额并测试不同接码平台的到码率与国家覆盖。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 03:14:37",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_e3c6faa7dbb9",
+      "key": "其他||代理来源与地区配置被反复对照，地区切换仍不稳定",
+      "topic": "其他",
+      "title": "代理来源与地区配置被反复对照，地区切换仍不稳定",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里多次追问“哪家的代理”“你用的啥代理”“代理是什么格式”“哪里有代理”，并出现 ipweb、cli、皇冠、gb/jp/us、住宅 ip、新加坡 ip 等关键词。有人说“我美国”“账号是日本注册的”“大佬不都说了 新加坡ip撞”，表明大家在用不同地区与代理组合尝试绕过限制，但结果仍不稳定。",
+      "notes": "状态：confirmed；下一步：把代理来源、国家、账号注册地区和实际支付地区一一对应记录，找出最稳定组合。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "T",
+          "nickname_url": "",
+          "time": "2026-08-11 03:22:07",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_04b06f0b958e",
+      "key": "账号/服务||群内有人直接收售接码/plus/服务，显示存在小额交易和供需撮合",
+      "topic": "账号/服务",
+      "title": "群内有人直接收售接码/Plus/服务，显示存在小额交易和供需撮合",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "出现“12收已接码plus，无限收”“15收接码plus”“15出”“收个plus”等收购/出售信息；还有“有多少收多少”“太少了”“我大量要”等对接需求。说明群里除了技术测试，也存在明确的账号/服务撮合。",
+      "notes": "状态：confirmed；下一步：继续跟踪供需价格区间与成交条件，标记谁在长期收货或出货。",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "12收已接码plus，无限收",
+          "nickname_url": "",
+          "time": "2026-08-11 03:32:40",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_b0eb6265efb3",
+      "key": "账号/服务||k12 当前无在售，仅有历史售罄低价参考",
+      "topic": "账号/服务",
+      "title": "K12 当前无在售，仅有历史售罄低价参考",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "两次检索均为“0 个在售结果”。低价参考里保留了已售罄货源：¥0.10 的“K12 成品 sub2 cpa ot邮箱”，以及 ¥1.07 的“K12 支持 sub2api 和 cock 反代 K12 成品 新货”“K12 子号 成品 JSON 支持 sub2api / CPA / Cockpit Tools，且只能反代用”。说明当前无现货，但能看出货型偏向成品/子号、支持反代与 API 工具对接。",
+      "notes": "状态：confirmed；下一步：等补货后再看是否恢复在售与价格区间",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 03:01:13",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_c0d9da30ff3f",
+      "key": "账号/服务||plus 现货较多，价格分层明显，带库存与登录限制",
+      "topic": "账号/服务",
+      "title": "Plus 现货较多，价格分层明显，带库存与登录限制",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "Plus 检索到 10 个在售结果，价格从 ¥13.58 到 ¥17.73。已展示的货源包括：库存 267 的“8月4号最新 Plus 周额度-额度量大管饱 已稳定7天-icloud邮箱”(¥13.58)；库存 7 的“Plus 成品｜未接码｜直卡｜邮箱+密码+2FA登录”(¥14.70)；库存 376 的“直卡或韩国 plus账号，首登质保，只能登录网页版，登录 codex 需要接码”(¥15.95)；库存 325 的“GBTPLUS独享，未接码成品号|质保首登”(¥16.28)；库存 166/116 的“8.10 新鲜直供 Plus 未接码成品号/独享成品号|质保首登”(均 ¥16.50)；库存 1 的“icloud 直卡 plus 未接码 8.10 新开”(¥17.60)；库存 27 的“Plus 独享账号(直绑渠道，iCloud邮箱，质保首...)”但后半截被截断。",
+      "notes": "状态：confirmed；下一步：优先核对直卡/直绑、是否支持 codex、质保范围和网页版限制",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 03:32:33",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_07fa9fc59f99",
+      "key": "账号/服务||plus 货源稳定性被群友认可",
+      "topic": "账号/服务",
+      "title": "Plus 货源稳定性被群友认可",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群友 minnnn 评价“plus 周额度库存多，8月4号最新货源挺稳定的，值得看下”。这是对前述 Plus 周额度/库存货的口头背书，强调库存充足与稳定性。",
+      "notes": "状态：reported；下一步：继续观察是否有人反馈掉线、封禁或质保兑现情况",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "minnnn",
+          "nickname_url": "",
+          "time": "2026-08-11 03:32:41",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_d804c6487406",
+      "key": "https://www.heygen.com/en-in/omen",
+      "topic": "教程/渠道",
+      "title": "HeyGen 3个月免费码/数字人站点教程",
+      "kind": "tutorial",
+      "url": "https://www.heygen.com/en-in/omen",
+      "file_name": "",
+      "purpose": "按给定前缀规则尝试免费码，进入HeyGen相关活动页",
+      "notes": "群内后续确认这是heygen数字人站点，不是GPT口子；需保持代码前缀不变，后缀随机尝试",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:02:34",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_8e9eed5bcde7",
+      "key": "https://www.heygen.com/en-in/partners/omen",
+      "topic": "教程/渠道",
+      "title": "HeyGen Partners 活动页",
+      "kind": "channel",
+      "url": "https://www.heygen.com/en-in/partners/omen",
+      "file_name": "",
+      "purpose": "HeyGen合作/活动入口",
+      "notes": "与免费码教程同时转发",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:02:34",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_095b88732a42",
+      "key": "https://pm-redirects.stripe.com/authorize/",
+      "topic": "支付",
+      "title": "Stripe 授权跳转页",
+      "kind": "payment",
+      "url": "https://pm-redirects.stripe.com/authorize/",
+      "file_name": "",
+      "purpose": "支付授权/跳转",
+      "notes": "原消息带临时参数，已去除；群内称“貌似也是pp”",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "T",
+          "nickname_url": "",
+          "time": "2026-08-11 03:28:14",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_c7180b10866d",
+      "key": "渠道||接码/扫描机器人",
+      "topic": "渠道",
+      "title": "接码/扫描机器人",
+      "kind": "channel",
+      "url": "",
+      "file_name": "",
+      "purpose": "接码、扫描、提链辅助",
+      "notes": "@scanupigptbot 被直接@提及",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "极光",
+          "nickname_url": "",
+          "time": "2026-08-11 03:10:38",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_154326edebb9",
+      "key": "支付/方法||super.money",
+      "topic": "支付/方法",
+      "title": "Super.money",
+      "kind": "payment",
+      "url": "",
+      "file_name": "",
+      "purpose": "UPI 扫码/支付渠道",
+      "notes": "群内明确说“super money可以”；稳定性仍在实测",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:07:17",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_864f768d7da6",
+      "key": "支付/方法||upi 扫码提链方法",
+      "topic": "支付/方法",
+      "title": "UPI 扫码提链方法",
+      "kind": "payment",
+      "url": "",
+      "file_name": "",
+      "purpose": "通过 UPI 扫码进行支付/提链",
+      "notes": "需更换App、可能受次数限制；群内提到 BHIM、GPay、PhonePe、Paytm、Amazon Pay、CRED、Navi 等",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "渺渺",
+          "nickname_url": "",
+          "time": "2026-08-11 03:06:52",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_ca92a0fac4d8",
+      "key": "支付/方法||paypal/pp 跑号与协议支付",
+      "topic": "支付/方法",
+      "title": "PayPal/PP 跑号与协议支付",
+      "kind": "payment",
+      "url": "",
+      "file_name": "",
+      "purpose": "用于跑号、协议支付、绑定验证",
+      "notes": "群内多次提到 pp、协议支付、跑paypal、需要代理/接码",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 03:27:07",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_c8f4feaa0c9b",
+      "key": "其他||付款验证/绑定提取经验",
+      "topic": "其他",
+      "title": "付款验证/绑定提取经验",
+      "kind": "other",
+      "url": "",
+      "file_name": "",
+      "purpose": "处理 paymentMethod、checkout、提炼字段",
+      "notes": "多次反馈支付失败、402、blocked、需换代理/IP/手机号/邮箱",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "或许",
+          "nickname_url": "",
+          "time": "2026-08-11 03:15:41",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
+    },
+    {
+      "id": "res_a82a737bf386",
+      "key": "工具/机器人||@scanupigptbot",
+      "topic": "工具/机器人",
+      "title": "@scanupigptbot",
+      "kind": "bot",
+      "url": "",
+      "file_name": "",
+      "purpose": "扫描/提取辅助机器人",
+      "notes": "群内直接@提及，疑似用于 UPI/支付相关扫描或辅助操作",
+      "first_seen": "2026-08-11 04:03:30",
+      "last_seen": "2026-08-11 04:03:30",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "极光",
+          "nickname_url": "",
+          "time": "2026-08-11 03:10:38",
+          "report_id": "d18517ce3e7a"
+        }
+      ]
     }
   ],
-  "resource_count": 547,
-  "product_count": 363
+  "resource_count": 584,
+  "product_count": 390
 }
