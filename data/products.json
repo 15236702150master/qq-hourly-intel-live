@@ -5240,6 +5240,120 @@
       "is_lowest": true
     },
     {
+      "id": "prd_f4045414aaa2",
+      "key": "k12账号/子号|k12 成品 sub2 cpa ot邮箱|成品|出售|ai小头|",
+      "category": "K12账号/子号",
+      "name": "k12 成品 sub2 cpa ot邮箱",
+      "variant": "成品",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 0.1,
+      "price_text": "¥0.10",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "低价参考；已售罄",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.1,
+          "price_text": "¥0.10",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:00:59",
+          "report_id": "915936a17d06"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_45b90b96c81e",
+      "key": "k12账号/子号|k12 子号 json|支持 sub2api / cpa / cockpit tools|出售|ai小头|",
+      "category": "K12账号/子号",
+      "name": "K12 子号 JSON",
+      "variant": "支持 sub2api / CPA / Cockpit Tools",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 1.07,
+      "price_text": "¥1.07",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "注明只能反代用；已售罄",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.07,
+          "price_text": "¥1.07",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:00:59",
+          "report_id": "915936a17d06"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_321b0730d0e8",
+      "key": "k12账号/子号|k12 支持 sub2api 和 cock 反代成品|新货|出售|ai小头|",
+      "category": "K12账号/子号",
+      "name": "k12 支持 sub2api 和 cock 反代成品",
+      "variant": "新货",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 1.07,
+      "price_text": "¥1.07",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "低价参考；已售罄",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.07,
+          "price_text": "¥1.07",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:00:59",
+          "report_id": "915936a17d06"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_0e811a153733",
       "key": "k12账号/子号|k12子号 成品 json|支持 sub2api / cpa / cockpit tools，只能反代用|服务报价|ai小头|",
       "category": "K12账号/子号",
@@ -9895,6 +10009,44 @@
       "is_lowest": false
     },
     {
+      "id": "prd_e4692c7589d4",
+      "key": "卡头/直卡|4513直卡|jp/us来源；可绑卡测试|出售|情话|",
+      "category": "卡头/直卡",
+      "name": "4513直卡",
+      "variant": "JP/US来源；可绑卡测试",
+      "direction": "出售",
+      "seller": "情话",
+      "seller_url": "",
+      "link": "",
+      "price": 3.0,
+      "price_text": "¥3",
+      "currency": "CNY",
+      "unit": "张",
+      "details": "群内确认是直卡，不是PP；已出现30出30、100出货率等口径",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 3.0,
+          "price_text": "¥3",
+          "currency": "CNY",
+          "unit": "张",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:36:16",
+          "report_id": "915936a17d06"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_38381c4113fe",
       "key": "卡头/直卡|4361/4002/04卡头|卡头/店铺货|出售|4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn|https://pay.ldxp.cn/shop/ldxpcn",
       "category": "卡头/直卡",
@@ -9930,7 +10082,7 @@
           "report_id": "d18517ce3e7a"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_73e9d1d6bd4e",
@@ -11217,6 +11369,44 @@
           "nickname_url": "",
           "time": "2026-08-10 20:52:59",
           "report_id": "5a1e96ceb06e"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_6a10deac0912",
+      "key": "接码服务|英国接码|英国段地址|求购|💋、survivor。℡|",
+      "category": "接码服务",
+      "name": "英国接码",
+      "variant": "英国段地址",
+      "direction": "求购",
+      "seller": "💋、survivor。℡",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "上游已挂，求可用地址",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 05:21:37",
+          "report_id": "915936a17d06"
         }
       ],
       "is_lowest": false
@@ -13415,6 +13605,82 @@
           "nickname_url": "",
           "time": "2026-08-11 03:33:21",
           "report_id": "d18517ce3e7a"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_5799fd775715",
+      "key": "账号/服务|icloud plus|8.10号凌晨新出；未接码；已设2fa|出售|ai小头|https://pay.ldxp.cn/item/yo6d7v",
+      "category": "账号/服务",
+      "name": "iCloud PLUS",
+      "variant": "8.10号凌晨新出；未接码；已设2fa",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/yo6d7v",
+      "price": 11.0,
+      "price_text": "¥11",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "已设置双重验证，未接码",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.0,
+          "price_text": "¥11",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:41:33",
+          "report_id": "915936a17d06"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_20e9788f0086",
+      "key": "账号/服务|直卡或韩国 plus 账号|首登质保；只能登录网页版|出售|ai小头|https://pay.ldxp.cn/item/wrwidi",
+      "category": "账号/服务",
+      "name": "直卡或韩国 plus 账号",
+      "variant": "首登质保；只能登录网页版",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/wrwidi",
+      "price": 11.0,
+      "price_text": "¥11",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "登录 codex 需要接码",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.0,
+          "price_text": "¥11",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 06:03:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:01:11",
+          "report_id": "915936a17d06"
         }
       ],
       "is_lowest": false
