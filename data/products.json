@@ -4214,6 +4214,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_00f79f8e6db0",
+      "key": "k12账号|k12 成品 sub2 cpa ot邮箱|历史低价参考，已售罄|出售|ai小头|",
+      "category": "K12账号",
+      "name": "k12 成品 sub2 cpa ot邮箱",
+      "variant": "历史低价参考，已售罄",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 0.1,
+      "price_text": "¥0.10｜k12 成品 sub2 cpa ot邮箱",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "当前0个在售，仅低价参考",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.1,
+          "price_text": "¥0.10｜k12 成品 sub2 cpa ot邮箱",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:00:24",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_ecc1de692e28",
       "key": "k12账号|谷歌空间 k12 成品 json|默认sub2api格式发货-8.5号15:30新空间|出售|小小海|https://pay.ldxp.cn/item/sgql4o",
       "category": "K12账号",
@@ -4247,6 +4285,82 @@
           "nickname_url": "",
           "time": "2026-08-06 20:32:23",
           "report_id": "362dfff9ec91"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_ea4347cef253",
+      "key": "k12账号|k12子号 成品 json|支持sub2api/cpa/cockpit tools，历史低价参考，已售罄|出售|ai小头|",
+      "category": "K12账号",
+      "name": "K12子号 成品 JSON",
+      "variant": "支持sub2api/CPA/Cockpit Tools，历史低价参考，已售罄",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 1.07,
+      "price_text": "¥1.07｜K12子号 成品 JSON 支持 sub2api / CPA / Cockpit Tools 只能反代用",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "当前0个在售；只能反代用",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.07,
+          "price_text": "¥1.07｜K12子号 成品 JSON 支持 sub2api / CPA / Cockpit Tools 只能反代用",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:00:24",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_4e913437f3b0",
+      "key": "k12账号|k12 支持sub2api和cock反代成品|新货，历史低价参考，已售罄|出售|ai小头|",
+      "category": "K12账号",
+      "name": "k12 支持sub2api和cock反代成品",
+      "variant": "新货，历史低价参考，已售罄",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 1.07,
+      "price_text": "¥1.07｜k12 支持sub2api和cock反代K12 成品 新货",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "当前0个在售，仅低价参考；仅反代/API相关用途",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.07,
+          "price_text": "¥1.07｜k12 支持sub2api和cock反代K12 成品 新货",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:00:24",
+          "report_id": "36d34881ff90"
         }
       ],
       "is_lowest": false
@@ -7583,6 +7697,165 @@
       "is_lowest": false
     },
     {
+      "id": "prd_75c794a0d559",
+      "key": "plus账号|接码 plus|5个，已接码/接码类|出售|lucky|",
+      "category": "Plus账号",
+      "name": "接码 Plus",
+      "variant": "5个，已接码/接码类",
+      "direction": "出售",
+      "seller": "lucky",
+      "seller_url": "",
+      "link": "",
+      "price": 16.0,
+      "price_text": "16r 出5个接码 plus",
+      "currency": "CNY",
+      "unit": "5个",
+      "details": "未说明独享/共享、地区、售后",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 16.0,
+          "price_text": "16r 出5个接码 plus",
+          "currency": "CNY",
+          "unit": "5个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "lucky",
+          "nickname_url": "",
+          "time": "2026-08-11 02:04:17",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_62fb10214d53",
+      "key": "plus账号|已接码 plus|6个，ic邮箱，pp渠道|出售|xinshijie|",
+      "category": "Plus账号",
+      "name": "已接码 Plus",
+      "variant": "6个，ic邮箱，pp渠道",
+      "direction": "出售",
+      "seller": "xinshijie",
+      "seller_url": "",
+      "link": "",
+      "price": 80.0,
+      "price_text": "80r出6个已接码plus，ic邮箱pp渠道",
+      "currency": "CNY",
+      "unit": "6个",
+      "details": "已接码；带ic邮箱；PP渠道；未说明直卡/售后",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 80.0,
+          "price_text": "80r出6个已接码plus，ic邮箱pp渠道",
+          "currency": "CNY",
+          "unit": "6个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "xinshijie",
+          "nickname_url": "",
+          "time": "2026-08-11 02:13:45",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_1737f527b767",
+      "key": "plus账号|已接码 plus|6个打包，ic邮箱，pp渠道，非直卡协议|出售|xinshijie|",
+      "category": "Plus账号",
+      "name": "已接码 Plus",
+      "variant": "6个打包，ic邮箱，pp渠道，非直卡协议",
+      "direction": "出售",
+      "seller": "xinshijie",
+      "seller_url": "",
+      "link": "",
+      "price": 85.0,
+      "price_text": "85r出6个已接码plus，ic邮箱pp渠道，非直卡协议，最低一个85额度，2个90，3个100，打包出",
+      "currency": "CNY",
+      "unit": "6个",
+      "details": "打包出；非直卡协议；最低一个85额度，2个90，3个100",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 2,
+      "price_history": [
+        {
+          "price": 85.0,
+          "price_text": "85r出6个已接码plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        },
+        {
+          "price": 85.0,
+          "price_text": "85r出6个已接码plus，ic邮箱pp渠道，非直卡协议，最低一个85额度，2个90，3个100，打包出",
+          "currency": "CNY",
+          "unit": "6个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "xinshijie",
+          "nickname_url": "",
+          "time": "2026-08-11 02:06:36",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_38f1b34be544",
+      "key": "plus账号|未接码直卡 plus|16个，邮箱+api取件链接格式，刚开|出售|似玉.|",
+      "category": "Plus账号",
+      "name": "未接码直卡 Plus",
+      "variant": "16个，邮箱+API取件链接格式，刚开",
+      "direction": "出售",
+      "seller": "似玉.",
+      "seller_url": "",
+      "link": "",
+      "price": 11.0,
+      "price_text": "16个未接码直卡plus，11出",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "附邮箱+API取件链接格式；卖家称刚开，口头称至少能撑到今天中午；稳定性有争议",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.0,
+          "price_text": "16个未接码直卡plus，11出",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "似玉.",
+          "nickname_url": "",
+          "time": "2026-08-11 02:48:31",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_717b487189aa",
       "key": "plus账号|plus||出售|何方妖孽|",
       "category": "Plus账号",
@@ -7618,7 +7891,235 @@
           "report_id": "5a1e96ceb06e"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
+    },
+    {
+      "id": "prd_2fafdbc905d1",
+      "key": "plus账号|未接码账号|刚出炉，1个|出售|金丹后期大圆满|",
+      "category": "Plus账号",
+      "name": "未接码账号",
+      "variant": "刚出炉，1个",
+      "direction": "出售",
+      "seller": "金丹后期大圆满",
+      "seller_url": "",
+      "link": "",
+      "price": 15.0,
+      "price_text": "15出一个未接码，刚出炉",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未说明是否Plus/直卡；后续重复发布同价",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 15.0,
+          "price_text": "15出一个未接码，刚出炉",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "金丹后期大圆满",
+          "nickname_url": "",
+          "time": "2026-08-11 02:41:04",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_2c14901fa5dd",
+      "key": "plus账号|未接码账号|1个|出售|金丹后期大圆满|",
+      "category": "Plus账号",
+      "name": "未接码账号",
+      "variant": "1个",
+      "direction": "出售",
+      "seller": "金丹后期大圆满",
+      "seller_url": "",
+      "link": "",
+      "price": 15.0,
+      "price_text": "15出1个",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "同一卖家重复放单",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 15.0,
+          "price_text": "15出1个",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "金丹后期大圆满",
+          "nickname_url": "",
+          "time": "2026-08-11 02:43:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_f05842287fde",
+      "key": "plus账号|plus 成品|未接码，直卡，邮箱+密码+2fa登录|出售|ai小头|https://pay.ldxp.cn/item/uuu0hi",
+      "category": "Plus账号",
+      "name": "Plus 成品",
+      "variant": "未接码，直卡，邮箱+密码+2FA登录",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/uuu0hi",
+      "price": 15.75,
+      "price_text": "¥15.75",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存12；特价货源",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 15.75,
+          "price_text": "¥15.75",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_a8fb1a761662",
+      "key": "plus账号|gbtplus独享|未接码成品号，首登质保|出售|ai小头|https://pay.ldxp.cn/item/7h3m0n",
+      "category": "Plus账号",
+      "name": "GBTPLUS独享",
+      "variant": "未接码成品号，首登质保",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/7h3m0n",
+      "price": 16.28,
+      "price_text": "¥16.28",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存222；8.11新鲜直供",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 16.28,
+          "price_text": "¥16.28",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_8b71142d8cd6",
+      "key": "plus账号|plus独享号|icloud邮箱|出售|ai小头|https://pay.ldxp.cn/item/fce386",
+      "category": "Plus账号",
+      "name": "PLUS独享号",
+      "variant": "iCloud邮箱",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/fce386",
+      "price": 16.39,
+      "price_text": "¥16.39",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存15；新鲜货",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 16.39,
+          "price_text": "¥16.39",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_ddbbc8b69edd",
+      "key": "plus账号|plus未接码成品号|直供|出售|ai小头|https://pay.ldxp.cn/item/whhydj",
+      "category": "Plus账号",
+      "name": "Plus未接码成品号",
+      "variant": "直供",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/whhydj",
+      "price": 16.5,
+      "price_text": "¥16.50",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存62；8.10新鲜",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 16.5,
+          "price_text": "¥16.50",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_c2c3f0469768",
@@ -7657,6 +8158,393 @@
         }
       ],
       "is_lowest": false
+    },
+    {
+      "id": "prd_6b1ccecbc46f",
+      "key": "plus账号|直卡或韩国 plus账号|网页版可登，codex需接码|出售|ai小头|https://pay.ldxp.cn/item/wrwidi",
+      "category": "Plus账号",
+      "name": "直卡或韩国 Plus账号",
+      "variant": "网页版可登，codex需接码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/wrwidi",
+      "price": 17.05,
+      "price_text": "¥17.05",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存117；首登质保；只能登录网页版，登录codex需要接码",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 17.05,
+          "price_text": "¥17.05",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_73589cd66e3c",
+      "key": "plus账号|plus独享未接码成品号|首登质保|出售|ai小头|https://pay.ldxp.cn/item/azmi94",
+      "category": "Plus账号",
+      "name": "PLUS独享未接码成品号",
+      "variant": "首登质保",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/azmi94",
+      "price": 18.7,
+      "price_text": "¥18.70",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存34；8.10新鲜直供",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 18.7,
+          "price_text": "¥18.70",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_a0541c650190",
+      "key": "plus账号|plus 周额度账号|icloud邮箱|出售|ai小头|https://pay.ldxp.cn/item/32jp9i",
+      "category": "Plus账号",
+      "name": "Plus 周额度账号",
+      "variant": "iCloud邮箱",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/32jp9i",
+      "price": 18.8,
+      "price_text": "¥18.80",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存33；文案称额度量大管饱，已稳定7天",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 18.8,
+          "price_text": "¥18.80",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_629acf3287d0",
+      "key": "plus账号|plus 独享账号|直绑渠道，icloud邮箱，质保首登，未接码|出售|ai小头|",
+      "category": "Plus账号",
+      "name": "Plus 独享账号",
+      "variant": "直绑渠道，iCloud邮箱，质保首登，未接码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 18.91,
+      "price_text": "¥18.91",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存29",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 18.91,
+          "price_text": "¥18.91",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:33:37",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_d42e1b470e3e",
+      "key": "plus账号|plus|库存最后几个|出售|何方妖孽|",
+      "category": "Plus账号",
+      "name": "Plus",
+      "variant": "库存最后几个",
+      "direction": "出售",
+      "seller": "何方妖孽",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出plus；还有最后几个plus；需要的速度",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存有限，未说明是否接码/直卡/质保",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出plus；还有最后几个plus；需要的速度",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-11 02:06:17",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_023c0e999dd7",
+      "key": "plus账号|plus|未说明|出售|何方妖孽|",
+      "category": "Plus账号",
+      "name": "Plus",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "何方妖孽",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出plus",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未说明规格与数量",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 2,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-11 02:16:19",
+          "report_id": "36d34881ff90"
+        },
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-11 02:16:26",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_65f5948a6af7",
+      "key": "plus账号|plus|50-60个现货，规格未说明|出售|yu|",
+      "category": "Plus账号",
+      "name": "Plus",
+      "variant": "50-60个现货，规格未说明",
+      "direction": "出售",
+      "seller": "YU",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有人要plus吗，今天没时间出手了",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "卖家称手里约50-60个；未说明接码/直卡/售后",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有人要plus吗，今天没时间出手了",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "YU",
+          "nickname_url": "",
+          "time": "2026-08-11 02:58:08",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_c21d7488d87d",
+      "key": "plus账号|plus|新鲜的，最后几个|出售|何方妖孽|",
+      "category": "Plus账号",
+      "name": "Plus",
+      "variant": "新鲜的，最后几个",
+      "direction": "出售",
+      "seller": "何方妖孽",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出plus；新鲜的；最后几个了",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "强调新鲜和限量，未说明规格和价格",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出plus；新鲜的；最后几个了",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-11 02:08:14",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_5774fd6e2cfd",
+      "key": "plus账号|接码账号|两新鲜接码的|出售|bach|",
+      "category": "Plus账号",
+      "name": "接码账号",
+      "variant": "两新鲜接码的",
+      "direction": "出售",
+      "seller": "bach",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有两新鲜接码的",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "数量2，未明确是否Plus",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有两新鲜接码的",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "bach",
+          "nickname_url": "",
+          "time": "2026-08-11 02:04:57",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_4f4481f377ee",
+      "key": "plus账号|plus|市场口径|收购|穷逼旧言。|",
+      "category": "Plus账号",
+      "name": "Plus",
+      "variant": "市场口径",
+      "direction": "收购",
+      "seller": "穷逼旧言。",
+      "seller_url": "",
+      "link": "",
+      "price": 8.0,
+      "price_text": "8r差不多",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "针对 YU 手中 plus 的即时市场收价/估价口径，未明确是收价还是建议出价",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 8.0,
+          "price_text": "8r差不多",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "穷逼旧言。",
+          "nickname_url": "",
+          "time": "2026-08-11 02:58:46",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
     },
     {
       "id": "prd_9173c8e8e103",
@@ -7773,6 +8661,44 @@
       "is_lowest": false
     },
     {
+      "id": "prd_701d3bc535dc",
+      "key": "plus账号|plus账号|未说明|求购|大脑虎|",
+      "category": "Plus账号",
+      "name": "Plus账号",
+      "variant": "未说明",
+      "direction": "求购",
+      "seller": "大脑虎",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "Plus啊 / 卖我一个",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "即时求购",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "Plus啊 / 卖我一个",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-11 02:03:16",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_163e2bd3b924",
       "key": "plus账号|plus||求购|a_酷鸭 免实名港日韩亚太vps|",
       "category": "Plus账号",
@@ -7806,6 +8732,44 @@
           "nickname_url": "",
           "time": "2026-08-10 20:49:56",
           "report_id": "5a1e96ceb06e"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_5c2c4da96b17",
+      "key": "plus账号|未接码 plus 或 rt|未接码|求购|.|",
+      "category": "Plus账号",
+      "name": "未接码 Plus 或 RT",
+      "variant": "未接码",
+      "direction": "求购",
+      "seller": ".",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "谁有未接plus或者rt 卖我一个",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "因没额度而求购",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "谁有未接plus或者rt 卖我一个",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": ".",
+          "nickname_url": "",
+          "time": "2026-08-11 02:03:24",
+          "report_id": "36d34881ff90"
         }
       ],
       "is_lowest": false
@@ -7961,6 +8925,158 @@
         }
       ],
       "is_lowest": false
+    },
+    {
+      "id": "prd_5b61b43722e0",
+      "key": "team车位|codex-反代 k12team子号成品|只能反代，历史低价参考，已售罄|出售|ai小头|",
+      "category": "Team车位",
+      "name": "codex-反代 k12team子号成品",
+      "variant": "只能反代，历史低价参考，已售罄",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 1.6,
+      "price_text": "¥1.60",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "买错不退；仅历史低价参考",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.6,
+          "price_text": "¥1.60",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:17:01",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_ad1cf7a9b239",
+      "key": "team车位|月额度 team 速刷号|仅支持sub2api和cpa，历史低价参考，已售罄|出售|ai小头|",
+      "category": "Team车位",
+      "name": "月额度 team 速刷号",
+      "variant": "仅支持sub2api和cpa，历史低价参考，已售罄",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 10.45,
+      "price_text": "¥10.45",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "长效车失效时间10-11点；仅历史低价参考",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 10.45,
+          "price_text": "¥10.45",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:17:01",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_f0acfdc6fc70",
+      "key": "team车位|240刀 bugteam 速刷号|历史低价参考，已售罄|出售|ai小头|",
+      "category": "Team车位",
+      "name": "240刀 Bugteam 速刷号",
+      "variant": "历史低价参考，已售罄",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 12.5,
+      "price_text": "¥12.50",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "无任何质保；仅历史低价参考",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.5,
+          "price_text": "¥12.50",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:17:01",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_d4d7ff730b44",
+      "key": "team车位|codex team 月权益【车位】|正规车位，可与plus并存|出售|ai小头|https://pay.ldxp.cn/item/1877rd",
+      "category": "Team车位",
+      "name": "Codex Team 月权益【车位】",
+      "variant": "正规车位，可与plus并存",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/1877rd",
+      "price": 140.8,
+      "price_text": "¥140.80",
+      "currency": "CNY",
+      "unit": "份",
+      "details": "库存71；黑冲货源；用于缓解额度不够用问题",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 140.8,
+          "price_text": "¥140.80",
+          "currency": "CNY",
+          "unit": "份",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 02:17:01",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
     },
     {
       "id": "prd_6f753ea62317",
@@ -8419,6 +9535,82 @@
       "is_lowest": false
     },
     {
+      "id": "prd_73e9d1d6bd4e",
+      "key": "卡料/卡头|卡料|4361|出售|4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn|https://pay.ldxp.cn/shop/ldxpcn",
+      "category": "卡料/卡头",
+      "name": "卡料",
+      "variant": "4361",
+      "direction": "出售",
+      "seller": "4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn",
+      "seller_url": "https://pay.ldxp.cn/shop/ldxpcn",
+      "link": "https://pay.ldxp.cn/shop/ldxpcn",
+      "price": 11.5,
+      "price_text": "11.5/张",
+      "currency": "CNY",
+      "unit": "张",
+      "details": "上了几个；需要自取；自助下单",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.5,
+          "price_text": "11.5/张",
+          "currency": "CNY",
+          "unit": "张",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn",
+          "nickname_url": "https://pay.ldxp.cn/shop/ldxpcn",
+          "time": "2026-08-11 02:36:57",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_ac93b29090bf",
+      "key": "卡料/卡头|卡料|4002/04|出售|4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn|https://pay.ldxp.cn/shop/ldxpcn",
+      "category": "卡料/卡头",
+      "name": "卡料",
+      "variant": "4002/04",
+      "direction": "出售",
+      "seller": "4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn",
+      "seller_url": "https://pay.ldxp.cn/shop/ldxpcn",
+      "link": "https://pay.ldxp.cn/shop/ldxpcn",
+      "price": 11.5,
+      "price_text": "11.5/张",
+      "currency": "CNY",
+      "unit": "张",
+      "details": "上了几个；需要自取；自助下单",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.5,
+          "price_text": "11.5/张",
+          "currency": "CNY",
+          "unit": "张",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "4361，4002/04,11.5/张，https://pay.ldxp.cn/shop/ldxpcn",
+          "nickname_url": "https://pay.ldxp.cn/shop/ldxpcn",
+          "time": "2026-08-11 02:36:57",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_439ba948aee8",
       "key": "卡片|4631 卡|4631|出售|梦ω该醒了ζ|",
       "category": "卡片",
@@ -8683,6 +9875,120 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_676d21acf081",
+      "key": "开号方法/陪跑|焚决|领方法/上车|服务报价|偷点薯条|",
+      "category": "开号方法/陪跑",
+      "name": "焚决",
+      "variant": "领方法/上车",
+      "direction": "服务报价",
+      "seller": "偷点薯条",
+      "seller_url": "",
+      "link": "",
+      "price": 188.0,
+      "price_text": "188找我领焚决",
+      "currency": "CNY",
+      "unit": "位",
+      "details": "疑似转卖/跟价；未说明售后",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 188.0,
+          "price_text": "188找我领焚决",
+          "currency": "CNY",
+          "unit": "位",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 02:53:05",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_cddec12a4e03",
+      "key": "开号方法/陪跑|焚决|领方法/上车|服务报价|自动接码|",
+      "category": "开号方法/陪跑",
+      "name": "焚决",
+      "variant": "领方法/上车",
+      "direction": "服务报价",
+      "seller": "自动接码",
+      "seller_url": "",
+      "link": "",
+      "price": 300.0,
+      "price_text": "300找我领焚决",
+      "currency": "CNY",
+      "unit": "位",
+      "details": "群内称开两轮回本；售后口径为“一炉不到账包退”；不含统一成功率证明",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 300.0,
+          "price_text": "300找我领焚决",
+          "currency": "CNY",
+          "unit": "位",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "自动接码",
+          "nickname_url": "",
+          "time": "2026-08-11 02:45:51",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_c0d6a61ebf06",
+      "key": "开号方法/陪跑|带车/焚决服务|400一位|服务报价|yu|",
+      "category": "开号方法/陪跑",
+      "name": "带车/焚决服务",
+      "variant": "400一位",
+      "direction": "服务报价",
+      "seller": "YU",
+      "seller_url": "",
+      "link": "",
+      "price": 400.0,
+      "price_text": "400一位",
+      "currency": "CNY",
+      "unit": "位",
+      "details": "群内称不到一天回本；30个号的事情；一车最多约20人；手里十几个卡头，目前放出来6个，拉闸一个放一个",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 400.0,
+          "price_text": "400一位",
+          "currency": "CNY",
+          "unit": "位",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "YU",
+          "nickname_url": "",
+          "time": "2026-08-11 02:44:45",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_edb67a00e32a",
@@ -9250,6 +10556,44 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_00d6d2cc5068",
+      "key": "接码平台|接码平台|替代上游|求购|💋、survivor。℡|",
+      "category": "接码平台",
+      "name": "接码平台",
+      "variant": "替代上游",
+      "direction": "求购",
+      "seller": "💋、survivor。℡",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "谁有接码平台",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "其接码上游掉了，急需替代",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "谁有接码平台",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 02:46:19",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_d62882a8b06e",
@@ -12136,6 +13480,82 @@
           "nickname_url": "",
           "time": "2026-08-06 21:03:50",
           "report_id": "cd554f40216d"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_7454ffb42536",
+      "key": "账号求购|rt账号|rt|求购|大脑虎|",
+      "category": "账号求购",
+      "name": "RT账号",
+      "variant": "Rt",
+      "direction": "求购",
+      "seller": "大脑虎",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "给我一个Rt / 卖我一个",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "即时求购",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "给我一个Rt / 卖我一个",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-11 02:01:20",
+          "report_id": "36d34881ff90"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_93ec4daac3d0",
+      "key": "账号求购|带at的号|带at|求购|7|",
+      "category": "账号求购",
+      "name": "带AT的号",
+      "variant": "带AT",
+      "direction": "求购",
+      "seller": "7",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有没有带at的号卖",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "求购特定属性账号",
+      "first_seen": "2026-08-11 03:04:35",
+      "last_seen": "2026-08-11 03:04:35",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有没有带at的号卖",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-11 03:04:35"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "7",
+          "nickname_url": "",
+          "time": "2026-08-11 02:42:25",
+          "report_id": "36d34881ff90"
         }
       ],
       "is_lowest": false
