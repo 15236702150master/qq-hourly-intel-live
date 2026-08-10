@@ -1,6 +1,11 @@
 {
   "topics": [
     {
+      "name": "瑞士eSIM",
+      "count": 1,
+      "updated_at": "2026-08-10 18:04:22"
+    },
+    {
       "name": "CLIProxy流量",
       "count": 1,
       "updated_at": "2026-08-07 06:02:22"
@@ -2027,8 +2032,30 @@
           "report_id": "38d163338c90"
         }
       ]
+    },
+    {
+      "id": "res_c5d9ddcc4eae",
+      "key": "https://www.yallo.ch/en/eshop/new-prepaid/checkout/yallo_prepaid?from=product-item",
+      "topic": "瑞士eSIM",
+      "title": "Yallo 预付费 eSIM 官方开卡入口",
+      "url": "https://www.yallo.ch/en/eshop/new-prepaid/checkout/yallo_prepaid?from=product-item",
+      "file_name": "",
+      "purpose": "开通瑞士 Yallo 预付费 eSIM；群内说明可选号、免费开卡、需护照 KYC",
+      "notes": "群内补充称 0 余额可保约 1 年；最低充值 10CHF，余额有变动再保号 1 年；后续实际可用性存在争议",
+      "first_seen": "2026-08-10 18:04:22",
+      "last_seen": "2026-08-10 18:04:22",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "San-AI社区-qy.sanaigc.com",
+          "nickname_url": "",
+          "time": "2026-08-10 17:51:55",
+          "report_id": "bed1ce340584"
+        }
+      ]
     }
   ],
-  "resource_count": 74,
+  "resource_count": 75,
   "product_count": 205
 }
