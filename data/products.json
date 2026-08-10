@@ -395,6 +395,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_929490288937",
+      "key": "adobe账号|adobe firefly creative pro 空间母号|空间母号|求购|dasuapi|",
+      "category": "Adobe账号",
+      "name": "Adobe Firefly creative pro 空间母号",
+      "variant": "空间母号",
+      "direction": "求购",
+      "seller": "DasuApi",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "求adobe Firefly creative pro 类型的空间母号",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未给预算、数量、质保要求",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "求adobe Firefly creative pro 类型的空间母号",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "DasuApi",
+          "nickname_url": "",
+          "time": "2026-08-10 19:45:52",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_facfac183fba",
       "key": "chatgpt plus账号|plus 账号|刚开，10个|出售|升升|",
       "category": "ChatGPT Plus账号",
@@ -1352,6 +1390,44 @@
       "is_lowest": false
     },
     {
+      "id": "prd_0e66b995b800",
+      "key": "free账号|free号|带at|出售|ic free号0.3带at https://pay.ldxp.cn/shop/vrxru40a|https://pay.ldxp.cn/shop/vrxru40a",
+      "category": "Free账号",
+      "name": "free号",
+      "variant": "带AT",
+      "direction": "出售",
+      "seller": "ic free号0.3带at https://pay.ldxp.cn/shop/VRXRU40A",
+      "seller_url": "https://pay.ldxp.cn/shop/VRXRU40A",
+      "link": "https://pay.ldxp.cn/shop/VRXRU40A",
+      "price": 0.3,
+      "price_text": "free号0.3带at / 出free",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "昵称中标注价格与带AT，正文为“出free”",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.3,
+          "price_text": "free号0.3带at / 出free",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "ic free号0.3带at https://pay.ldxp.cn/shop/VRXRU40A",
+          "nickname_url": "https://pay.ldxp.cn/shop/VRXRU40A",
+          "time": "2026-08-10 19:13:12",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_2768ee94f766",
       "key": "gcash扫码代付|菲律宾扫码|批量价|服务报价|菲律宾扫码单价7批量6|",
       "category": "GCash扫码代付",
@@ -1808,6 +1884,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_ccad4cd2ccea",
+      "key": "gpt plus账号|plus账号|未接码|出售|何方妖孽|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "出售",
+      "seller": "何方妖孽",
+      "seller_url": "",
+      "link": "",
+      "price": 15.0,
+      "price_text": "15没有接吗",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "结合上下文应为15元未接码货；称“最后几个了”",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 15.0,
+          "price_text": "15没有接吗",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-10 20:08:06",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_5f8ba1a4e293",
       "key": "gpt plus账号|plus 成品账号|未说明|出售|何方妖孽|",
       "category": "GPT Plus账号",
@@ -1843,7 +1957,7 @@
           "report_id": "4c9752679811"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_9190bf224bde",
@@ -1881,7 +1995,7 @@
           "report_id": "4c9752679811"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_053109e5e73a",
@@ -1919,7 +2033,519 @@
           "report_id": "4c9752679811"
         }
       ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_1ccde40592ce",
+      "key": "gpt plus账号|plus账号|已接码|出售|魄冰|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "已接码",
+      "direction": "出售",
+      "seller": "魄冰",
+      "seller_url": "",
+      "link": "",
+      "price": 37.0,
+      "price_text": "37已接码",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "称与卖80的是同一渠道；质保24小时；上游为越南实卡",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 37.0,
+          "price_text": "37已接码",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "魄冰",
+          "nickname_url": "",
+          "time": "2026-08-10 19:46:28",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_ac848c8a9f4a",
+      "key": "gpt plus账号|plus账号月卡|月卡，保30天|出售|return 0|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号月卡",
+      "variant": "月卡，保30天",
+      "direction": "出售",
+      "seller": "return 0",
+      "seller_url": "",
+      "link": "",
+      "price": 70.0,
+      "price_text": "出几个70的月卡",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "后续说明保30天；封号和掉订阅都保；库存为“几个”",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 70.0,
+          "price_text": "出几个70的月卡",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "return 0",
+          "nickname_url": "",
+          "time": "2026-08-10 20:10:04",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_dbea0c8f7f18",
+      "key": "gpt plus账号|plus账号|未说明|出售|何方妖孽|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "何方妖孽",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出plus",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未说明价格、库存、质保",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 3,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-10 19:34:50",
+          "report_id": "674c5bb71944"
+        },
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-10 19:33:35",
+          "report_id": "674c5bb71944"
+        },
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-10 19:53:09",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_cd8ebb6cac11",
+      "key": "gpt plus账号|plus账号|质保一个月|出售|椿|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "质保一个月",
+      "direction": "出售",
+      "seller": "椿",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "我有质保一个月的",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "称群里不能发广告，要的私聊；未公开价格",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "我有质保一个月的",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "椿",
+          "nickname_url": "",
+          "time": "2026-08-10 20:21:57",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_e448f99a02d6",
+      "key": "gpt plus账号|plus账号|日抛|出售|何方妖孽|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "日抛",
+      "direction": "出售",
+      "seller": "何方妖孽",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出plus",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "卖家称默认日抛，能活多久看用法；未报价格",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "何方妖孽",
+          "nickname_url": "",
+          "time": "2026-08-10 19:47:41",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_55b3f7099cd6",
+      "key": "gpt plus账号|plus账号|未接码|收购|偷点薯条|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "偷点薯条",
+      "seller_url": "",
+      "link": "",
+      "price": 10.0,
+      "price_text": "10r收5个未接码的",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "求收5个未接码Plus",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 3,
+      "price_history": [
+        {
+          "price": 10.0,
+          "price_text": "10r收5个未接码的",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        },
+        {
+          "price": 11.0,
+          "price_text": "11r收5个未接码的",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-10 20:08:54",
+          "report_id": "674c5bb71944"
+        },
+        {
+          "group": "桥云源头提炼",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-10 20:13:07",
+          "report_id": "674c5bb71944"
+        },
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-10 20:08:12",
+          "report_id": "674c5bb71944"
+        }
+      ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_a78bf66c69c6",
+      "key": "gpt plus账号|plus账号|未接码|收购|sg|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "Sg",
+      "seller_url": "",
+      "link": "",
+      "price": 12.0,
+      "price_text": "12收两个未接码",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "求收2个未接码Plus，后续再次强调只要2个",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 2,
+      "price_history": [
+        {
+          "price": 12.0,
+          "price_text": "12收两个未接码",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "Sg",
+          "nickname_url": "",
+          "time": "2026-08-10 20:12:19",
+          "report_id": "674c5bb71944"
+        },
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "Sg",
+          "nickname_url": "",
+          "time": "2026-08-10 20:12:24",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_f008e92e6d9a",
+      "key": "gpt plus账号|plus账号|未接码|收购|○|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "○",
+      "seller_url": "",
+      "link": "",
+      "price": 12.0,
+      "price_text": "12收一个未接码",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "求收1个未接码Plus",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.0,
+          "price_text": "12收一个未接码",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "○",
+          "nickname_url": "",
+          "time": "2026-08-10 20:14:01",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_58cc6d96bd56",
+      "key": "gpt plus账号|plus账号|未接码|收购|二师兄|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "二师兄",
+      "seller_url": "",
+      "link": "",
+      "price": 13.0,
+      "price_text": "收13未接码",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "收购未接码Plus",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 2,
+      "price_history": [
+        {
+          "price": 13.0,
+          "price_text": "13收未接码plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        },
+        {
+          "price": 13.0,
+          "price_text": "收13未接码",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "二师兄",
+          "nickname_url": "",
+          "time": "2026-08-10 19:35:53",
+          "report_id": "674c5bb71944"
+        },
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "二师兄",
+          "nickname_url": "",
+          "time": "2026-08-10 19:45:00",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_da6c5729d72a",
+      "key": "gpt plus账号|plus账号|未接码|收购|时溯|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "时溯",
+      "seller_url": "",
+      "link": "",
+      "price": 13.0,
+      "price_text": "13收未接码plus",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "收购未接码Plus",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 13.0,
+          "price_text": "13收未接码plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "时溯",
+          "nickname_url": "",
+          "time": "2026-08-10 19:36:07",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_d9c678cbdedf",
+      "key": "gpt plus账号|plus账号|接码|收购|12无限收接码plus 量大价格可议|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "接码",
+      "direction": "收购",
+      "seller": "12无限收接码plus 量大价格可议",
+      "seller_url": "",
+      "link": "",
+      "price": 14.0,
+      "price_text": "14r收接码plus",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未接码可联系其进接码群找人接码；擅长接码也可加；量大价格可议；两万以内验完直接打款",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 14.0,
+          "price_text": "14r收接码plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "12无限收接码plus 量大价格可议",
+          "nickname_url": "",
+          "time": "2026-08-10 20:14:22",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_22ba9b0d402a",
+      "key": "gpt plus账号|plus账号|未说明|收购|mix|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未说明",
+      "direction": "收购",
+      "seller": "Mix",
+      "seller_url": "",
+      "link": "",
+      "price": 15.0,
+      "price_text": "15收plus",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "求收Plus，未说明是否接码/未接码",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 15.0,
+          "price_text": "15收plus",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "Mix",
+          "nickname_url": "",
+          "time": "2026-08-10 19:16:29",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_0d2e6b2ce1b2",
@@ -1957,7 +2583,273 @@
           "report_id": "4c9752679811"
         }
       ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_d453ad824f84",
+      "key": "gpt plus账号|plus账号|未接码/接码均可|收购|jeeze|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码/接码均可",
+      "direction": "收购",
+      "seller": "Jeeze",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "收plus 接码未接都要 报价",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未给出收购价，要求卖家报价",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "收plus 接码未接都要 报价",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "Jeeze",
+          "nickname_url": "",
+          "time": "2026-08-10 20:17:58",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_49f903bf298a",
+      "key": "gpt plus账号|plus账号|未接码|收购|杰杰子|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "未接码",
+      "direction": "收购",
+      "seller": "杰杰子",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "收Plus，未接码",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未给出价格",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "收Plus，未接码",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "杰杰子",
+          "nickname_url": "",
+          "time": "2026-08-10 20:18:14",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_ecff67b02dfd",
+      "key": "gpt plus账号|plus账号|质保半个月|服务报价|江程|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "质保半个月",
+      "direction": "服务报价",
+      "seller": "江程",
+      "seller_url": "",
+      "link": "",
+      "price": 50.0,
+      "price_text": "隔壁50质保半个月",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "引用隔壁群市场价，未给具体卖家",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 50.0,
+          "price_text": "隔壁50质保半个月",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "江程",
+          "nickname_url": "",
+          "time": "2026-08-10 19:49:30",
+          "report_id": "674c5bb71944"
+        }
+      ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_d475540cd1a3",
+      "key": "gpt plus账号|plus账号|质保一个月|服务报价|江程|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "质保一个月",
+      "direction": "服务报价",
+      "seller": "江程",
+      "seller_url": "",
+      "link": "",
+      "price": 70.0,
+      "price_text": "70一个月",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "引用隔壁群市场价，未给具体卖家",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 70.0,
+          "price_text": "70一个月",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "江程",
+          "nickname_url": "",
+          "time": "2026-08-10 19:50:07",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_f4fadd233c69",
+      "key": "gpt plus账号|plus账号|已接码，同渠道高价参考|服务报价|魄冰|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "已接码，同渠道高价参考",
+      "direction": "服务报价",
+      "seller": "魄冰",
+      "seller_url": "",
+      "link": "",
+      "price": 80.0,
+      "price_text": "那些卖80的",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "作为市场对比价，被称与其37货为同一渠道",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 80.0,
+          "price_text": "那些卖80的",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "魄冰",
+          "nickname_url": "",
+          "time": "2026-08-10 19:46:28",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_583aa68d5697",
+      "key": "gpt plus账号|gpt plus账号|自用，数量几个|求购|mr.edgar|",
+      "category": "GPT Plus账号",
+      "name": "GPT Plus账号",
+      "variant": "自用，数量几个",
+      "direction": "求购",
+      "seller": "Mr.Edgar",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有没有人出gptplus,拿几个自用",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "求购几个自用，未给预算",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有没有人出gptplus,拿几个自用",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "Mr.Edgar",
+          "nickname_url": "",
+          "time": "2026-08-10 19:14:14",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_8544282fb672",
+      "key": "gpt plus账号|plus账号|月保一个月|求购|欣仔|",
+      "category": "GPT Plus账号",
+      "name": "Plus账号",
+      "variant": "月保一个月",
+      "direction": "求购",
+      "seller": "欣仔",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有plus一个月的吗",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "询问是否有可保一个月的Plus",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有plus一个月的吗",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "欣仔",
+          "nickname_url": "",
+          "time": "2026-08-10 20:20:23",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_dfc1e8812f1d",
@@ -6086,6 +6978,82 @@
       "is_lowest": true
     },
     {
+      "id": "prd_3d021306d618",
+      "key": "rt账号|rt|最后5个|出售|v.|",
+      "category": "RT账号",
+      "name": "RT",
+      "variant": "最后5个",
+      "direction": "出售",
+      "seller": "V.",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出RT 最后5个",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存最后5个，未报价格",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出RT 最后5个",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "V.",
+          "nickname_url": "",
+          "time": "2026-08-10 19:38:11",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_b340203b75ed",
+      "key": "rt账号|rt|50个|出售|空凡跑掉了.|",
+      "category": "RT账号",
+      "name": "RT",
+      "variant": "50个",
+      "direction": "出售",
+      "seller": "空凡跑掉了.",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "出50个 RT",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存50个，未报价格",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "出50个 RT",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "空凡跑掉了.",
+          "nickname_url": "",
+          "time": "2026-08-10 19:39:35",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_6f753ea62317",
       "key": "wa接码|wa接码|tg渠道|出售|-|",
       "category": "WA接码",
@@ -6352,6 +7320,82 @@
       "is_lowest": true
     },
     {
+      "id": "prd_faa71a62bd14",
+      "key": "其他商品|0.01特价货源||报价||",
+      "category": "其他商品",
+      "name": "0.01特价货源",
+      "variant": "",
+      "direction": "报价",
+      "seller": "",
+      "seller_url": "",
+      "link": "",
+      "price": 0.01,
+      "price_text": "",
+      "currency": "CNY",
+      "unit": "",
+      "details": "群管家反复推送的低价货源链接，未说明品类和售后，需自行核验。",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.01,
+          "price_text": "",
+          "currency": "CNY",
+          "unit": "",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "",
+          "nickname": "",
+          "nickname_url": "",
+          "time": "2026-08-10 20:32:12",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_7aa1f241ea57",
+      "key": "其他商品|越南实卡上游供给||报价||",
+      "category": "其他商品",
+      "name": "越南实卡上游供给",
+      "variant": "",
+      "direction": "报价",
+      "seller": "",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "",
+      "currency": "CNY",
+      "unit": "",
+      "details": "卖家称同一上游“只出了100个”，库存少导致低价难出，可视为已接码 Plus 高价的上游供给解释。",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "",
+          "currency": "CNY",
+          "unit": "",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "",
+          "nickname": "",
+          "nickname_url": "",
+          "time": "2026-08-10 20:32:12",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_439ba948aee8",
       "key": "卡片|4631 卡|4631|出售|梦ω该醒了ζ|",
       "category": "卡片",
@@ -6388,6 +7432,44 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_4b5bca86e1ae",
+      "key": "号源账号|号|400个|出售|009接下游|",
+      "category": "号源账号",
+      "name": "号",
+      "variant": "400个",
+      "direction": "出售",
+      "seller": "009接下游",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "搞了400个号",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "称“005炸一波”后搞了400个号，并寻求代操作；未报价格",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "搞了400个号",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "世界利爪pro～worldclawpro",
+          "nickname": "009接下游",
+          "nickname_url": "",
+          "time": "2026-08-10 19:44:19",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_9073ae20a39f",
@@ -6765,6 +7847,82 @@
           "nickname_url": "",
           "time": "2026-08-07 01:59:23",
           "report_id": "5f6adf521de7"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_9e233e5bd9d9",
+      "key": "技术代处理|服务器/ssh/宝塔接入故障代处理|一次处理|服务报价|超级码少|",
+      "category": "技术代处理",
+      "name": "服务器/SSH/宝塔接入故障代处理",
+      "variant": "一次处理",
+      "direction": "服务报价",
+      "seller": "超级码少",
+      "seller_url": "",
+      "link": "",
+      "price": 200.0,
+      "price_text": "v我200 我来帮你弄",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "未说明是否包解决、退款规则、处理范围",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 200.0,
+          "price_text": "v我200 我来帮你弄",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "世界利爪pro～worldclawpro",
+          "nickname": "超级码少",
+          "nickname_url": "",
+          "time": "2026-08-10 18:33:48",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_710c498c6735",
+      "key": "报废手机|报废手机|顺丰上门收|收购|f|",
+      "category": "报废手机",
+      "name": "报废手机",
+      "variant": "顺丰上门收",
+      "direction": "收购",
+      "seller": "F",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有没有报废手机，可以顺丰上门收，现收现结，带图来询价",
+      "currency": "CNY",
+      "unit": "台",
+      "details": "要求带图询价，顺丰上门收，现收现结",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有没有报废手机，可以顺丰上门收，现收现结，带图来询价",
+          "currency": "CNY",
+          "unit": "台",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "F",
+          "nickname_url": "",
+          "time": "2026-08-10 20:07:30",
+          "report_id": "674c5bb71944"
         }
       ],
       "is_lowest": false
@@ -7732,6 +8890,120 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_a6d7eb8e0248",
+      "key": "资格号|资格号|普通资格号|收购|🪴|",
+      "category": "资格号",
+      "name": "资格号",
+      "variant": "普通资格号",
+      "direction": "收购",
+      "seller": "🪴",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "有卡商收资格号吗",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "询问是否有卡商回收；称直卡路线搞不动",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "有卡商收资格号吗",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "🪴",
+          "nickname_url": "",
+          "time": "2026-08-10 19:10:54",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_d5b9b9cde771",
+      "key": "资格号|资格号|市场单价口径|服务报价|关小差|",
+      "category": "资格号",
+      "name": "资格号",
+      "variant": "市场单价口径",
+      "direction": "服务报价",
+      "seller": "关小差",
+      "seller_url": "",
+      "link": "",
+      "price": 3.0,
+      "price_text": "资格号还能卖3r一个了",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "发言为市场感叹，非明确挂单",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 3.0,
+          "price_text": "资格号还能卖3r一个了",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "关小差",
+          "nickname_url": "",
+          "time": "2026-08-10 19:17:47",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_19d553246ab3",
+      "key": "越南卡|越南卡|未说明|出售|卡皮扒啦|",
+      "category": "越南卡",
+      "name": "越南卡",
+      "variant": "未说明",
+      "direction": "出售",
+      "seller": "卡皮扒啦",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "越南卡我也有 有人要吗",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "未说明实卡/虚卡、价格、库存、用途",
+      "first_seen": "2026-08-10 20:32:12",
+      "last_seen": "2026-08-10 20:32:12",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "越南卡我也有 有人要吗",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-10 20:32:12"
+        }
+      ],
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "卡皮扒啦",
+          "nickname_url": "",
+          "time": "2026-08-10 20:18:26",
+          "report_id": "674c5bb71944"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_f2e4eab11b78",
