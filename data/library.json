@@ -1,43 +1,68 @@
 {
   "topics": [
     {
-      "name": "货源店铺",
-      "count": 2,
-      "updated_at": "2026-08-11 05:03:00"
-    },
-    {
       "name": "账号/服务",
-      "count": 111,
-      "updated_at": "2026-08-11 05:03:00"
+      "count": 117,
+      "updated_at": "2026-08-11 06:03:02"
     },
     {
       "name": "渠道/提链",
-      "count": 65,
-      "updated_at": "2026-08-11 05:03:00"
+      "count": 68,
+      "updated_at": "2026-08-11 06:03:02"
     },
     {
       "name": "支付/绑卡",
-      "count": 76,
-      "updated_at": "2026-08-11 05:03:00"
+      "count": 78,
+      "updated_at": "2026-08-11 06:03:02"
     },
     {
       "name": "脚本/工具",
-      "count": 44,
-      "updated_at": "2026-08-11 05:03:00"
+      "count": 48,
+      "updated_at": "2026-08-11 06:03:02"
     },
     {
       "name": "风控/验证",
-      "count": 54,
-      "updated_at": "2026-08-11 05:03:00"
+      "count": 56,
+      "updated_at": "2026-08-11 06:03:02"
     },
     {
       "name": "平台状态",
-      "count": 49,
-      "updated_at": "2026-08-11 05:03:00"
+      "count": 51,
+      "updated_at": "2026-08-11 06:03:02"
     },
     {
       "name": "卡头/直卡",
-      "count": 28,
+      "count": 32,
+      "updated_at": "2026-08-11 06:03:02"
+    },
+    {
+      "name": "其他",
+      "count": 16,
+      "updated_at": "2026-08-11 06:03:02"
+    },
+    {
+      "name": "下单链接",
+      "count": 8,
+      "updated_at": "2026-08-11 06:03:02"
+    },
+    {
+      "name": "渠道",
+      "count": 5,
+      "updated_at": "2026-08-11 06:03:02"
+    },
+    {
+      "name": "支付/提链方法",
+      "count": 2,
+      "updated_at": "2026-08-11 06:03:02"
+    },
+    {
+      "name": "文件",
+      "count": 11,
+      "updated_at": "2026-08-11 06:03:02"
+    },
+    {
+      "name": "货源店铺",
+      "count": 2,
       "updated_at": "2026-08-11 05:03:00"
     },
     {
@@ -71,11 +96,6 @@
       "updated_at": "2026-08-11 04:03:30"
     },
     {
-      "name": "其他",
-      "count": 15,
-      "updated_at": "2026-08-11 04:03:30"
-    },
-    {
       "name": "卡源渠道",
       "count": 1,
       "updated_at": "2026-08-11 04:03:30"
@@ -87,11 +107,6 @@
     },
     {
       "name": "支付",
-      "count": 1,
-      "updated_at": "2026-08-11 04:03:30"
-    },
-    {
-      "name": "渠道",
       "count": 1,
       "updated_at": "2026-08-11 04:03:30"
     },
@@ -153,11 +168,6 @@
     {
       "name": "代理配置",
       "count": 1,
-      "updated_at": "2026-08-11 03:04:35"
-    },
-    {
-      "name": "下单链接",
-      "count": 8,
       "updated_at": "2026-08-11 03:04:35"
     },
     {
@@ -13328,11 +13338,11 @@
       "kind": "channel",
       "url": "https://pay.ldxp.cn/item/wrwidi",
       "file_name": "",
-      "purpose": "购买直卡或韩国 Plus 账号",
-      "notes": "库存117；只能网页登录，登录 codex 需要接码",
+      "purpose": "直卡或韩国 plus 账号商品页",
+      "notes": "商品标注首登质保，仅能网页版登录，codex 登录需接码",
       "first_seen": "2026-08-11 03:04:35",
-      "last_seen": "2026-08-11 03:04:35",
-      "mentions": 1,
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 2,
       "sources": [
         {
           "group": "ai交流群002",
@@ -13340,6 +13350,13 @@
           "nickname_url": "",
           "time": "2026-08-11 02:33:37",
           "report_id": "36d34881ff90"
+        },
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:01:11",
+          "report_id": "915936a17d06"
         }
       ]
     },
@@ -15504,8 +15521,951 @@
           "report_id": "d7ad187bcb57"
         }
       ]
+    },
+    {
+      "id": "res_d8c6e0a77221",
+      "key": "卡头/直卡||群内确认是直卡而非pp，讨论对象为4513",
+      "topic": "卡头/直卡",
+      "title": "群内确认是直卡而非PP，讨论对象为4513",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "偷点薯条在被问到卡头时明确表示“全是直卡”；5:48 又被问“这是pp还是直卡？”时再次确认“直卡啊”。情话多次确认卡种为4513，并称“3块钱一张”。另有情话提到“JP US都有”，说明卡源/可用地区覆盖日本、美国。",
+      "notes": "状态：confirmed；下一步：继续追问卡头来源、地区差异与是否存在不同批次表现差异",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:01:53",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_b0b52c7c8f2f",
+      "key": "账号/服务||4513卡的出货与绑卡结果被持续报出",
+      "topic": "账号/服务",
+      "title": "4513卡的出货与绑卡结果被持续报出",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "YU在5:09-5:11连续报“30出30”“三次了”“100出货率”，并表示“我去看下到账”。情话在5:43-5:44汇总实测：7张卡里送人1张、拒了2张、绑上了4张，另因误操作弄没了2个号，最终“成功了9个”；同时补充“支付成功的都是1绑3”，怀疑该卡最多只能绑3个。",
+      "notes": "状态：reported；下一步：整理同批次卡的绑定数量、成功到账与拒付比例，重点核对是否真有“1绑3”上限",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "YU",
+          "nickname_url": "",
+          "time": "2026-08-11 05:11:27",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_15d10f3c1c68",
+      "key": "风控/验证||群内将绑不上、拒付、撞开都归因于风控/概率风控",
+      "topic": "风控/验证",
+      "title": "群内将绑不上、拒付、撞开都归因于风控/概率风控",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "偷点薯条多次判断“绑不上都是风控问题”“为什么能撞开，因为概率风控”“拒付也是风控”。他还说“跟几把毛号有关系”，把成功率部分归到账号质量。情话也补充“号好像也有关系”，并在5:30表示“巨卡了换卡或者换号还可以继续试，并不死号或者死卡，卡只要不支付就还能试”。",
+      "notes": "状态：reported；下一步：记录不同号质、代理和卡的组合，做可复现对照实验",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:18:16",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_4e41dccfc220",
+      "key": "脚本/工具||有人主张用gpt修复失败绑定/部署协议",
+      "topic": "脚本/工具",
+      "title": "有人主张用GPT修复失败绑定/部署协议",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "偷点薯条提出“你让GPT分析失败绑定绝对能修复好”“这些全部能绑定，自己部署搭建”“你看大佬GPT都在开着，有问题直接修复了”。随后又说“这个思路是今天部署153的时候，撞PP出来的”“理论都一样”。情话追问“你是说部署一个直卡协议？”说明群内在讨论通过脚本/协议部署来提升直卡绑定、提炼和支付通过率。",
+      "notes": "状态：reported；下一步：复现153/PP相关部署流程，确认失败绑定的具体修复点",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:20:10",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_55ca22c616c6",
+      "key": "支付/绑卡||绑卡成功不代表能付，支付链路仍受卡行和风控影响",
+      "topic": "支付/绑卡",
+      "title": "绑卡成功不代表能付，支付链路仍受卡行和风控影响",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "情话认为“有时候能绑上”“支付成功的都是1绑3”，并观察到“同样一个号一张卡，有拒有出有时候有优惠有时候没有”；偷点薯条则说“4513绑好你能付过去吗”“能绑了不一定能提 能提了不一定能付 能付了不一定到账”。群里还把“3块钱也能绑”与“4513烂大街”联系在一起，说明卡量不稀缺但支付链路波动大。",
+      "notes": "状态：confirmed；下一步：用相同号/相同卡/不同代理重复测试绑卡、提炼、支付三步的差异",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:32:24",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_bfb04f5199bd",
+      "key": "平台状态||卡网/结账后台出现多种失败报错，但也有部分checkout生成成功",
+      "topic": "平台状态",
+      "title": "卡网/结账后台出现多种失败报错，但也有部分Checkout生成成功",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "截图显示多笔状态：有“PaymentMethod并发确认失败/支付失败：发卡行拒绝了本次交易，请更换银行卡，或联系发卡行后重试”“SetupIntent准备失败：系统当前繁忙，请稍后重试”“RuntimeError: promotion did not produce a zero checkout: amount_minor=110000 PHP”，同时夹杂“提钱成功”“Checkout已生成”“大概率到账-AT已刷新”等成功状态。说明平台一部分链路可生成Checkout，但支付确认、促销结算和到账刷新环节不稳定。",
+      "notes": "状态：confirmed；下一步：针对失败类型分别截图留证并对照时间戳，确认是卡行拒绝、并发冲突还是后台繁忙",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:59:56",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_13ef6c7a6f24",
+      "key": "渠道/提链||有人索要小铺/卡台链接，但提供者拒绝公开",
+      "topic": "渠道/提链",
+      "title": "有人索要小铺/卡台链接，但提供者拒绝公开",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "赴约在5:57询问“4513有卡台吗兄弟”，情话回复“ 小铺 ”，并说“我要有卡台不早就卖卡了”。随后赴约和Syunnrai都追问“链接”“小铺链接来个”，情话回应“这个是大哥给的不是我自己找的不能给”“你群里问一下很多人有的”，说明存在私下渠道但不公开外传。",
+      "notes": "状态：reported；下一步：在群内继续询问是否有人能私下转介绍同类渠道，注意区分公开链接与内部来源",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:58:48",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_e139cb566f45",
+      "key": "其他||指纹浏览器被认为体验差",
+      "topic": "其他",
+      "title": "指纹浏览器被认为体验差",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "5:03情话在确认地区后直接评价“垃圾指纹浏览器”，表明至少对当前注册/操作环境不满意；前文也有人问“你是指纹注册的吗”“Jp？”，说明指纹环境与地区可能是绑卡/注册相关变量。",
+      "notes": "状态：reported；下一步：记录指纹浏览器型号、地区和失败场景，看看是否影响绑卡/提炼",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:03:29",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_e1278d290065",
+      "key": "账号/服务||自开车头成本与月额度说法",
+      "topic": "账号/服务",
+      "title": "自开车头成本与月额度说法",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "梵小高询问“怎么自己当车头”和成本；大脑虎回复成本大约“几百块钱”，并表示外面卖的子号之所以贵，可能是因为“月额度”的机制，自己暂时没开出来月额度，建议“多开几车看看能不能开出来”。梵小高随后追问是否为“五小时的”，并多次请求教学开法。",
+      "notes": "状态：reported；下一步：继续确认“月额度”和“五小时”分别指向的具体套餐/风控限制，再看是否存在可复现开出条件。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大脑虎",
+          "nickname_url": "",
+          "time": "2026-08-11 05:07:02",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_daafa6c1c52a",
+      "key": "渠道/提链||英国接码地址与上游故障",
+      "topic": "渠道/提链",
+      "title": "英国接码地址与上游故障",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "survivor 询问“谁有英国接码的地址”，并说明自己的接码上游已经“嗝屁了”。后续提到自己只“提出来了一个”，且形态异常；另有人追问是否能提出来。该线索显示当前英国接码渠道供应不稳定，且上游故障直接影响提码。",
+      "notes": "状态：reported；下一步：记录可用接码地址来源，优先确认是否有英国段稳定替代上游。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 05:21:37",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_04f44db93afa",
+      "key": "渠道/提链||提链条件卡在0元优惠",
+      "topic": "渠道/提链",
+      "title": "提链条件卡在0元优惠",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内围绕“提出来”讨论时，慢热明确说“没0元你提不出来”，并指出“不是0元会失败”。大力小丸子补充自己大部分报错都是“价格不是0元，失败”。偷点薯条追问成功案例是否带“0元优惠”，随后确认成功的前提是“0元验证成功”。成功时虽然“能提”，但会显示“协议支付”，且“不显示到账”。",
+      "notes": "状态：confirmed；下一步：优先复现0元价格条件下的提链流程，记录价格字段变化与返回文案。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 05:46:31",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_598f15023eb3",
+      "key": "脚本/工具||153提炼版本与并发改造",
+      "topic": "脚本/工具",
+      "title": "153提炼版本与并发改造",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "偷点薯条询问是否为“部署的153提炼出来的吗”，大力小丸子确认“对，自己改了个并发”。这说明当前使用的是153提炼相关部署方案，并做了并发层面的自定义修改。",
+      "notes": "状态：confirmed；下一步：核对153版本的部署依赖和并发参数，整理可复用配置。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大力小丸子",
+          "nickname_url": "",
+          "time": "2026-08-11 05:45:33",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_47629ff0ba51",
+      "key": "风控/验证||验证码资源消耗极高",
+      "topic": "风控/验证",
+      "title": "验证码资源消耗极高",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "大力小丸子反馈“接不到码是真难受”，自己“刷了10几个手机号了，一个都接不到”。后来又说流程里“10出1，验证码还接了20几个号”，说明验证码环节需要大量号池支撑，成功率很低。survivor 也提到自己只提出来一个且形态异常，侧面印证验证链路不稳定。",
+      "notes": "状态：reported；下一步：统计手机号消耗与成功率，评估是否存在号码段/地区/时段差异。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大力小丸子",
+          "nickname_url": "",
+          "time": "2026-08-11 05:30:13",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_1d07d5845c80",
+      "key": "账号/服务||接码价格与上游单价",
+      "topic": "账号/服务",
+      "title": "接码价格与上游单价",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "survivor 表示自己先前的接码单价是0.3；慢热则直接评价“接码太贵了”。这组信息显示群内对接码成本敏感，且价格波动会直接影响是否继续操作。",
+      "notes": "状态：reported；下一步：继续收集不同地区/渠道的接码报价与起量条件。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 05:23:02",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_f3496ba57a5c",
+      "key": "平台状态||协议支付可见但不到账",
+      "topic": "平台状态",
+      "title": "协议支付可见但不到账",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "在提链成功后的表现上，偷点薯条指出会“显示协议支付，不显示到账”，说明平台侧返回并非标准到账态，而是协议支付态。慢热此前也强调只有0元才能提出来。",
+      "notes": "状态：confirmed；下一步：补充抓取返回页面/状态码，确认协议支付是否等同于未入账。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:47:35",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_f8c9ff5db88f",
+      "key": "脚本/工具||求开源协议free注册机",
+      "topic": "脚本/工具",
+      "title": "求开源协议free注册机",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "一米阳光直接询问“谁有开源协议free注册机”，说明群内仍在找可用注册/自动化工具。",
+      "notes": "状态：reported；下一步：确认是否已有开源版本及其适用平台、限制和风险。",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "一米阳光",
+          "nickname_url": "",
+          "time": "2026-08-11 05:51:22",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_c3c0f0574dc5",
+      "key": "账号/服务||k12 成品/子号反复刷新但无在售，仅见已售罄参考价",
+      "topic": "账号/服务",
+      "title": "k12 成品/子号反复刷新但无在售，仅见已售罄参考价",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里多次刷新 k12 商品搜索结果，均显示“0 个在售结果（价格从低到高）”。可见的低价参考均为已售罄：¥0.10 的“k12 成品 sub2 cpa ot邮箱”；¥1.07 的“k12 支持sub2api和cock反代K12 成品 新货”；¥1.07 的“K12子号 成品 JSON 支持 sub2api / CPA / Cockpit Tools 只能反代用”。信息显示该类商品当前无库存，但可判断其功能卖点集中在 sub2api、CPA、Cockpit Tools、cock 反代与邮箱相关。",
+      "notes": "状态：reported；下一步：继续观察是否重新上架及新价格/库存变化",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:00:59",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_7c12e0ce7991",
+      "key": "账号/服务||直卡或韩国 plus 账号出售，首登质保，网页版可登录",
+      "topic": "账号/服务",
+      "title": "直卡或韩国 plus 账号出售，首登质保，网页版可登录",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人上架“直卡或韩国 plus 账号”，价格 ¥11；标注首登质保，只能登录网页版，登录 codex 需要接码。该条是明确售卖信息，限制条件是不能直接在非网页版使用，若要登录 codex 需额外接码。",
+      "notes": "状态：confirmed；下一步：如需使用 codex 先确认接码条件与网页版限制",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:01:11",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_731eb8281ed7",
+      "key": "支付/绑卡||绑卡时出现“银行拒绝交易”问题求助",
+      "topic": "支付/绑卡",
+      "title": "绑卡时出现“银行拒绝交易”问题求助",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内有人询问“绑卡银行拒绝交易是怎么回事”，附图未能读取成功，因此无法确认具体卡种、平台或报错细节。当前只有“银行拒绝交易”这一结论级现象，尚未看到解决方案。",
+      "notes": "状态：question；下一步：补充报错截图、卡种、平台和触发步骤后再排查",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "❗️",
+          "nickname_url": "",
+          "time": "2026-08-11 05:33:15",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_536ffbb9beed",
+      "key": "账号/服务||icloud plus 新出，未接码且已设 2fa",
+      "topic": "账号/服务",
+      "title": "iCloud PLUS 新出，未接码且已设 2fa",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有一条“8.10号 凌晨点新出icloud PLUS”的出售信息，价格 ¥11。卖点/限制为“未接码，设置了 2fa”，说明该号不是已完成接码状态，且已绑定双重验证。",
+      "notes": "状态：confirmed；下一步：若要接手，先确认 2fa 是否可迁移及后续登录限制",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:41:33",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_fb830c0a193c",
+      "key": "卡头/直卡||4513直卡",
+      "topic": "卡头/直卡",
+      "title": "4513直卡",
+      "kind": "card_head",
+      "url": "",
+      "file_name": "",
+      "purpose": "用于绑卡、提炼、支付测试",
+      "notes": "群内确认是4513，3块钱一张；有JP/US来源说法；被描述为直卡，且有‘1绑3’现象",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:36:16",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_e027d3b4b720",
+      "key": "卡头/直卡||153提炼版本",
+      "topic": "卡头/直卡",
+      "title": "153提炼版本",
+      "kind": "script",
+      "url": "",
+      "file_name": "",
+      "purpose": "用于提炼/部署并发改造",
+      "notes": "有人确认是153提炼出来的，且自己改了并发",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大力小丸子",
+          "nickname_url": "",
+          "time": "2026-08-11 05:45:33",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_6e0a3c6515d7",
+      "key": "卡头/直卡||pp直卡",
+      "topic": "卡头/直卡",
+      "title": "PP直卡",
+      "kind": "card_head",
+      "url": "",
+      "file_name": "",
+      "purpose": "用于撞开/绑卡测试",
+      "notes": "群内明确说‘PP。直卡’，与4513切换卡头相关",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:22:40",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_dfb8044baaf5",
+      "key": "支付/提链方法||0元优惠/0元验证",
+      "topic": "支付/提链方法",
+      "title": "0元优惠/0元验证",
+      "kind": "payment",
+      "url": "",
+      "file_name": "",
+      "purpose": "提链/提出来的必要条件",
+      "notes": "明确说‘没0元你提不出来’；不是0元会失败；成功时会显示协议支付但不显示到账",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 05:46:31",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_6355e525b514",
+      "key": "支付/提链方法||协议支付",
+      "topic": "支付/提链方法",
+      "title": "协议支付",
+      "kind": "payment",
+      "url": "",
+      "file_name": "",
+      "purpose": "提链成功后的支付状态展示",
+      "notes": "能提但会显示协议支付，不显示到账",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:47:35",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_3be1f2caa467",
+      "key": "脚本/工具||开源协议free注册机",
+      "topic": "脚本/工具",
+      "title": "开源协议free注册机",
+      "kind": "tool",
+      "url": "",
+      "file_name": "",
+      "purpose": "注册/自动化工具",
+      "notes": "群内求资源，未给出具体链接或版本",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "一米阳光",
+          "nickname_url": "",
+          "time": "2026-08-11 05:51:22",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_edab2fdff3a9",
+      "key": "渠道||小铺",
+      "topic": "渠道",
+      "title": "小铺",
+      "kind": "channel",
+      "url": "",
+      "file_name": "",
+      "purpose": "4513卡台/卡网来源",
+      "notes": "被称作卡台来源，但提供者说是大哥给的，不能公开给链接",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:58:06",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_cfbbb6d0c5ab",
+      "key": "https://pay.ldxp.cn/shop/naturalflower",
+      "topic": "渠道",
+      "title": "naturalflower卡网",
+      "kind": "channel",
+      "url": "https://pay.ldxp.cn/shop/naturalflower",
+      "file_name": "",
+      "purpose": "卡网/支付相关后台",
+      "notes": "群内直接出现该店铺链接；围绕直卡协议、绑卡与到账状态讨论",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "https://pay.ldxp.cn/shop/naturalflower卡网",
+          "nickname_url": "https://pay.ldxp.cn/shop/naturalflower卡网",
+          "time": "2026-08-11 05:24:03",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_0db501682563",
+      "key": "https://pay.ldxp.cn/item/yo6d7v",
+      "topic": "渠道",
+      "title": "商品页 yo6d7v",
+      "kind": "channel",
+      "url": "https://pay.ldxp.cn/item/yo6d7v",
+      "file_name": "",
+      "purpose": "iCloud PLUS 商品页",
+      "notes": "8.10 凌晨新出，未接码，已设置 2fa",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 05:41:33",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_49789d4f98db",
+      "key": "渠道||英国接码地址",
+      "topic": "渠道",
+      "title": "英国接码地址",
+      "kind": "channel",
+      "url": "",
+      "file_name": "",
+      "purpose": "接码上游/号码获取",
+      "notes": "有人求英国接码地址，称上游已挂；具体入口未提供",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 05:21:37",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_d6a33b2f81ff",
+      "key": "文件|223c2451f9289a7d577fac225d43b74d.png|截图证据 223c2451f9289a7d577fac225d43b74d.png",
+      "topic": "文件",
+      "title": "截图证据 223C2451F9289A7D577FAC225D43B74D.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "223C2451F9289A7D577FAC225D43B74D.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:01:50",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_d023bb4f355e",
+      "key": "文件|fae0404075e037c3dffbc3112779f6e0.png|截图证据 fae0404075e037c3dffbc3112779f6e0.png",
+      "topic": "文件",
+      "title": "截图证据 FAE0404075E037C3DFFBC3112779F6E0.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "FAE0404075E037C3DFFBC3112779F6E0.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "YU",
+          "nickname_url": "",
+          "time": "2026-08-11 05:08:16",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_428c560162b4",
+      "key": "文件|38a532f0d8fb69f293553dfec146b223.png|截图证据 38a532f0d8fb69f293553dfec146b223.png",
+      "topic": "文件",
+      "title": "截图证据 38A532F0D8FB69F293553DFEC146B223.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "38A532F0D8FB69F293553DFEC146B223.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "YU",
+          "nickname_url": "",
+          "time": "2026-08-11 05:08:28",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_659991659fbf",
+      "key": "文件|{b2103a8a-a4b0-47cb-305a-154403a26f0e}.png|截图证据 {b2103a8a-a4b0-47cb-305a-154403a26f0e}.png",
+      "topic": "文件",
+      "title": "截图证据 {B2103A8A-A4B0-47CB-305A-154403A26F0E}.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "{B2103A8A-A4B0-47CB-305A-154403A26F0E}.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:29:56",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_5f2e83301935",
+      "key": "文件|{fc74590c-b8f2-e999-1f4c-d09f0ab068e9}.png|截图证据 {fc74590c-b8f2-e999-1f4c-d09f0ab068e9}.png",
+      "topic": "文件",
+      "title": "截图证据 {FC74590C-B8F2-E999-1F4C-D09F0AB068E9}.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "{FC74590C-B8F2-E999-1F4C-D09F0AB068E9}.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:32:04",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_4c9c329f20b6",
+      "key": "文件|{622d840a-5ce3-d7c0-6ada-136f854f2aca}.png|截图证据 {622d840a-5ce3-d7c0-6ada-136f854f2aca}.png",
+      "topic": "文件",
+      "title": "截图证据 {622D840A-5CE3-D7C0-6ADA-136F854F2ACA}.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "{622D840A-5CE3-D7C0-6ADA-136F854F2ACA}.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 05:32:49",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_244a2dc942ea",
+      "key": "文件|26d87da7cfb38baed43b99c24e00beb4.png|截图证据 26d87da7cfb38baed43b99c24e00beb4.png",
+      "topic": "文件",
+      "title": "截图证据 26D87DA7CFB38BAED43B99C24E00BEB4.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "26D87DA7CFB38BAED43B99C24E00BEB4.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "https://pay.ldxp.cn/shop/naturalflower卡网",
+          "nickname_url": "https://pay.ldxp.cn/shop/naturalflower卡网",
+          "time": "2026-08-11 05:47:47",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_c4b9b54315d3",
+      "key": "文件|54a99c803e3b1b247d014d5a581ade9e.png|截图证据 54a99c803e3b1b247d014d5a581ade9e.png",
+      "topic": "文件",
+      "title": "截图证据 54A99C803E3B1B247D014D5A581ADE9E.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "54A99C803E3B1B247D014D5A581ADE9E.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 05:22:38",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_fb25e68bbbe1",
+      "key": "文件|5cbc74cc29890907895295e2ed1e62b7.png|截图证据 5cbc74cc29890907895295e2ed1e62b7.png",
+      "topic": "文件",
+      "title": "截图证据 5CBC74CC29890907895295E2ED1E62B7.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "5CBC74CC29890907895295E2ED1E62B7.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大力小丸子",
+          "nickname_url": "",
+          "time": "2026-08-11 05:42:12",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_40ea4a7045c3",
+      "key": "文件|2bdb3f9ddf3fca66ebbe4b33a5acb044.png|截图证据 2bdb3f9ddf3fca66ebbe4b33a5acb044.png",
+      "topic": "文件",
+      "title": "截图证据 2BDB3F9DDF3FCA66EBBE4B33A5ACB044.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "2BDB3F9DDF3FCA66EBBE4B33A5ACB044.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 05:46:04",
+          "report_id": "915936a17d06"
+        }
+      ]
+    },
+    {
+      "id": "res_36e8c5c402f6",
+      "key": "文件|f0164ad5013eb9c91ade69ebbecb56e3.png|截图证据 f0164ad5013eb9c91ade69ebbecb56e3.png",
+      "topic": "文件",
+      "title": "截图证据 F0164AD5013EB9C91ADE69EBBECB56E3.png",
+      "kind": "file",
+      "url": "",
+      "file_name": "F0164AD5013EB9C91ADE69EBBECB56E3.png",
+      "purpose": "聊天截图/证据",
+      "notes": "仅保留文件名，内容未识图",
+      "first_seen": "2026-08-11 06:03:02",
+      "last_seen": "2026-08-11 06:03:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "❗️",
+          "nickname_url": "",
+          "time": "2026-08-11 05:33:15",
+          "report_id": "915936a17d06"
+        }
+      ]
     }
   ],
-  "resource_count": 636,
-  "product_count": 398
+  "resource_count": 677,
+  "product_count": 405
 }
