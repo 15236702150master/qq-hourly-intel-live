@@ -1,49 +1,74 @@
 {
   "topics": [
     {
+      "name": "货源店铺",
+      "count": 2,
+      "updated_at": "2026-08-11 07:03:01"
+    },
+    {
       "name": "账号/服务",
-      "count": 117,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 124,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "渠道/提链",
-      "count": 68,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 73,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "支付/绑卡",
-      "count": 78,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 79,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "脚本/工具",
-      "count": 48,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 53,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "风控/验证",
-      "count": 56,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 58,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "平台状态",
-      "count": 51,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 52,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "卡头/直卡",
-      "count": 32,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 35,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "其他",
-      "count": 16,
-      "updated_at": "2026-08-11 06:03:02"
+      "count": 17,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "下单链接",
       "count": 8,
-      "updated_at": "2026-08-11 06:03:02"
+      "updated_at": "2026-08-11 07:03:01"
+    },
+    {
+      "name": "支付",
+      "count": 2,
+      "updated_at": "2026-08-11 07:03:01"
+    },
+    {
+      "name": "接码",
+      "count": 3,
+      "updated_at": "2026-08-11 07:03:01"
+    },
+    {
+      "name": "文件",
+      "count": 18,
+      "updated_at": "2026-08-11 07:03:01"
+    },
+    {
+      "name": "收购",
+      "count": 1,
+      "updated_at": "2026-08-11 07:03:01"
     },
     {
       "name": "渠道",
@@ -54,16 +79,6 @@
       "name": "支付/提链方法",
       "count": 2,
       "updated_at": "2026-08-11 06:03:02"
-    },
-    {
-      "name": "文件",
-      "count": 11,
-      "updated_at": "2026-08-11 06:03:02"
-    },
-    {
-      "name": "货源店铺",
-      "count": 2,
-      "updated_at": "2026-08-11 05:03:00"
     },
     {
       "name": "文件/截图",
@@ -78,11 +93,6 @@
     {
       "name": "提链",
       "count": 2,
-      "updated_at": "2026-08-11 05:03:00"
-    },
-    {
-      "name": "接码",
-      "count": 1,
       "updated_at": "2026-08-11 05:03:00"
     },
     {
@@ -103,11 +113,6 @@
     {
       "name": "教程/渠道",
       "count": 2,
-      "updated_at": "2026-08-11 04:03:30"
-    },
-    {
-      "name": "支付",
-      "count": 1,
       "updated_at": "2026-08-11 04:03:30"
     },
     {
@@ -799,8 +804,8 @@
       "purpose": "进入群内反复推送的低价货源商店，查看0.01特价商品与其他上架货",
       "notes": "多次重复投放，同店铺体系内可查询 k12/grok/plus 等商品",
       "first_seen": "2026-08-06 16:38:18",
-      "last_seen": "2026-08-11 05:03:00",
-      "mentions": 13,
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 14,
       "sources": [
         {
           "group": "ai交流群002",
@@ -892,6 +897,13 @@
           "nickname_url": "",
           "time": "2026-08-11 04:07:35",
           "report_id": "d7ad187bcb57"
+        },
+        {
+          "group": "ai交流群002",
+          "nickname": "Q群管家",
+          "nickname_url": "",
+          "time": "2026-08-11 06:08:44",
+          "report_id": "1427bf0980c5"
         }
       ],
       "kind": "channel"
@@ -13269,11 +13281,11 @@
       "kind": "channel",
       "url": "https://pay.ldxp.cn/item/7h3m0n",
       "file_name": "",
-      "purpose": "购买未接码 Plus 独享成品号",
+      "purpose": "购买GBTPLUS独享未接码成品号",
       "notes": "库存222，首登质保",
       "first_seen": "2026-08-11 03:04:35",
-      "last_seen": "2026-08-11 03:04:35",
-      "mentions": 1,
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 2,
       "sources": [
         {
           "group": "ai交流群002",
@@ -13281,6 +13293,13 @@
           "nickname_url": "",
           "time": "2026-08-11 02:33:37",
           "report_id": "36d34881ff90"
+        },
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 06:02:22",
+          "report_id": "1427bf0980c5"
         }
       ]
     },
@@ -13391,11 +13410,11 @@
       "kind": "channel",
       "url": "https://pay.ldxp.cn/item/32jp9i",
       "file_name": "",
-      "purpose": "购买 Plus 周额度账号",
+      "purpose": "购买Plus周额度iCloud邮箱商品",
       "notes": "库存33；文案称已稳定7天，iCloud邮箱",
       "first_seen": "2026-08-11 03:04:35",
-      "last_seen": "2026-08-11 03:04:35",
-      "mentions": 1,
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 2,
       "sources": [
         {
           "group": "ai交流群002",
@@ -13403,6 +13422,13 @@
           "nickname_url": "",
           "time": "2026-08-11 02:33:37",
           "report_id": "36d34881ff90"
+        },
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 06:22:33",
+          "report_id": "1427bf0980c5"
         }
       ]
     },
@@ -16464,8 +16490,836 @@
           "report_id": "915936a17d06"
         }
       ]
+    },
+    {
+      "id": "res_b6b45658c4dd",
+      "key": "账号/服务||10元收20个plus资源",
+      "topic": "账号/服务",
+      "title": "10元收20个plus资源",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内成员发布收购需求：10元收20个plus，未说明是何平台的plus、是否要求可验、是否分地区或需要时效。未见库存回应、交付方式、质保或成功率说明。",
+      "notes": "状态：reported；下一步：补充具体平台、数量、验收标准与交付方式后再跟进询价/供给方",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "星落巡游代理人",
+          "nickname_url": "",
+          "time": "2026-08-11 06:34:44",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_b5ce574f82a6",
+      "key": "卡头/直卡||4513 卡头被确认可用，但疑似拥挤",
+      "topic": "卡头/直卡",
+      "title": "4513 卡头被确认可用，但疑似拥挤",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人在群里说“4513又行了”，随后被追问“啥卡头可以”时直接回复“4513”。同一时段又有人说“开的人太多了这个卡”，说明该卡头/通道短时恢复可用，但可能因开卡人数过多而不稳定。",
+      "notes": "状态：confirmed；下一步：继续观察该卡头是否仍可开、是否因并发过高导致失败率上升",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "你木有-全球ka🧠 / 情话",
+          "nickname_url": "",
+          "time": "2026-08-11 06:01:10",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_f940bc5512c1",
+      "key": "卡头/直卡||卡台与联动通道出现",
+      "topic": "卡头/直卡",
+      "title": "卡台与联动通道出现",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人发言称“有卡台”，随后补充“联动的”，表明群内在讨论的是联动相关的卡台/通道，不是单独普通卡。",
+      "notes": "状态：reported；下一步：确认“联动”对应的具体平台/商家及限制条件",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:02:01",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_84c59134198f",
+      "key": "账号/服务||买了不到账、提不出来，疑似服务不稳定",
+      "topic": "账号/服务",
+      "title": "买了不到账、提不出来，疑似服务不稳定",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有成员直接反馈“买了不到账”，后面又有人说“擦了死活提不出来”“嗯睡觉了提不出来”。同时还有“这些卡说实话不放心”“都是预先开好的不知道真假”，说明当前服务存在不到账、提现失败和真实性存疑问题。",
+      "notes": "状态：confirmed；下一步：核实是否为统一通道故障还是个别订单未处理",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "千年 / 情话",
+          "nickname_url": "",
+          "time": "2026-08-11 06:02:52",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_5c813bc00b6c",
+      "key": "风控/验证||系统繁忙与提取失败持续出现",
+      "topic": "风控/验证",
+      "title": "系统繁忙与提取失败持续出现",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "多名成员反馈“死活提不出来”“一直繁忙”“现在一直系统繁忙”，表现为提取/操作入口长时间不可用，属于明显的风控或平台侧拥堵现象。",
+      "notes": "状态：confirmed；下一步：换时间段重试，或记录失败条件（地区/IP/设备）做对比",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话 / 赴约 / 杉猹花",
+          "nickname_url": "",
+          "time": "2026-08-11 06:04:55",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_db41cf3eb8d8",
+      "key": "渠道/提链||优惠显示规则疑似变化，切日本 ip 不再稳定生效",
+      "topic": "渠道/提链",
+      "title": "优惠显示规则疑似变化，切日本 IP 不再稳定生效",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人发现“现在优惠不是切换ip刷新就有了”，并补充以前“切换日本刷新基本上都有优惠显示”，但现在“很多日本注册的也没有”。另一人反馈“今天美国我的还有，昨天日本没有”，说明优惠展示与注册地区/当前 IP 的关系变弱，且不同地区结果不一致。",
+      "notes": "状态：confirmed；下一步：按地区分别测试美国/日本注册号和不同 IP 刷新是否还能触发优惠",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话 / 偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:43:07",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_419768683d95",
+      "key": "脚本/工具||有工具被标注可触发 0 元优惠",
+      "topic": "脚本/工具",
+      "title": "有工具被标注可触发 0 元优惠",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群里有人 @32291301 提到“有吧我看他们工具都标注0元优惠”，说明可能存在自动化工具或脚本声称可触发 0 元优惠，但未看到实际验证过程。",
+      "notes": "状态：reported；下一步：追问工具名称、适用平台和实测成功率",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 06:50:23",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_e8ff1c6920b5",
+      "key": "账号/服务||群内出现 cdk 出售",
+      "topic": "账号/服务",
+      "title": "群内出现 CDK 出售",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人发“出153cdk”，属于明确的 CDK 出售线索，但未说明具体平台、价格、数量和保证条件。",
+      "notes": "状态：reported；下一步：补问 CDK 对应平台、价格、库存和可用地区",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "人工智能",
+          "nickname_url": "",
+          "time": "2026-08-11 06:32:28",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_ee318dcd8659",
+      "key": "脚本/工具||提到自有注册机",
+      "topic": "脚本/工具",
+      "title": "提到自有注册机",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群成员表示有“自己的注册机”，但未说明支持的平台注册流程、是否可批量、是否带接口/API、成功率、地区限制或售卖/共享条件。",
+      "notes": "状态：reported；下一步：继续追问具体支持的平台、功能和是否可提供演示/测试。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "Syunnrai",
+          "nickname_url": "",
+          "time": "2026-08-11 06:06:44",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_8ff4416da27e",
+      "key": "渠道/提链||确认目标组合为jp+gb，依赖多代理撞注册",
+      "topic": "渠道/提链",
+      "title": "确认目标组合为JP+GB，依赖多代理撞注册",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内先确认目标是JP+GB组合；对代理来源的追问中，答复为“cli和711都有，都放了一些，让他自己撞”，说明当前做法是把多个代理通道混合投放后自动尝试撞注册/撞资格。未见明确成功结果，更多是试跑与排查。",
+      "notes": "状态：confirmed；下一步：继续记录哪组代理更容易出结果，并对比cli与711的命中率/封禁率。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "大力小丸子",
+          "nickname_url": "",
+          "time": "2026-08-11 06:14:03",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_797e52c2547e",
+      "key": "账号/服务||icloud邮箱与“0元资格”流程仅短暂成功一次",
+      "topic": "账号/服务",
+      "title": "iCloud邮箱与“0元资格”流程仅短暂成功一次",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人询问“icloud邮箱？”并反馈“我就成了一次，又不行了”，随后他人追问是否到账，表明当前链路可能只偶发通过一次，之后重复失败。另有“下午起来在搞”“不出号啊”“下午起来就死了”等反馈，说明账号产出不稳定。",
+      "notes": "状态：reported；下一步：补充一次成功时的完整步骤、邮箱类型和失败前后的差异。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "七彩天空",
+          "nickname_url": "",
+          "time": "2026-08-11 06:20:25",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_bc66c3553962",
+      "key": "接码||群内分享便宜接码平台，指向telegram机器人",
+      "topic": "接码",
+      "title": "群内分享便宜接码平台，指向Telegram机器人",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人发出“终于找到一个便宜的接码平台”并给出Telegram机器人链接，随后说明“飞机上的，需要的可以去弄”。这条线索指向可用于接收短信验证码的接码渠道，但未给出价格、地区或可用库存。",
+      "notes": "状态：confirmed；下一步：实际测试该机器人可接收哪些地区/平台验证码，并记录单价与成功率。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 06:21:59",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_0d3984605fcd",
+      "key": "支付/绑卡||支付出单数量与未支付订单堆积，疑似支付链路堵塞",
+      "topic": "支付/绑卡",
+      "title": "支付出单数量与未支付订单堆积，疑似支付链路堵塞",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人反馈“14个 才支付了3个”“还有十几个没支付呢”“34个，要是没资格就睡觉了”“出了多少”“出得多付不过来”等，显示支付侧大量未完成、待支付或待到账订单堆积。群里还提到“gcash就是下午起来就凉了”，说明某个支付/收款方式在下午后失效。",
+      "notes": "状态：reported；下一步：核对支付成功率、未支付原因以及GCash是否为固定失效时段。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "慢热",
+          "nickname_url": "",
+          "time": "2026-08-11 06:27:47",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_eee502f57e60",
+      "key": "脚本/工具||注册机仍在修复，准备让系统继续检测",
+      "topic": "脚本/工具",
+      "title": "注册机仍在修复，准备让系统继续检测",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内明确提到“还在修注册机。等会就让他检测去，我看看能不能成”，说明当前核心问题之一是注册机/自动化工具尚未稳定。前文关于“直卡呀”的讨论被纠正为“不是啊，在跑0元资格啊”，表明工具用途是跑0元资格流程而非单纯直卡。",
+      "notes": "状态：reported；下一步：等注册机修复后复测一次完整流程，并记录报错点是否仍在注册/授权阶段。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:32:06",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_56b2a00e572f",
+      "key": "平台状态||执行失败报错集中在onboardaccount / creatememberaccount阶段",
+      "topic": "平台状态",
+      "title": "执行失败报错集中在onboardAccount / createMemberAccount阶段",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "成员贴出执行失败截图与日志：状态为failed，错误为“Signup failed: no usable access token obtained”，最后错误包含“OAS_ERROR”，检查点为“createMemberAccount”，路径为“onboardAccount”，界面还显示任务状态“执行失败”、到账状态“待检查”、账单国家GB。该报错说明问题不是最终支付，而是注册/授权令牌获取失败。",
+      "notes": "状态：confirmed；下一步：优先排查access token获取链路、账号前置条件及GB环境参数。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "2",
+          "nickname_url": "",
+          "time": "2026-08-11 06:50:31",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_1995b8b7d2ec",
+      "key": "风控/验证||重复尝试后很快失效，疑似风控或资格冷却",
+      "topic": "风控/验证",
+      "title": "重复尝试后很快失效，疑似风控或资格冷却",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "多条反馈出现“我就成了一次，又不行了”“下午起来就死了”“gcash就是下午起来就凉了”“不出号啊”，说明该流程可能存在短时可用、随后被风控或资格冷却的现象。当前未见明确恢复方法。",
+      "notes": "状态：question；下一步：记录首次成功后的间隔时间、IP/代理变化与是否触发验证。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "七彩天空",
+          "nickname_url": "",
+          "time": "2026-08-11 06:20:33",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_fa1736f40af4",
+      "key": "其他||针对“jp+gb”与代理选择的持续试探",
+      "topic": "其他",
+      "title": "针对“jp+gb”与代理选择的持续试探",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "早间多轮对话都围绕“jp+gb吗？”、“哪个代理cliproxy吗？还是啥”展开，说明群内在确认国家/代理组合是否正确；但回复仅停留在“都放了一些，让他自己撞”与后续“我似乎知道原因了，我敲 得试试”等试探性表述，没有给出稳定结论。",
+      "notes": "状态：question；下一步：补充jp+gb组合对应的具体环境要求、代理国家与成功样本。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "七彩天空",
+          "nickname_url": "",
+          "time": "2026-08-11 06:16:25",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_cce01bd459ee",
+      "key": "账号/服务||gbtplus独享未接码成品号上架",
+      "topic": "账号/服务",
+      "title": "GBTPLUS独享未接码成品号上架",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "发布“GBTPLUS独享，未接码成品号”，标注“质保首登”，售价 ¥10.5，指向商品页链接。属于账号/成品号类服务，强调未接码与首登质保。",
+      "notes": "状态：confirmed；下一步：关注该商品是否有首登质保条件、补货与库存变化。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 06:02:22",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_83a259c10b7b",
+      "key": "账号/服务||plus 周额度 icloud 邮箱商品上架",
+      "topic": "账号/服务",
+      "title": "Plus 周额度 iCloud 邮箱商品上架",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "同一商品串中出现“8月4号最新 Plus 周额度-额度量大管饱 已稳定7天-icloud邮箱”，标价 ¥10.76。描述重点是周额度、稳定7天和 iCloud 邮箱属性，属于账号/邮箱服务。",
+      "notes": "状态：confirmed；下一步：留意是否有周额度限制、7天稳定期的续费或补货说明。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 06:22:33",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_5f840a99f6fd",
+      "key": "渠道/提链||群管家推送0.01特价货源店铺",
+      "topic": "渠道/提链",
+      "title": "群管家推送0.01特价货源店铺",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群管家两次@成员推送“新上新0.01特价货源”，统一给出店铺链接 https://pay.ldxp.cn/shop/xt123。可视为固定渠道/提链动作，未附更多商品细节。",
+      "notes": "状态：confirmed；下一步：后续核对该店铺内具体货源类别、价格区间与库存。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "Q群管家",
+          "nickname_url": "",
+          "time": "2026-08-11 06:08:44",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_ef5dcbb3e671",
+      "key": "渠道/提链||同一0.01特价店铺重复曝光",
+      "topic": "渠道/提链",
+      "title": "同一0.01特价店铺重复曝光",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "06:45 再次由群管家@成员推送同一“0.01特价货源”与同一店铺链接，说明该渠道在本小时内重复推广。",
+      "notes": "状态：confirmed；下一步：比对两次推送对应的实际商品是否一致，避免只看到店铺入口。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "Q群管家",
+          "nickname_url": "",
+          "time": "2026-08-11 06:45:09",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_c22d06cced1b",
+      "key": "账号/服务||k12 成品/子号库存为零",
+      "topic": "账号/服务",
+      "title": "K12 成品/子号库存为零",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "ai小头三次查询 k12，均显示“0 个在售结果（价格从低到高）”，说明当前无在售库存。作为参考，已售罄低价条目包括：¥0.10 的 k12 成品 sub2 cpa ot邮箱；¥1.07 的 k12 支持 sub2api 和 cock 反代 K12 成品 新货；¥1.07 的 K12 子号成品 JSON，支持 sub2api / CPA / Cockpit Tools，且“只能反代用”。",
+      "notes": "状态：confirmed；下一步：等候补货或询问是否有同类成品/子号替代。",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-11 06:40:11",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_b1ff8639becd",
+      "key": "收购||plus名额收购",
+      "topic": "收购",
+      "title": "plus名额收购",
+      "kind": "other",
+      "url": "",
+      "file_name": "",
+      "purpose": "以10元收20个plus名额/账号",
+      "notes": "未说明具体平台、地区、交付方式和结算条件",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "星落巡游代理人",
+          "nickname_url": "",
+          "time": "2026-08-11 06:34:44",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_88e65282f691",
+      "key": "卡头/直卡||4513卡头",
+      "topic": "卡头/直卡",
+      "title": "4513卡头",
+      "kind": "card_head",
+      "url": "",
+      "file_name": "",
+      "purpose": "用于开卡/提取相关通道",
+      "notes": "多人确认可用，但称开的人太多，伴随系统繁忙、提不出来、买了不到账等反馈",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话 / 你木有-全球ka🧠",
+          "nickname_url": "",
+          "time": "2026-08-11 06:01:10",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_5011d245595a",
+      "key": "渠道/提链||卡台/联动通道",
+      "topic": "渠道/提链",
+      "title": "卡台/联动通道",
+      "kind": "channel",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内提到的卡台入口",
+      "notes": "仅提到“有卡台”“联动的”，未给出具体入口",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:02:01",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_3f7787aa3d91",
+      "key": "支付||gcash",
+      "topic": "支付",
+      "title": "GCash",
+      "kind": "payment",
+      "url": "",
+      "file_name": "",
+      "purpose": "支付/收款方式",
+      "notes": "群内反馈下午起来就凉了、出单/支付不稳定",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "七彩天空",
+          "nickname_url": "",
+          "time": "2026-08-11 06:21:51",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_73bd355bf4bf",
+      "key": "https://t.me/llililillbot?",
+      "topic": "接码",
+      "title": "便宜接码平台机器人",
+      "kind": "channel",
+      "url": "https://t.me/llIlIlIllbot?",
+      "file_name": "",
+      "purpose": "接收短信验证码",
+      "notes": "Telegram上的接码机器人，群内称“飞机上的，需要的可以去弄”",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 2,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "💋、survivor。℡",
+          "nickname_url": "",
+          "time": "2026-08-11 06:21:59",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_b6efa2230a98",
+      "key": "脚本/工具||自有注册机",
+      "topic": "脚本/工具",
+      "title": "自有注册机",
+      "kind": "tool",
+      "url": "",
+      "file_name": "",
+      "purpose": "用于注册/跑0元资格流程",
+      "notes": "仅提到“自己的注册机”“还在修注册机”，未说明平台与功能",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "Syunnrai",
+          "nickname_url": "",
+          "time": "2026-08-11 06:06:44",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_f8b01a0ae7c1",
+      "key": "脚本/工具||0元优惠工具",
+      "topic": "脚本/工具",
+      "title": "0元优惠工具",
+      "kind": "tool",
+      "url": "",
+      "file_name": "",
+      "purpose": "触发0元优惠",
+      "notes": "群内称工具都标注0元优惠，未给出具体名称",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 06:50:23",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_2e0224c487f5",
+      "key": "文件|7b4c240b-3f13-472e-7090-1b2382f9a450.png|群内截图图片",
+      "topic": "文件",
+      "title": "群内截图图片",
+      "kind": "file",
+      "url": "",
+      "file_name": "7B4C240B-3F13-472E-7090-1B2382F9A450.png",
+      "purpose": "截图参考",
+      "notes": "已达到识图上限，内容未识别",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "情话",
+          "nickname_url": "",
+          "time": "2026-08-11 06:00:01",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_1d420fe99765",
+      "key": "文件|240fe491c3faa3b79699425b4239ec38.png|群内截图图片",
+      "topic": "文件",
+      "title": "群内截图图片",
+      "kind": "file",
+      "url": "",
+      "file_name": "240FE491C3FAA3B79699425B4239EC38.png",
+      "purpose": "截图参考",
+      "notes": "已达到识图上限，内容未识别",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "赴约",
+          "nickname_url": "",
+          "time": "2026-08-11 06:00:11",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_39089837f6cf",
+      "key": "文件|35ccbdaf7e076a951bc9be0257f2d0e7.png|群内截图图片",
+      "topic": "文件",
+      "title": "群内截图图片",
+      "kind": "file",
+      "url": "",
+      "file_name": "35CCBDAF7E076A951BC9BE0257F2D0E7.png",
+      "purpose": "截图参考",
+      "notes": "已达到识图上限，内容未识别",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:02:28",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_a56f346ab2ab",
+      "key": "文件|c940c800d1e4ce40446b452239ba6150.jpg|群内截图图片",
+      "topic": "文件",
+      "title": "群内截图图片",
+      "kind": "file",
+      "url": "",
+      "file_name": "C940C800D1E4CE40446B452239BA6150.jpg",
+      "purpose": "截图参考",
+      "notes": "已达到识图上限，内容未识别",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:33:13",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_e722c78a76b5",
+      "key": "文件|b970d5c234d8e79326c3805fda092f71.png|群内截图图片",
+      "topic": "文件",
+      "title": "群内截图图片",
+      "kind": "file",
+      "url": "",
+      "file_name": "B970D5C234D8E79326C3805FDA092F71.png",
+      "purpose": "截图参考",
+      "notes": "已达到识图上限，内容未识别",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "睡觉开闸，睡醒拉闸",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-11 06:29:48",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_b9c543265969",
+      "key": "文件|36f7b1287a3d453a622b4685159e9e04.png|报错截图",
+      "topic": "文件",
+      "title": "报错截图",
+      "kind": "file",
+      "url": "",
+      "file_name": "36F7B1287A3D453A622B4685159E9E04.png",
+      "purpose": "执行失败报错参考",
+      "notes": "内容未识别，日志提到no usable access token / OAS_ERROR",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "2",
+          "nickname_url": "",
+          "time": "2026-08-11 06:50:45",
+          "report_id": "1427bf0980c5"
+        }
+      ]
+    },
+    {
+      "id": "res_59e3bf9fa009",
+      "key": "文件|07091d04f26ac77238aee07a7776a9db.jpg|商品截图",
+      "topic": "文件",
+      "title": "商品截图",
+      "kind": "file",
+      "url": "",
+      "file_name": "07091D04F26AC77238AEE07A7776A9DB.jpg",
+      "purpose": "商品图参考",
+      "notes": "已达到识图上限，内容未识别",
+      "first_seen": "2026-08-11 07:03:01",
+      "last_seen": "2026-08-11 07:03:01",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "咕咕嘎嘎",
+          "nickname_url": "",
+          "time": "2026-08-11 06:59:30",
+          "report_id": "1427bf0980c5"
+        }
+      ]
     }
   ],
-  "resource_count": 677,
-  "product_count": 405
+  "resource_count": 713,
+  "product_count": 414
 }
