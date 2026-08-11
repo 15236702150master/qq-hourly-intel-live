@@ -24902,6 +24902,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_c07d113262dd",
+      "key": "账号/服务|未接码plus|90个/刚出炉|出售|嘴硬|",
+      "category": "账号/服务",
+      "name": "未接码plus",
+      "variant": "90个/刚出炉",
+      "direction": "出售",
+      "seller": "嘴硬",
+      "seller_url": "",
+      "link": "",
+      "price": 8.0,
+      "price_text": "8打包价",
+      "currency": "CNY",
+      "unit": "打包",
+      "details": "批量库存90个；未说明地区、接码方式、有效期、质保或是否可拆单",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 8.0,
+          "price_text": "8打包价",
+          "currency": "CNY",
+          "unit": "打包",
+          "seen_at": "2026-08-12 05:02:02"
+        }
+      ],
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "嘴硬",
+          "nickname_url": "",
+          "time": "2026-08-12 04:20:44",
+          "report_id": "92f8a54b8848"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_06a48116997b",
       "key": "账号/服务|codex team月权益车位|正规车位，可与plus并存|出售|ai小头|https://pay.ldxp.cn/item/1877rd",
       "category": "账号/服务",
