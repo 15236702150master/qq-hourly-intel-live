@@ -16053,6 +16053,196 @@
       "is_lowest": true
     },
     {
+      "id": "prd_6b1c6421c217",
+      "key": "工具/服务|codex 包月120|每日额度5美元｜周额度30美元｜月额度120美元|出售|-|",
+      "category": "工具/服务",
+      "name": "codex 包月120",
+      "variant": "每日额度5美元｜周额度30美元｜月额度120美元",
+      "direction": "出售",
+      "seller": "-",
+      "seller_url": "",
+      "link": "",
+      "price": 19.0,
+      "price_text": "活动价19元",
+      "currency": "CNY",
+      "unit": "月",
+      "details": "活动价；图片广告转述",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 19.0,
+          "price_text": "活动价19元",
+          "currency": "CNY",
+          "unit": "月",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "-",
+          "nickname_url": "",
+          "time": "2026-08-12 05:52:46",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_de2c5fbb92d8",
+      "key": "工具/服务|codex 包月1200|每日额度50美元｜周额度350美元｜月额度1200美元|出售|-|",
+      "category": "工具/服务",
+      "name": "codex 包月1200",
+      "variant": "每日额度50美元｜周额度350美元｜月额度1200美元",
+      "direction": "出售",
+      "seller": "-",
+      "seller_url": "",
+      "link": "",
+      "price": 199.0,
+      "price_text": "活动价199元",
+      "currency": "CNY",
+      "unit": "月",
+      "details": "活动价；图片广告转述",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 199.0,
+          "price_text": "活动价199元",
+          "currency": "CNY",
+          "unit": "月",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "-",
+          "nickname_url": "",
+          "time": "2026-08-12 05:52:46",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_d7f0002dd154",
+      "key": "工具/服务|codex 50$日卡|每日额度50美元|出售|-|",
+      "category": "工具/服务",
+      "name": "codex 50$日卡",
+      "variant": "每日额度50美元",
+      "direction": "出售",
+      "seller": "-",
+      "seller_url": "",
+      "link": "",
+      "price": 10.0,
+      "price_text": "活动价10元",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "日卡；图片广告转述",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 10.0,
+          "price_text": "活动价10元",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "-",
+          "nickname_url": "",
+          "time": "2026-08-12 05:52:46",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_b8cf4b0a3291",
+      "key": "工具/服务|充值赠送 codex 120$包月套餐|充值100元|出售|-|",
+      "category": "工具/服务",
+      "name": "充值赠送 codex 120$包月套餐",
+      "variant": "充值100元",
+      "direction": "出售",
+      "seller": "-",
+      "seller_url": "",
+      "link": "",
+      "price": 100.0,
+      "price_text": "充值100元送包月120套餐",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "宣称到账100美元；可代站任意模型；可自行创建分组；不限使用时间",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 100.0,
+          "price_text": "充值100元送包月120套餐",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "-",
+          "nickname_url": "",
+          "time": "2026-08-12 05:52:46",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_8a99a1158bd8",
+      "key": "工具/服务|充值赠送 codex 1200$包月套餐|充值500元|出售|-|",
+      "category": "工具/服务",
+      "name": "充值赠送 codex 1200$包月套餐",
+      "variant": "充值500元",
+      "direction": "出售",
+      "seller": "-",
+      "seller_url": "",
+      "link": "",
+      "price": 500.0,
+      "price_text": "充值500元送包月1200套餐",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "宣称到账500美元；可代站任意模型；可自行创建分组；不限使用时间",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 500.0,
+          "price_text": "充值500元送包月1200套餐",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "-",
+          "nickname_url": "",
+          "time": "2026-08-12 05:52:46",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_575db05c6301",
       "key": "已接码账号|已接码|收2个|收购|lock|",
       "category": "已接码账号",
@@ -22328,6 +22518,82 @@
       "is_lowest": false
     },
     {
+      "id": "prd_7389e3f768f1",
+      "key": "账号/服务|plus成品账号|直卡plus｜未接码｜半小时内保首登|出售|ai小头|https://pay.ldxp.cn/item/49s6jr",
+      "category": "账号/服务",
+      "name": "PLUS成品账号",
+      "variant": "直卡PLUS｜未接码｜半小时内保首登",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/49s6jr",
+      "price": 9.9,
+      "price_text": "¥9.90",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存148；8月10日新出；特价货源",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 9.9,
+          "price_text": "¥9.90",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_edfa26430309",
+      "key": "账号/服务|plus成品账号|家宽注册｜未接码｜codex自行接码｜质保首登|出售|ai小头|https://pay.ldxp.cn/item/isqvl9",
+      "category": "账号/服务",
+      "name": "PLUS成品账号",
+      "variant": "家宽注册｜未接码｜codex自行接码｜质保首登",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/isqvl9",
+      "price": 9.9,
+      "price_text": "¥9.90",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存60；特价货源",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 9.9,
+          "price_text": "¥9.90",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_2e402bb249a1",
       "key": "账号/服务|pp|批量出售|出售|hmgo|",
       "category": "账号/服务",
@@ -22594,6 +22860,44 @@
       "is_lowest": false
     },
     {
+      "id": "prd_f799842420ea",
+      "key": "账号/服务|plus成品号|8.11新鲜｜直供｜未接码|出售|ai小头|https://pay.ldxp.cn/item/whhydj",
+      "category": "账号/服务",
+      "name": "PLUS成品号",
+      "variant": "8.11新鲜｜直供｜未接码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/whhydj",
+      "price": 10.45,
+      "price_text": "¥10.45",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存52；特价货源",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 10.45,
+          "price_text": "¥10.45",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_0c496a192b24",
       "key": "账号/服务|gbtplus独享未接码成品号|首登质保|出售|ai小头|https://pay.ldxp.cn/item/7h3m0n",
       "category": "账号/服务",
@@ -22746,6 +23050,82 @@
       "is_lowest": false
     },
     {
+      "id": "prd_98bac221036e",
+      "key": "账号/服务|plus成品号|pp渠道｜icloud邮箱｜家宽注册｜未接码｜质保半小时内首次登录|出售|ai小头|https://pay.ldxp.cn/item/9i92uv",
+      "category": "账号/服务",
+      "name": "PLUS成品号",
+      "variant": "pp渠道｜icloud邮箱｜家宽注册｜未接码｜质保半小时内首次登录",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/9i92uv",
+      "price": 11.25,
+      "price_text": "¥11.25",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存5；特价货源",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.25,
+          "price_text": "¥11.25",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_910990ace58b",
+      "key": "账号/服务|plus账号|icloud plus｜未接码｜已设2fa｜独享|出售|ai小头|https://pay.ldxp.cn/item/yo6d7v",
+      "category": "账号/服务",
+      "name": "PLUS账号",
+      "variant": "icloud PLUS｜未接码｜已设2FA｜独享",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/yo6d7v",
+      "price": 11.58,
+      "price_text": "¥11.58",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存46；8月11日18点左右新出",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 11.58,
+          "price_text": "¥11.58",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_7e4a82127ce1",
       "key": "账号/服务|plus成品号|8.10手搓未接码，icloud邮箱，质保首登|出售|ai小头|https://pay.ldxp.cn/item/shmn5k",
       "category": "账号/服务",
@@ -22817,6 +23197,82 @@
           "nickname_url": "",
           "time": "2026-08-11 14:26:29",
           "report_id": "a9ce603029f4"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_6c085141ec64",
+      "key": "账号/服务|plus额度|周额度｜icloud账密发货｜含2fa|出售|ai小头|https://pay.ldxp.cn/item/ifsy5v",
+      "category": "账号/服务",
+      "name": "PLUS额度",
+      "variant": "周额度｜icloud账密发货｜含2FA",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/ifsy5v",
+      "price": 12.38,
+      "price_text": "¥12.38",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存12；8-7 22点新出；额度量大管饱",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.38,
+          "price_text": "¥12.38",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_f7731a931df4",
+      "key": "账号/服务|plus邮箱直登|未接码｜接码可用codex|出售|ai小头|https://pay.ldxp.cn/item/v9cxz0",
+      "category": "账号/服务",
+      "name": "PLUS邮箱直登",
+      "variant": "未接码｜接码可用codex",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/v9cxz0",
+      "price": 12.6,
+      "price_text": "¥12.60",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存5；特价货源",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 12.6,
+          "price_text": "¥12.60",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
         }
       ],
       "is_lowest": false
@@ -23007,6 +23463,44 @@
           "nickname_url": "",
           "time": "2026-08-11 03:32:33",
           "report_id": "d18517ce3e7a"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_a4e92b20c736",
+      "key": "账号/服务|plus账号|韩国｜icloud邮箱｜保|出售|ai小头|",
+      "category": "账号/服务",
+      "name": "PLUS账号",
+      "variant": "韩国｜icloud邮箱｜保",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 13.65,
+      "price_text": "¥13.65",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存23；售后/“保”范围未完整展示",
+      "first_seen": "2026-08-12 06:02:26",
+      "last_seen": "2026-08-12 06:02:26",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 13.65,
+          "price_text": "¥13.65",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 06:02:26"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 05:10:28",
+          "report_id": "e43964b5fe87"
         }
       ],
       "is_lowest": false
