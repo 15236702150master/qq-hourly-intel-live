@@ -2,13 +2,43 @@
   "topics": [
     {
       "name": "账号/服务",
-      "count": 223,
-      "updated_at": "2026-08-12 04:02:54"
+      "count": 226,
+      "updated_at": "2026-08-12 05:02:02"
     },
     {
       "name": "渠道/提链",
-      "count": 132,
-      "updated_at": "2026-08-12 04:02:54"
+      "count": 134,
+      "updated_at": "2026-08-12 05:02:02"
+    },
+    {
+      "name": "脚本/工具",
+      "count": 118,
+      "updated_at": "2026-08-12 05:02:02"
+    },
+    {
+      "name": "风控/验证",
+      "count": 117,
+      "updated_at": "2026-08-12 05:02:02"
+    },
+    {
+      "name": "卡头/直卡",
+      "count": 51,
+      "updated_at": "2026-08-12 05:02:02"
+    },
+    {
+      "name": "其他",
+      "count": 33,
+      "updated_at": "2026-08-12 05:02:02"
+    },
+    {
+      "name": "渠道/入口",
+      "count": 1,
+      "updated_at": "2026-08-12 05:02:02"
+    },
+    {
+      "name": "支付/结算",
+      "count": 1,
+      "updated_at": "2026-08-12 05:02:02"
     },
     {
       "name": "支付/绑卡",
@@ -16,23 +46,8 @@
       "updated_at": "2026-08-12 04:02:54"
     },
     {
-      "name": "脚本/工具",
-      "count": 117,
-      "updated_at": "2026-08-12 04:02:54"
-    },
-    {
-      "name": "风控/验证",
-      "count": 116,
-      "updated_at": "2026-08-12 04:02:54"
-    },
-    {
       "name": "平台状态",
       "count": 103,
-      "updated_at": "2026-08-12 04:02:54"
-    },
-    {
-      "name": "其他",
-      "count": 32,
       "updated_at": "2026-08-12 04:02:54"
     },
     {
@@ -48,11 +63,6 @@
     {
       "name": "渠道入口",
       "count": 7,
-      "updated_at": "2026-08-12 03:05:01"
-    },
-    {
-      "name": "卡头/直卡",
-      "count": 49,
       "updated_at": "2026-08-12 03:05:01"
     },
     {
@@ -28420,8 +28430,284 @@
           "report_id": "5ddf095fd5ab"
         }
       ]
+    },
+    {
+      "id": "res_5978dcc915e6",
+      "key": "账号/服务||未接码plus批量出货，标价8打包",
+      "topic": "账号/服务",
+      "title": "未接码plus批量出货，标价8打包",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人直接放货：90个未接码plus，称“刚出炉”，给出8的打包价。属于批量账号/服务出售信息，但未说明是否带接码、地区或质保条件。",
+      "notes": "状态：reported；下一步：补问是否可拆单、是否带保、以及具体交付方式",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "嘴硬",
+          "nickname_url": "",
+          "time": "2026-08-12 04:20:44",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_d52247354318",
+      "key": "卡头/直卡||讨论直卡来源，但多方明确排斥直卡",
+      "topic": "卡头/直卡",
+      "title": "讨论直卡来源，但多方明确排斥直卡",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "围绕“什么渠道”后，有人直接判断是直卡；随后又有人表示“直卡不要”，并用“直卡你开的出来么”反问，说明该群对直卡可用性持怀疑态度，且目前更像是批量出号而非稳定可开。",
+      "notes": "状态：confirmed；下一步：继续追问可开的卡头类型和成功率",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "真是华丽",
+          "nickname_url": "",
+          "time": "2026-08-12 04:21:40",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_d90b0e053430",
+      "key": "渠道/提链||kakao/巴西pp等号源被追问，未确认来源",
+      "topic": "渠道/提链",
+      "title": "Kakao/巴西PP等号源被追问，未确认来源",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人追问“啥渠道的号”，随后群内出现“Kakao”“巴西pp”等简短回答，但没有给出完整渠道链路、购买入口或提炼方法，信息停留在号源猜测层面。",
+      "notes": "状态：reported；下一步：确认到底是 Kakao 号、巴西 PP 还是其他平台号源",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "偷点薯条",
+          "nickname_url": "",
+          "time": "2026-08-12 04:23:35",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_531a662e37b1",
+      "key": "渠道/提链||gpt.153.ink 被当作入口询问 cdk 购买",
+      "topic": "渠道/提链",
+      "title": "gpt.153.ink 被当作入口询问 CDK 购买",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人丢出 gpt.153.ink 链接并问“不是这个吗”，随后追问“153cdk哪里买”。回复称页面上“没有”购买入口，另有人说自己忘了从哪里买的，说明该入口可能只是展示页或已失效。",
+      "notes": "状态：question；下一步：回查该站是否有隐藏购买页或历史购买渠道",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "杉猹花",
+          "nickname_url": "",
+          "time": "2026-08-12 04:26:49",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_bdd1e033bae8",
+      "key": "卡头/直卡||当前瓶颈被概括为“缺卡头”",
+      "topic": "卡头/直卡",
+      "title": "当前瓶颈被概括为“缺卡头”",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内明确表示“现在缺的是卡头”“不知道什么卡头能开”，同时还提到不清楚大家用的是哪个平台的直卡提炼，说明当前核心问题不是号量而是卡头/开卡能力。",
+      "notes": "状态：confirmed；下一步：整理可开的卡头清单与对应平台",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "不上岸不改名",
+          "nickname_url": "",
+          "time": "2026-08-12 04:43:39",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_2769a2a6b48f",
+      "key": "风控/验证||韩国线路疑似整体拉闸，优惠也套不了",
+      "topic": "风控/验证",
+      "title": "韩国线路疑似整体拉闸，优惠也套不了",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人问“韩国是不是拉闸了”，随后回复称“好像是全部渠道都拉了，需要改下代码”，并补充“套不了优惠了，要修改一下”。这表明相关链路可能出现统一风控或接口失效，且影响到优惠套用逻辑。",
+      "notes": "状态：reported；下一步：复测韩国相关通道并定位需要改的代码位置",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "s1eep",
+          "nickname_url": "",
+          "time": "2026-08-12 04:52:19",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_9de2b2675133",
+      "key": "脚本/工具||因渠道异常需要改代码适配",
+      "topic": "脚本/工具",
+      "title": "因渠道异常需要改代码适配",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "同一段讨论里明确提到“需要改下代码”“要修改一下”，说明当前问题已影响到脚本/工具层面的自动化流程，不只是单号失效。",
+      "notes": "状态：confirmed；下一步：检查优惠套用与通道判断的代码分支",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "旺",
+          "nickname_url": "",
+          "time": "2026-08-12 04:52:37",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_449b1c54134d",
+      "key": "账号/服务||截图显示邮箱生成并指向 chatgpt/openai checkout",
+      "topic": "账号/服务",
+      "title": "截图显示邮箱生成并指向 ChatGPT/OpenAI checkout",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "有人发截图，内容显示已生成一个 iCloud 邮箱，并出现“PLUS / PH_SHORT”及指向 chatgpt.com/checkout/openai_llc 的链接，像是在用邮箱配合 ChatGPT/OpenAI 结算页做测试或下单准备。",
+      "notes": "状态：confirmed；下一步：确认这是邮箱注册、套餐购买还是结算跳转测试",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "Future",
+          "nickname_url": "",
+          "time": "2026-08-12 04:58:48",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_2da7091531a2",
+      "key": "账号/服务||批量出“未接码plus”库存，打包价8",
+      "topic": "账号/服务",
+      "title": "批量出“未接码plus”库存，打包价8",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群成员称可出90个“未接码plus”，并说明是“刚出炉”的新货，报价为8打包价。未说明具体平台限制、接码状态定义、交付数量拆分、有效期或售后条件。",
+      "notes": "状态：reported；下一步：继续追问是否可分批、是否带质保、支持的地区/平台以及交付方式",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "gpt渠道交流群",
+          "nickname": "嘴硬",
+          "nickname_url": "",
+          "time": "2026-08-12 04:26:34",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_e0da7980f655",
+      "key": "其他||疑似引用豆包求助但图片内容无法读取",
+      "topic": "其他",
+      "title": "疑似引用豆包求助但图片内容无法读取",
+      "kind": "insight",
+      "url": "",
+      "file_name": "",
+      "purpose": "群内先出现“问豆包”，随后发送了两张图片，但图片读取失败，未能提取到可用文字或步骤信息；因此无法确认具体讨论主题，也无法判断是否涉及技术、服务或风控问题。",
+      "notes": "状态：question；下一步：等待原图或补充文字说明后再核实",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "小脑虎 GPT 技术交流群",
+          "nickname": "xd",
+          "nickname_url": "",
+          "time": "2026-08-12 04:31:56",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_25557fd8a88a",
+      "key": "https://gpt.153.ink/",
+      "topic": "渠道/入口",
+      "title": "gpt.153.ink",
+      "kind": "channel",
+      "url": "https://gpt.153.ink/",
+      "file_name": "",
+      "purpose": "被群内当作可能的入口页，用于追问153cdk购买渠道",
+      "notes": "页面被质疑没有购买入口，疑似展示页或已失效",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "杉猹花",
+          "nickname_url": "",
+          "time": "2026-08-12 04:26:49",
+          "report_id": "92f8a54b8848"
+        }
+      ]
+    },
+    {
+      "id": "res_59a1a29e82e5",
+      "key": "https://chatgpt.com/checkout/openai_llc",
+      "topic": "支付/结算",
+      "title": "ChatGPT/OpenAI checkout 页面",
+      "kind": "payment",
+      "url": "https://chatgpt.com/checkout/openai_llc",
+      "file_name": "",
+      "purpose": "用于ChatGPT/OpenAI结算或下单流程测试",
+      "notes": "截图显示已生成iCloud邮箱并指向该结算页，未见完整账号或验证码",
+      "first_seen": "2026-08-12 05:02:02",
+      "last_seen": "2026-08-12 05:02:02",
+      "mentions": 1,
+      "sources": [
+        {
+          "group": "桥云源头提炼",
+          "nickname": "Future",
+          "nickname_url": "",
+          "time": "2026-08-12 04:58:48",
+          "report_id": "92f8a54b8848"
+        }
+      ]
     }
   ],
-  "resource_count": 1183,
-  "product_count": 703
+  "resource_count": 1195,
+  "product_count": 704
 }
