@@ -5723,6 +5723,44 @@
       "is_lowest": false
     },
     {
+      "id": "prd_7f626dafd102",
+      "key": "gpt plus|plus额度|未明|服务报价|采蘑菇的小客服|",
+      "category": "GPT Plus",
+      "name": "Plus额度",
+      "variant": "未明",
+      "direction": "服务报价",
+      "seller": "采蘑菇的小客服",
+      "seller_url": "",
+      "link": "",
+      "price": null,
+      "price_text": "60-120",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "群内讨论额度区间；未明确是否为价格",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": null,
+          "price_text": "60-120",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "采蘑菇的小客服",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:37",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
       "id": "prd_ccad4cd2ccea",
       "key": "gpt plus账号|plus账号|未接码|出售|何方妖孽|",
       "category": "GPT Plus账号",
@@ -7107,6 +7145,272 @@
         }
       ],
       "is_lowest": true
+    },
+    {
+      "id": "prd_96c6d05e400d",
+      "key": "gmail接码|gmail接码|两次码|出售|ai小头|https://pay.ldxp.cn/item/a91r8o",
+      "category": "Gmail接码",
+      "name": "Gmail接码",
+      "variant": "两次码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/a91r8o",
+      "price": 0.55,
+      "price_text": "¥0.55",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存42；OpenAI业务；看清楚商品说明",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.55,
+          "price_text": "¥0.55",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_4e64394e28ba",
+      "key": "gmail账号|非个人gmail账号|未完整显示|出售|ai小头|",
+      "category": "Gmail账号",
+      "name": "非个人Gmail账号",
+      "variant": "未完整显示",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "",
+      "price": 4.95,
+      "price_text": "¥4.95",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存1；商品名后半截被截断",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 4.95,
+          "price_text": "¥4.95",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_a243c1b8b336",
+      "key": "gmail邮箱|gmail邮箱人机号|自接码|出售|ai小头|https://pay.ldxp.cn/item/euct6b",
+      "category": "Gmail邮箱",
+      "name": "Gmail邮箱人机号",
+      "variant": "自接码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/euct6b",
+      "price": 1.1,
+      "price_text": "¥1.10",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存1268；无售后；需自己接码自测",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.1,
+          "price_text": "¥1.10",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_a799c1453ad1",
+      "key": "gmail邮箱|gmail邮箱|质保首登无售后|出售|ai小头|https://pay.ldxp.cn/item/tnlsw7",
+      "category": "Gmail邮箱",
+      "name": "Gmail邮箱",
+      "variant": "质保首登无售后",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/tnlsw7",
+      "price": 4.4,
+      "price_text": "¥4.40",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存1；均已验活",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 4.4,
+          "price_text": "¥4.40",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": false
+    },
+    {
+      "id": "prd_1fa0988d619e",
+      "key": "google/gmail/youtube接码|google/gmail/youtube接码|巴西单次接码|出售|ai小头|https://pay.ldxp.cn/item/3y22yh",
+      "category": "Google/Gmail/YouTube接码",
+      "name": "Google/Gmail/YouTube接码",
+      "variant": "巴西单次接码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/3y22yh",
+      "price": 1.97,
+      "price_text": "¥1.97",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "库存34；业务自测",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.97,
+          "price_text": "¥1.97",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_fdee7b5493d3",
+      "key": "google/gmail/youtube接码|google/gmail/youtube接码|智利单次接码|出售|ai小头|https://pay.ldxp.cn/item/z58hqe",
+      "category": "Google/Gmail/YouTube接码",
+      "name": "Google/Gmail/YouTube接码",
+      "variant": "智利单次接码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/z58hqe",
+      "price": 1.97,
+      "price_text": "¥1.97",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "库存57；业务自测",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.97,
+          "price_text": "¥1.97",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
+      "id": "prd_9ef03fc09d06",
+      "key": "google/gmail/youtube接码|google/gmail/youtube接码|美国实卡一次码|出售|ai小头|https://pay.ldxp.cn/item/njwe0p",
+      "category": "Google/Gmail/YouTube接码",
+      "name": "Google/Gmail/YouTube接码",
+      "variant": "美国实卡一次码",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/njwe0p",
+      "price": 2.19,
+      "price_text": "¥2.19",
+      "currency": "CNY",
+      "unit": "次",
+      "details": "库存14；看清楚商品说明",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 2.19,
+          "price_text": "¥2.19",
+          "currency": "CNY",
+          "unit": "次",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": false
     },
     {
       "id": "prd_5825399a8b78",
@@ -11650,6 +11954,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_efb3c195b284",
+      "key": "openai账号|gmail带2fa稳定版|openai普通账号/白号/free免费账号|出售|ai小头|https://pay.ldxp.cn/item/6paa6g",
+      "category": "OpenAI账号",
+      "name": "Gmail带2FA稳定版",
+      "variant": "OpenAI普通账号/白号/free免费账号",
+      "direction": "出售",
+      "seller": "ai小头",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/item/6paa6g",
+      "price": 1.32,
+      "price_text": "¥1.32",
+      "currency": "CNY",
+      "unit": "个",
+      "details": "库存98；长效微软邮箱交付；高权重家宽；独享号",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 1.32,
+          "price_text": "¥1.32",
+          "currency": "CNY",
+          "unit": "个",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "ai小头",
+          "nickname_url": "",
+          "time": "2026-08-12 20:06:55",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_c4fcc367f944",
       "key": "openai账号|5个号|单个20/打包15|出售|0egaeqwq|",
       "category": "OpenAI账号",
@@ -11685,7 +12027,7 @@
           "report_id": "362dfff9ec91"
         }
       ],
-      "is_lowest": true
+      "is_lowest": false
     },
     {
       "id": "prd_e5def0e296df",
@@ -25967,6 +26309,44 @@
       "is_lowest": true
     },
     {
+      "id": "prd_fa67df66a3bc",
+      "key": "服务器|服务器|普通|出售|小小海|",
+      "category": "服务器",
+      "name": "服务器",
+      "variant": "普通",
+      "direction": "出售",
+      "seller": "小小海",
+      "seller_url": "",
+      "link": "",
+      "price": 5.0,
+      "price_text": "5元服务器",
+      "currency": "CNY",
+      "unit": "台",
+      "details": "仅提到“又又5元服务器了”，无更多规格",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 5.0,
+          "price_text": "5元服务器",
+          "currency": "CNY",
+          "unit": "台",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "小小海",
+          "nickname_url": "",
+          "time": "2026-08-12 20:00:49",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
+    },
+    {
       "id": "prd_9ae38f1b2bf2",
       "key": "服务报价|扫码代付|提炼后扫码支付|服务报价|未知|",
       "category": "服务报价",
@@ -35989,6 +36369,44 @@
         }
       ],
       "is_lowest": false
+    },
+    {
+      "id": "prd_ca62bab2ba48",
+      "key": "货源|特价货源|0.01特价|出售|q群管家|https://pay.ldxp.cn/shop/xt123",
+      "category": "货源",
+      "name": "特价货源",
+      "variant": "0.01特价",
+      "direction": "出售",
+      "seller": "Q群管家",
+      "seller_url": "",
+      "link": "https://pay.ldxp.cn/shop/xt123",
+      "price": 0.01,
+      "price_text": "0.01特价货源",
+      "currency": "CNY",
+      "unit": "件",
+      "details": "未注明具体品类",
+      "first_seen": "2026-08-12 21:02:58",
+      "last_seen": "2026-08-12 21:02:58",
+      "mentions": 1,
+      "price_history": [
+        {
+          "price": 0.01,
+          "price_text": "0.01特价货源",
+          "currency": "CNY",
+          "unit": "件",
+          "seen_at": "2026-08-12 21:02:58"
+        }
+      ],
+      "sources": [
+        {
+          "group": "ai交流群002",
+          "nickname": "Q群管家",
+          "nickname_url": "",
+          "time": "2026-08-12 20:01:14",
+          "report_id": "5b7d469383eb"
+        }
+      ],
+      "is_lowest": true
     },
     {
       "id": "prd_839715c87ed8",
