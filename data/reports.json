@@ -4195,5 +4195,16 @@
     "group_count": 0,
     "markdown": "# QQ 群小时简报\n\n## 总览\n本小时没有新增有效情报。\n\n## 覆盖状态\n- 机器人尚未加入这些白名单群，无法采集：1058651939",
     "resource_topics": []
+  },
+  {
+    "id": "550c26fefd81",
+    "created_at": "2026-08-20 12:00:00",
+    "period_start": "2026-08-20 11:00:00",
+    "period_end": "2026-08-20 12:00:00",
+    "title": "QQ 群小时简报",
+    "message_count": 0,
+    "group_count": 0,
+    "markdown": "# QQ 群小时简报\n\n## 总览\n本小时没有新增有效情报。\n\n## 覆盖状态\n- 机器人尚未加入这些白名单群，无法采集：1058651939",
+    "resource_topics": []
   }
 ]
